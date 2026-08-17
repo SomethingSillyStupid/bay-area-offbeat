@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-17T21:37:55Z",
+  "timezone": "America/Los_Angeles",
+  "events": [
+    {
+      "id": "evt_aeef179a8f45730c",
+      "title": "QWOCMAP: Queer Black August Film Screening",
+      "starts_at": "2026-08-21T18:00:00-07:00",
+      "ends_at": "2026-08-21T20:30:00-07:00",
+      "all_day": false,
+      "city": "Oakland",
+      "neighborhood": null,
+      "price_note": "Free; RSVP requested",
+      "official_url": "https://www.eastsideartsalliance.org/calendar/qwocmap-film-fridays-queer-black-august-film-screening",
+      "source_name": "EastSide Arts Alliance",
+      "why": "A free, captioned community film night with real local texture—considerably more alive than letting the evening turn into a streaming queue.",
+      "tags": [
+        "film",
+        "community",
+        "Oakland"
+      ],
+      "radar": false,
+      "last_verified_at": "2026-08-17T21:37:55Z"
+    },
+    {
+      "id": "evt_183e9968f24aec47",
+      "title": "Merope w/ Shahzad Ismaily + David Wesley Golightly",
+      "starts_at": "2026-08-28T20:00:00-07:00",
+      "ends_at": "2026-08-28T23:00:00-07:00",
+      "all_day": false,
+      "city": "San Francisco",
+      "neighborhood": null,
+      "price_note": "$23 / free or discounted for members",
+      "official_url": "https://www.thelab.org/projects/2026/8/28/merope-w-shahzad-ismaily-david-wesley-golightly",
+      "source_name": "The Lab",
+      "why": "Baltic folk forms, experimental guitar, and a local opener at The Lab: a neatly strange route out of the usual Friday loop.",
+      "tags": [
+        "experimental music",
+        "ambient folk",
+        "San Francisco"
+      ],
+      "radar": false,
+      "last_verified_at": "2026-08-17T21:37:55Z"
+    }
+  ]
+}

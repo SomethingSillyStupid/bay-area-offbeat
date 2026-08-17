@@ -1,0 +1,2 @@
+# Dated public event-payload snapshots are created here by scripts/publish_daily.py.
+# The current feed remains data/current.json; provenance stays private outside this repo.

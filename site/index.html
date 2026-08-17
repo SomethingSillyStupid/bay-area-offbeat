@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Bay Area Offbeat</title>
+  <meta name="description" content="A short, selective guide to unusual events around the Bay Area.">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to recommendations</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <p class="eyebrow">A selective local guide</p>
+      <h1>Bay Area Offbeat</h1>
+      <p class="promise">A short list of unusual things worth leaving the house for.</p>
+      <p class="scope">
+        Independent picks from around San Francisco, the East Bay, and nearby corners.
+        Event details can change; check with the organizers before heading out.
+      </p>
+      <p class="updated">Updated <time id="updated-at">from the latest guide</time></p>
+    </div>
+  </header>
+
+  <main id="main-content" tabindex="-1">
+    <div id="load-status" class="load-status" role="status" aria-live="polite">
+      Loading the latest recommendations…
+    </div>
+
+    <noscript>
+      <div class="notice notice-error">
+        <p>JavaScript is needed to render these recommendations.</p>
+        <p><a href="data/current.json">Read the current event data as JSON</a>.</p>
+      </div>
+    </noscript>
+
+    <section id="this-week" class="guide-section" aria-labelledby="this-week-title">
+      <div class="section-heading">
+        <p class="section-number" aria-hidden="true">01</p>
+        <div>
+          <h2 id="this-week-title">This week</h2>
+          <p>The rest of this Pacific week, through Sunday.</p>
+        </div>
+      </div>
+      <div id="this-week-events" class="event-groups"></div>
+    </section>
+
+    <section id="next-week" class="guide-section" aria-labelledby="next-week-title">
+      <div class="section-heading">
+        <p class="section-number" aria-hidden="true">02</p>
+        <div>
+          <h2 id="next-week-title">Next week</h2>
+          <p>A look at the following Monday through Sunday.</p>
+        </div>
+      </div>
+      <div id="next-week-events" class="event-groups"></div>
+    </section>
+
+    <section id="radar" class="guide-section" aria-labelledby="radar-title">
+      <div class="section-heading">
+        <p class="section-number" aria-hidden="true">03</p>
+        <div>
+          <h2 id="radar-title">On the radar</h2>
+          <p>Later dates that merit a little advance notice.</p>
+        </div>
+      </div>
+      <div id="radar-events" class="event-list"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Small list, human reasons, official details.</p>
+    <p><a href="data/current.json">View the current guide data</a></p>
+  </footer>
+</body>
+</html>

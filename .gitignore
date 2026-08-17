@@ -1,0 +1,27 @@
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Local build output
+/dist/
+.front-end-preview-*/
+
+# Local/private staging and runtime state
+offbeat-staging/
+private/
+*.lock
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

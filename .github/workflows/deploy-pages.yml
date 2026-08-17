@@ -1,0 +1,57 @@
+name: Deploy Bay Area Offbeat to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: bay-area-offbeat-pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Compile-check deterministic scripts
+        run: PYTHONPYCACHEPREFIX=/tmp/offbeat-pycache python -m py_compile scripts/*.py
+
+      - name: Run validation and build tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Validate canonical public event data
+        run: python scripts/validate_events.py data/current.json
+
+      - name: Build static Pages artifact
+        run: python scripts/build_site.py --input data/current.json --out dist
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
