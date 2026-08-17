@@ -9,8 +9,9 @@ This is deliberately not a comprehensive event calendar. It favors small venues,
 1. Private discovery gathers RSS, newsletters, community calendars, and targeted research leads.
 2. Each recommendation is independently checked against a current organizer, venue, or ticket page.
 3. A deterministic validator rejects empty, expired, stale, duplicate, malformed, unsafe, or insufficiently verified public records.
-4. After shadow-mode parity passes, the same validated JSON will render this site and the daily Bay Area Offbeat email.
-5. The public page groups events in `America/Los_Angeles` as:
+4. The existing daily curator performs that research once. In private shadow mode, a restricted draft is normalized into canonical JSON, then the deterministic email renderer and site-publisher dry run consume that same payload; there is no second site-research agent.
+5. After shadow-mode parity passes and public publication is explicitly enabled, the same validated JSON will render this site and the daily Bay Area Offbeat email.
+6. The public page groups events in `America/Los_Angeles` as:
    - This week (Monday–Sunday)
    - Next week (Monday–Sunday)
    - On the radar (selectively chosen farther-out events)

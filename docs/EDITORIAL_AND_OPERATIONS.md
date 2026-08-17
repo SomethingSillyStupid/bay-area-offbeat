@@ -80,7 +80,9 @@ Git history provides a straightforward code/data rollback, but a new validated c
 
 ## Automation status
 
-The original daily email remains independent during the initial shadow period. Before automatic public writes are enabled, each shadow run must create a private candidate and demonstrate title/date/link/ID parity between the email and the site rendering.
+The original daily email runs through one curator job during the initial shadow period; no second site-research job is permitted. The job creates a restricted private draft, derives canonical JSON with deterministic IDs, validates it, renders the email preview from that exact payload, and runs the site publisher in dry-run mode. It does not commit, push, or change the public site.
+
+Three successive private runs must demonstrate title/date/link/count parity between the deterministic email preview and candidate payload before automatic public writes can be considered. A failed draft, validation, or dry-run gate leaves the public site unchanged; the established email can still be sent only from a successfully validated candidate.
 
 To pause future public publishing without interrupting the email, pause only the dedicated site-publisher job once it exists. Do not disable the established email collector/curator job as a substitute.
 
