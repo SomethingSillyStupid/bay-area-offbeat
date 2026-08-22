@@ -82,9 +82,9 @@ Git history provides a straightforward code/data rollback, but a new validated c
 
 The original daily email runs through one curator job during the initial shadow period; no second site-research job is permitted. The repository supports a restricted shadow sequence that creates a private draft, derives canonical JSON with deterministic IDs, validates it, renders the email preview from that exact payload, and invokes `stage_daily_candidate.py --publisher-dry-run`. That explicit flag writes a private `publisher-dry-run.json` receipt only when the isolated publisher passes without committing or pushing. A cron must not claim a publisher dry run unless it invoked that flag and read the passing receipt.
 
-The currently deployed cron has not yet been switched into this shadow sequence. Until its prompt and pre-run script are changed in an approved follow-up, it must not be treated as a site publisher.
+The scheduled daily job `5b08e6700274` now runs this private shadow sequence through `/root/.hermes/scripts/bay_area_offbeat_shadow_collect.py`: it creates the restricted draft, validates canonical JSON, renders and send-proofs the deterministic email, and invokes `stage_daily_candidate.py --publisher-dry-run`. It must never call the non-dry-run publisher, commit, push, or change Pages during shadow mode.
 
-Three successive private runs must demonstrate title/date/link/count parity between the deterministic email preview and candidate payload before automatic public writes can be considered. A failed draft, validation, or dry-run gate leaves the public site unchanged; the established email can still be sent only from a successfully validated candidate.
+Three successive shadow runs must demonstrate title/date/link/count parity between the deterministic email preview and candidate payload before automatic public writes can be considered. A failed draft, validation, sender, or dry-run gate leaves the public site unchanged; the established email can still be sent only from a successfully validated candidate.
 
 To pause future public publishing without interrupting the email, pause only the dedicated site-publisher job once it exists. Do not disable the established email collector/curator job as a substitute.
 
