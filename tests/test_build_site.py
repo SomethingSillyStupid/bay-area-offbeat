@@ -24,6 +24,8 @@ class BuildSiteTests(unittest.TestCase):
             ),
             "styles.css": "body {}\n",
             "app.js": 'fetch("data/current.json");\n',
+            "robots.txt": "User-agent: *\nAllow: /\n",
+            "sitemap.xml": "<?xml version=\"1.0\"?><urlset></urlset>\n",
         }
         for filename, content in contents.items():
             (site / filename).write_text(content, encoding="utf-8")
@@ -365,6 +367,8 @@ class BuildSiteTests(unittest.TestCase):
                 ),
                 "styles.css": "body { color: white; }\n",
                 "app.js": 'fetch("data/current.json");\n',
+                "robots.txt": "User-agent: *\nAllow: /\n",
+                "sitemap.xml": "<?xml version=\"1.0\"?><urlset></urlset>\n",
             }
             for filename, content in site_contents.items():
                 (site / filename).write_text(content, encoding="utf-8")
@@ -404,7 +408,14 @@ class BuildSiteTests(unittest.TestCase):
             )
             self.assertEqual(
                 files,
-                ["app.js", "data/current.json", "index.html", "styles.css"],
+                [
+                    "app.js",
+                    "data/current.json",
+                    "index.html",
+                    "robots.txt",
+                    "sitemap.xml",
+                    "styles.css",
+                ],
             )
             for filename, content in site_contents.items():
                 self.assertEqual(
@@ -436,6 +447,10 @@ class BuildSiteTests(unittest.TestCase):
             (site / "styles.css").write_text("body {}\n", encoding="utf-8")
             (site / "app.js").write_text(
                 'fetch("data/current.json");\n', encoding="utf-8"
+            )
+            (site / "robots.txt").write_text("User-agent: *\nAllow: /\n", encoding="utf-8")
+            (site / "sitemap.xml").write_text(
+                "<?xml version=\"1.0\"?><urlset></urlset>\n", encoding="utf-8"
             )
             input_path = fixture_root / "events.json"
             input_path.write_text('{"events": []}\n', encoding="utf-8")

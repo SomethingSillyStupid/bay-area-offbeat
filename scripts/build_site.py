@@ -12,7 +12,7 @@ from pathlib import Path
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-SITE_FILES = ("index.html", "styles.css", "app.js")
+SITE_FILES = ("index.html", "styles.css", "app.js", "robots.txt", "sitemap.xml")
 
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:

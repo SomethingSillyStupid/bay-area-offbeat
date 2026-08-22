@@ -1,47 +1,187 @@
 {
-  "schema_version": 1,
-  "generated_at": "2026-08-17T21:37:55Z",
-  "timezone": "America/Los_Angeles",
   "events": [
     {
-      "id": "evt_aeef179a8f45730c",
-      "title": "QWOCMAP: Queer Black August Film Screening",
-      "starts_at": "2026-08-21T18:00:00-07:00",
-      "ends_at": "2026-08-21T20:30:00-07:00",
       "all_day": false,
       "city": "Oakland",
+      "ends_at": "2026-08-22T16:30:00-07:00",
+      "id": "evt_8feaa5246d178423",
+      "last_verified_at": "2026-08-21T23:23:35Z",
       "neighborhood": null,
-      "price_note": "Free; RSVP requested",
-      "official_url": "https://www.eastsideartsalliance.org/calendar/qwocmap-film-fridays-queer-black-august-film-screening",
+      "official_url": "https://www.eastsideartsalliance.org/calendar/cso-xicano-moratorium-film-panel-discussion-of20-years-y-que-20th-national-chicano-moratorium-commemoration-1990",
+      "price_note": "Free; light refreshments provided",
+      "radar": false,
       "source_name": "EastSide Arts Alliance",
-      "why": "A free, captioned community film night with real local texture—considerably more alive than letting the evening turn into a streaming queue.",
+      "starts_at": "2026-08-22T14:00:00-07:00",
       "tags": [
         "film",
         "community",
         "Oakland"
       ],
-      "radar": false,
-      "last_verified_at": "2026-08-17T21:37:55Z"
+      "title": "CSO Oakland: Xicano Moratorium Film Screening + Panel Discussion",
+      "why": "A focused local history and organizing program whose film and live panel connect a specific archival record to a current community conversation."
     },
     {
-      "id": "evt_183e9968f24aec47",
-      "title": "Merope w/ Shahzad Ismaily + David Wesley Golightly",
-      "starts_at": "2026-08-28T20:00:00-07:00",
-      "ends_at": "2026-08-28T23:00:00-07:00",
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-08-28T21:00:00-07:00",
+      "id": "evt_bad954c64b9f4991",
+      "last_verified_at": "2026-08-21T23:23:35Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/i7enbwgp1lfpw9g06ghzpvgmo80bvl",
+      "price_note": null,
+      "radar": false,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-08-28T17:00:00-07:00",
+      "tags": [
+        "film",
+        "community",
+        "Oakland"
+      ],
+      "title": "Black August Film Screening: The Strike",
+      "why": "Not a generic screening: it pairs the prison-hunger-strike documentary with a panel, community dinner, healing sessions, letter writing, and live performance."
+    },
+    {
       "all_day": false,
       "city": "San Francisco",
-      "neighborhood": null,
-      "price_note": "$23 / free or discounted for members",
+      "ends_at": "2026-08-28T23:00:00-07:00",
+      "id": "evt_183e9968f24aec47",
+      "last_verified_at": "2026-08-21T23:23:35Z",
+      "neighborhood": "Mission",
       "official_url": "https://www.thelab.org/projects/2026/8/28/merope-w-shahzad-ismaily-david-wesley-golightly",
+      "price_note": "$23; free or discounted for members",
+      "radar": false,
       "source_name": "The Lab",
-      "why": "Baltic folk forms, experimental guitar, and a local opener at The Lab: a neatly strange route out of the usual Friday loop.",
+      "starts_at": "2026-08-28T20:00:00-07:00",
       "tags": [
         "experimental music",
         "ambient folk",
         "San Francisco"
       ],
+      "title": "Merope w/ Shahzad Ismaily + David Wesley Golightly",
+      "why": "Lithuanian folk forms, experimental guitar, and an Oakland composer returning to acoustic piano make this a properly sidelong Friday-night option."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-08-29T17:00:00-07:00",
+      "id": "evt_b14def78b4eab34a",
+      "last_verified_at": "2026-08-21T23:23:35Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/8jbgrczysv8n463gejelc5vgj9zpvv",
+      "price_note": "RSVP available",
       "radar": false,
-      "last_verified_at": "2026-08-17T21:37:55Z"
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-08-29T12:00:00-07:00",
+      "tags": [
+        "community",
+        "music",
+        "Oakland"
+      ],
+      "title": "Xicana Moratorium Block Party",
+      "why": "A neighborhood public program with local vendors, music, live art, radio, and a solid line from historical commemoration to present-day community work."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_964869a933cad4ad",
+      "last_verified_at": "2026-08-21T23:23:35Z",
+      "neighborhood": null,
+      "official_url": "https://centerfornewmusic.com/event/2x2-kevin-corcoran-james-fei-jacob-felix-heule-bill-hsu/",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Center for New Music",
+      "starts_at": "2026-09-12T19:30:00-07:00",
+      "tags": [
+        "experimental music",
+        "improvisation",
+        "San Francisco"
+      ],
+      "title": "2×2: Kevin Corcoran, James Fei, Jacob Felix Heule, Bill Hsu",
+      "why": "A percussion duo, electronics duo, then quartet in one compact bill—well aimed at listeners who like texture and instrument abuse over verse-chorus business."
+    },
+    {
+      "all_day": false,
+      "city": "Richmond",
+      "ends_at": "2026-10-20T20:00:00-07:00",
+      "id": "evt_4f91752d5b622617",
+      "last_verified_at": "2026-08-21T23:23:35Z",
+      "neighborhood": null,
+      "official_url": "https://blog.archive.org/2026/08/17/registration-is-now-open-for-internet-archives-annual-celebration/",
+      "price_note": "Registration available",
+      "radar": true,
+      "source_name": "Internet Archive",
+      "starts_at": "2026-10-20T18:00:00-07:00",
+      "tags": [
+        "media archaeology",
+        "archives",
+        "East Bay"
+      ],
+      "title": "Doors Open: Go Behind the Scenes at the Physical Archive",
+      "why": "A rare after-hours route into the physical archive's books, records, microfiche, film, and video collections—catnip for the local media-archaeology contingent."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-09-19T17:00:00-07:00",
+      "id": "evt_b3c4b14979997202",
+      "last_verified_at": "2026-08-22T01:11:55Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/community-archiving-day",
+      "price_note": "RSVP available",
+      "radar": true,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-09-19T11:00:00-07:00",
+      "tags": [
+        "archives",
+        "community",
+        "Oakland"
+      ],
+      "title": "Black, Brown and Indigenous Artists, Healers & Educators Community Archiving Day",
+      "why": "A hands-on community archive day centered on preserving local knowledge and practices before they disappear into somebody else's footnotes."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-09-24T23:00:00-07:00",
+      "id": "evt_aa50d145c35358cf",
+      "last_verified_at": "2026-08-22T01:11:55Z",
+      "neighborhood": "Mission",
+      "official_url": "https://www.thelab.org/projects/2026/9/24/san-francisco-electronic-music-festival-night-1-rrose-idhaz-and-emily-bouton-blevin-blectum",
+      "price_note": "$23; free or discounted for members",
+      "radar": true,
+      "source_name": "The Lab",
+      "starts_at": "2026-09-24T20:00:00-07:00",
+      "tags": [
+        "electronic music",
+        "experimental",
+        "San Francisco"
+      ],
+      "title": "San Francisco Electronic Music Festival Night 1: Rrose, Idhaz and Emily Bouton, Blevin Blectum",
+      "why": "The festival's 25th-anniversary opener puts Rrose on The Lab's multichannel sound array alongside a violin/electronics duo and Blevin Blectum—exactly the kind of strange signal worth following."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-09T20:00:00-07:00",
+      "id": "evt_61fdc4060b715aee",
+      "last_verified_at": "2026-08-22T01:11:55Z",
+      "neighborhood": "Mission",
+      "official_url": "https://www.thelab.org/projects/2026/10/9/leila-weefur-the-chapel-of-becoming",
+      "price_note": "Free; opening reception 5–8pm",
+      "radar": true,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-09T17:00:00-07:00",
+      "tags": [
+        "installation",
+        "video",
+        "San Francisco"
+      ],
+      "title": "Leila Weefur: The Chapel of Becoming — opening reception",
+      "why": "An architectural installation built from video, ceramic tiles, and trans* anarchitecture—not a background gallery stop, more a place to spend time with."
     }
-  ]
+  ],
+  "generated_at": "2026-08-22T01:11:55Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
 }

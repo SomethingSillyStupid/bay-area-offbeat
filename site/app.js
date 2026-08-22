@@ -4,6 +4,7 @@ const DATA_URL = "data/current.json";
 const PACIFIC_TIME_ZONE = "America/Los_Angeles";
 const EXPECTED_SCHEMA_VERSION = 1;
 const CANONICAL_EVENT_ID = /^evt_[0-9a-f]{16}$/;
+const MAX_EDITION_AGE_MS = 36 * 60 * 60 * 1000;
 
 const pacificDateParts = new Intl.DateTimeFormat("en-US", {
   timeZone: PACIFIC_TIME_ZONE,
@@ -43,6 +44,13 @@ function parseInstant(value) {
     throw new Error("Invalid event date");
   }
   return parsed;
+}
+
+function assertFreshTimestamp(value, label, nowMs) {
+  const timestamp = parseInstant(value).getTime();
+  if (!Number.isFinite(nowMs) || nowMs - timestamp > MAX_EDITION_AGE_MS) {
+    throw new Error(`${label} is stale`);
+  }
 }
 
 function calendarDateFromInstant(value) {
@@ -157,7 +165,7 @@ function safeOfficialUrl(value) {
   return parsed;
 }
 
-function validateEvent(event) {
+function validateEvent(event, nowMs) {
   if (!event || typeof event !== "object" || Array.isArray(event)) {
     throw new Error("Invalid event record");
   }
@@ -176,7 +184,8 @@ function validateEvent(event) {
     !isNonEmptyString(event.why) ||
     !Array.isArray(event.tags) ||
     !event.tags.every(isNonEmptyString) ||
-    typeof event.radar !== "boolean"
+    typeof event.radar !== "boolean" ||
+    !isNonEmptyString(event.last_verified_at)
   ) {
     throw new Error("Event record does not match the expected schema");
   }
@@ -192,9 +201,10 @@ function validateEvent(event) {
     }
   }
   safeOfficialUrl(event.official_url);
+  assertFreshTimestamp(event.last_verified_at, "Event verification", nowMs);
 }
 
-function validateDocument(documentValue) {
+function validateDocument(documentValue, nowMs) {
   if (!documentValue || typeof documentValue !== "object" || Array.isArray(documentValue)) {
     throw new Error("Event data must be an object");
   }
@@ -204,14 +214,14 @@ function validateDocument(documentValue) {
   if (!isNonEmptyString(documentValue.generated_at)) {
     throw new Error("Event data has no generation time");
   }
-  parseInstant(documentValue.generated_at);
+  assertFreshTimestamp(documentValue.generated_at, "Edition", nowMs);
   if (documentValue.timezone !== PACIFIC_TIME_ZONE) {
     throw new Error("Event data uses an unexpected timezone");
   }
   if (!Array.isArray(documentValue.events)) {
     throw new Error("Event data has no event list");
   }
-  documentValue.events.forEach(validateEvent);
+  documentValue.events.forEach((event) => validateEvent(event, nowMs));
   return documentValue;
 }
 
@@ -254,21 +264,39 @@ function appendSchedule(container, event) {
   }
 }
 
-function createEventCard(event, headingLevel) {
+function createEventRow(event, headingLevel) {
   const article = document.createElement("article");
-  article.className = "event-card";
+  article.className = "event-row";
 
   const schedule = document.createElement("p");
   schedule.className = "event-schedule";
   appendSchedule(schedule, event);
   article.append(schedule);
 
+  const body = document.createElement("div");
+  body.className = "event-row-body";
+
+  const topline = document.createElement("div");
+  topline.className = "event-row-topline";
   const title = document.createElement(`h${headingLevel}`);
   title.className = "event-title";
   title.textContent = event.title;
-  article.append(title);
+  topline.append(title);
 
-  const location = document.createElement("p");
+  const detailsLine = document.createElement("p");
+  detailsLine.className = "event-details";
+  const details = document.createElement("a");
+  details.href = safeOfficialUrl(event.official_url).href;
+  details.target = "_blank";
+  details.rel = "noopener noreferrer";
+  details.textContent = `Details — ${event.source_name}`;
+  detailsLine.append(details);
+  topline.append(detailsLine);
+  body.append(topline);
+
+  const meta = document.createElement("p");
+  meta.className = "event-meta";
+  const location = document.createElement("span");
   location.className = "event-location";
   const locationParts = [];
   if (event.neighborhood) {
@@ -276,14 +304,15 @@ function createEventCard(event, headingLevel) {
   }
   locationParts.push(event.city);
   location.textContent = locationParts.join(" · ");
-  article.append(location);
+  meta.append(location);
 
   if (event.price_note) {
-    const price = document.createElement("p");
+    const price = document.createElement("span");
     price.className = "event-price";
     price.textContent = event.price_note;
-    article.append(price);
+    meta.append(price);
   }
+  body.append(meta);
 
   const why = document.createElement("p");
   why.className = "event-why";
@@ -293,7 +322,7 @@ function createEventCard(event, headingLevel) {
   const whyText = document.createElement("span");
   whyText.textContent = event.why;
   why.append(whyLabel, whyText);
-  article.append(why);
+  body.append(why);
 
   if (event.tags.length > 0) {
     const tags = document.createElement("ul");
@@ -304,19 +333,10 @@ function createEventCard(event, headingLevel) {
       item.textContent = tag;
       tags.append(item);
     }
-    article.append(tags);
+    body.append(tags);
   }
 
-  const detailsLine = document.createElement("p");
-  detailsLine.className = "event-details";
-  const details = document.createElement("a");
-  details.href = safeOfficialUrl(event.official_url).href;
-  details.target = "_blank";
-  details.rel = "noopener noreferrer";
-  details.textContent = `Details — ${event.source_name}`;
-  detailsLine.append(details);
-  article.append(detailsLine);
-
+  article.append(body);
   return article;
 }
 
@@ -349,7 +369,7 @@ function renderGroupedEvents(container, events) {
     const cards = document.createElement("div");
     cards.className = "event-list";
     for (const event of dateEvents) {
-      cards.append(createEventCard(event, 4));
+      cards.append(createEventRow(event, 4));
     }
     group.append(cards);
     container.append(group);
@@ -363,7 +383,7 @@ function renderRadarEvents(container, events) {
     return;
   }
   for (const event of events) {
-    container.append(createEventCard(event, 3));
+    container.append(createEventRow(event, 3));
   }
 }
 
@@ -375,7 +395,7 @@ function showError() {
   status.setAttribute("aria-live", "assertive");
 
   const message = document.createElement("p");
-  message.textContent = "We couldn’t load this edition. The event data is unavailable or doesn’t match the expected format.";
+  message.textContent = "We couldn’t load a current edition. The event data is unavailable, expired, or doesn’t match the expected format.";
   const recovery = document.createElement("p");
   recovery.append("You can ");
   const dataLink = document.createElement("a");
@@ -405,6 +425,7 @@ function renderGuide(documentValue) {
 }
 
 function loadGuide() {
+  const nowMs = Date.now();
   return fetch(DATA_URL, {
     headers: { Accept: "application/json" },
     cache: "no-cache",
@@ -415,7 +436,7 @@ function loadGuide() {
       }
       return response.json();
     })
-    .then(validateDocument)
+    .then((documentValue) => validateDocument(documentValue, nowMs))
     .then(renderGuide)
     .catch(() => {
       showError();
@@ -424,6 +445,7 @@ function loadGuide() {
 
 const BayAreaOffbeat = Object.freeze({
   parseInstant,
+  assertFreshTimestamp,
   calendarDateFromInstant,
   addCalendarDays,
   calendarKey,
@@ -431,6 +453,8 @@ const BayAreaOffbeat = Object.freeze({
   compareEvents,
   classifyEvents,
   formatUpdatedAt,
+  validateDocument,
+  validateEvent,
 });
 
 if (typeof globalThis !== "undefined") {

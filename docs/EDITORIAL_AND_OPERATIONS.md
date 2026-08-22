@@ -34,7 +34,7 @@ python3 scripts/render_email.py --input data/current.json --json
 python3 scripts/build_site.py --input data/current.json --out dist
 ```
 
-The validator rejects malformed, excessively nested, or empty data; duplicate JSON object members; unexpected fields; unsafe text; invalid URL/date records; expired records; duplicate records; editorial takes over 280 characters; more than six tags; stale payloads or source-verification timestamps (older than 36 hours); verification timestamps later than their payload generation time; and invalid week/radar placement. Public timestamps must use browser-compatible canonical ISO-8601 form: `YYYY-MM-DDTHH:MM:SS[.sss](Z|±HH:MM)` and be safely convertible to both UTC and Pacific time. Equal `starts_at` values sort by the validated ASCII event ID in both renderers, never locale-dependent title collation. The renderer is presentation-only; it does not bless data on its own.
+The validator rejects malformed, excessively nested, or empty data; duplicate JSON object members; unexpected fields; unsafe text; invalid URL/date records; expired records; duplicate records; editorial takes over 280 characters; more than six tags; stale payloads or source-verification timestamps (older than 36 hours); verification timestamps later than their payload generation time; and invalid week/radar placement. Public timestamps must use browser-compatible canonical ISO-8601 form: `YYYY-MM-DDTHH:MM:SS[.sss](Z|±HH:MM)` and be safely convertible to both UTC and Pacific time. Equal `starts_at` values sort by the validated ASCII event ID in both renderers, never locale-dependent title collation. The renderer is presentation-only; it does not bless data on its own. The browser independently hides an edition that exceeds the same 36-hour freshness budget.
 
 ## Safe manual preview
 
@@ -80,7 +80,9 @@ Git history provides a straightforward code/data rollback, but a new validated c
 
 ## Automation status
 
-The original daily email runs through one curator job during the initial shadow period; no second site-research job is permitted. The job creates a restricted private draft, derives canonical JSON with deterministic IDs, validates it, renders the email preview from that exact payload, and runs the site publisher in dry-run mode. It does not commit, push, or change the public site.
+The original daily email runs through one curator job during the initial shadow period; no second site-research job is permitted. The repository supports a restricted shadow sequence that creates a private draft, derives canonical JSON with deterministic IDs, validates it, renders the email preview from that exact payload, and invokes `stage_daily_candidate.py --publisher-dry-run`. That explicit flag writes a private `publisher-dry-run.json` receipt only when the isolated publisher passes without committing or pushing. A cron must not claim a publisher dry run unless it invoked that flag and read the passing receipt.
+
+The currently deployed cron has not yet been switched into this shadow sequence. Until its prompt and pre-run script are changed in an approved follow-up, it must not be treated as a site publisher.
 
 Three successive private runs must demonstrate title/date/link/count parity between the deterministic email preview and candidate payload before automatic public writes can be considered. A failed draft, validation, or dry-run gate leaves the public site unchanged; the established email can still be sent only from a successfully validated candidate.
 

@@ -1,5 +1,8 @@
 from __future__ import annotations
 
+import contextlib
+import importlib
+import io
 import json
 import os
 import subprocess
@@ -7,6 +10,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -14,6 +18,9 @@ SCRIPT = ROOT / "scripts" / "stage_daily_candidate.py"
 FIXTURE = ROOT / "tests" / "fixtures" / "valid_document.json"
 GENERATED_AT = "2026-08-13T23:00:00Z"
 NOW = "2026-08-13T23:00:01Z"
+
+sys.path.insert(0, str(ROOT / "scripts"))
+stage = importlib.import_module("stage_daily_candidate")
 
 
 def valid_draft() -> dict[str, list[dict[str, object]]]:
@@ -89,6 +96,88 @@ class StageDailyCandidateTests(unittest.TestCase):
         preview = json.loads((self.run_dir / "email.json").read_text(encoding="utf-8"))
         self.assertIn("Midnight Typewriter Picnic", preview["body"])
         self.assertEqual(preview["counts"], {"this_week": 1, "next_week": 0, "radar": 0})
+
+    def test_publisher_dry_run_uses_the_exact_private_candidate_and_expected_repository(self) -> None:
+        candidate_path = self.run_dir / "candidate.json"
+        candidate_path.write_text(json.dumps(valid_draft()), encoding="utf-8")
+        expected_report = {
+            "published": False,
+            "dry_run": True,
+            "message": "dry run passed",
+        }
+        captured: list[list[str]] = []
+
+        def fake_run(arguments: list[str]) -> tuple[int, dict[str, object]]:
+            captured.append(arguments)
+            return 0, expected_report
+
+        with patch.object(stage, "run_json_command", side_effect=fake_run):
+            report = stage.run_publisher_dry_run(candidate_path, NOW)
+
+        self.assertEqual(report, expected_report)
+        self.assertEqual(
+            captured,
+            [
+                [
+                    sys.executable,
+                    str(ROOT / "scripts" / "publish_daily.py"),
+                    "--input",
+                    str(candidate_path),
+                    "--repo",
+                    str(ROOT),
+                    "--dry-run",
+                    "--now",
+                    NOW,
+                ]
+            ],
+        )
+
+    def test_publisher_dry_run_rejects_a_nonpassing_or_malformed_report(self) -> None:
+        candidate_path = self.run_dir / "candidate.json"
+        candidate_path.write_text(json.dumps(valid_draft()), encoding="utf-8")
+
+        with patch.object(
+            stage,
+            "run_json_command",
+            return_value=(1, {"published": False, "message": "publisher failed"}),
+        ):
+            with self.assertRaisesRegex(stage.StageError, "publisher dry run failed"):
+                stage.run_publisher_dry_run(candidate_path, NOW)
+
+    def test_explicit_publisher_dry_run_writes_a_private_receipt_only_after_success(self) -> None:
+        self.write_draft(valid_draft())
+        expected_report = {
+            "published": False,
+            "dry_run": True,
+            "message": "dry run passed",
+        }
+        arguments = [
+            "--draft",
+            str(self.draft_path),
+            "--run-dir",
+            str(self.run_dir),
+            "--staging-root",
+            str(self.staging_root),
+            "--generated-at",
+            GENERATED_AT,
+            "--now",
+            NOW,
+            "--publisher-dry-run",
+        ]
+
+        with patch.object(stage, "run_publisher_dry_run", return_value=expected_report):
+            output = io.StringIO()
+            with contextlib.redirect_stdout(output):
+                exit_code = stage.main(arguments)
+
+        self.assertEqual(exit_code, 0)
+        report = json.loads(output.getvalue())
+        self.assertEqual(report["status"], "shadow_publish_dry_run_passed")
+        self.assertTrue(report["publisher_dry_run"])
+        self.assertEqual(
+            json.loads((self.run_dir / "publisher-dry-run.json").read_text(encoding="utf-8")),
+            expected_report,
+        )
 
     def test_unexpected_private_draft_field_is_rejected_without_creating_candidate(self) -> None:
         draft = valid_draft()

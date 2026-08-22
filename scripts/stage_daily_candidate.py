@@ -25,6 +25,12 @@ from validate_events import deterministic_event_id
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_STAGING_ROOT = Path.home() / ".hermes" / "offbeat-staging"
+PUBLISHER = REPO_ROOT / "scripts" / "publish_daily.py"
+PUBLISHER_DRY_RUN_SUCCESS = {
+    "published": False,
+    "dry_run": True,
+    "message": "dry run passed",
+}
 DRAFT_EVENT_FIELDS = frozenset(
     {
         "title",
@@ -77,6 +83,11 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument(
         "--now",
         help="optional validator time, used only for deterministic test/recovery runs",
+    )
+    parser.add_argument(
+        "--publisher-dry-run",
+        action="store_true",
+        help="exercise the isolated site publisher without committing or pushing",
     )
     return parser.parse_args(argv)
 
@@ -224,6 +235,29 @@ def run_json_command(arguments: list[str]) -> tuple[int, dict[str, Any] | None]:
     return result.returncode, payload if isinstance(payload, dict) else None
 
 
+def run_publisher_dry_run(candidate_path: Path, now: str | None) -> dict[str, Any]:
+    """Exercise the real publisher without allowing a public repository write."""
+    arguments = [
+        sys.executable,
+        str(PUBLISHER),
+        "--input",
+        str(candidate_path),
+        "--repo",
+        str(REPO_ROOT),
+        "--dry-run",
+    ]
+    if now:
+        arguments.extend(["--now", now])
+    publisher_exit, publisher_report = run_json_command(arguments)
+    if (
+        publisher_exit != 0
+        or publisher_report is None
+        or publisher_report != PUBLISHER_DRY_RUN_SUCCESS
+    ):
+        raise StageError("publisher dry run failed")
+    return publisher_report
+
+
 def rejected(message: str, run_dir: Path | None = None) -> int:
     report: dict[str, object] = {"status": "rejected", "message": message}
     if run_dir is not None:
@@ -277,9 +311,20 @@ def main(argv: list[str] | None = None) -> int:
             return rejected("email preview failed", run_dir)
         atomic_write_json(run_dir / "email.json", preview)
 
+        if args.publisher_dry_run:
+            atomic_write_json(
+                run_dir / "publisher-dry-run.json",
+                run_publisher_dry_run(candidate_path, args.now),
+            )
+
         report: dict[str, object] = {
-            "status": "ready_for_shadow_publish_dry_run",
+            "status": (
+                "shadow_publish_dry_run_passed"
+                if args.publisher_dry_run
+                else "ready_for_shadow_publish_dry_run"
+            ),
             "public_publish": False,
+            "publisher_dry_run": args.publisher_dry_run,
             "event_count": len(candidate["events"]),
             "event_ids": [event["id"] for event in candidate["events"]],
             "candidate_sha256": hashlib.sha256(candidate_path.read_bytes()).hexdigest(),

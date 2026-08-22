@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://somethingsillystupid.github.io/bay-area-offbeat/sitemap.xml
