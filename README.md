@@ -10,7 +10,7 @@ This is deliberately not a comprehensive event calendar. It favors small venues,
 2. Each recommendation is independently checked against a current organizer, venue, or ticket page.
 3. A deterministic validator rejects empty, expired, stale, duplicate, malformed, unsafe, or insufficiently verified public records.
 4. The existing daily curator performs that research once. In private shadow mode, a restricted draft is normalized into canonical JSON, then the deterministic email renderer and the explicit `stage_daily_candidate.py --publisher-dry-run` gate consume that same payload; there is no second site-research agent.
-5. After shadow-mode parity passes and public publication is explicitly enabled, the same validated JSON will render this site and the daily Bay Area Offbeat email.
+5. After validation, deterministic email send-proof, and safe Git publication checks pass, the same validated JSON renders this site and the daily Bay Area Offbeat email.
 6. The public page groups events in `America/Los_Angeles` as:
    - This week (Monday–Sunday)
    - Next week (Monday–Sunday)
@@ -43,4 +43,4 @@ GitHub Actions builds and deploys only the static `dist/` artifact to GitHub Pag
 
 The browser also refuses an edition older than the same 36-hour freshness budget enforced by the Python validator, so an unattended stale payload does not keep rendering old recommendations.
 
-The initial data workflow runs in private shadow mode before daily public updates are enabled. For the exact editorial rules, safe preview/publish procedure, correction path, and pause policy, see [docs/EDITORIAL_AND_OPERATIONS.md](docs/EDITORIAL_AND_OPERATIONS.md).
+The daily pipeline researches once, stages private evidence, and fails closed before either email or public data changes. For the exact editorial rules, safe preview/publish procedure, correction path, and pause policy, see [docs/EDITORIAL_AND_OPERATIONS.md](docs/EDITORIAL_AND_OPERATIONS.md).

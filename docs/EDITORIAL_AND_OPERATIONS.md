@@ -80,13 +80,11 @@ Git history provides a straightforward code/data rollback, but a new validated c
 
 ## Automation status
 
-The original daily email runs through one curator job during the initial shadow period; no second site-research job is permitted. The repository supports a restricted shadow sequence that creates a private draft, derives canonical JSON with deterministic IDs, validates it, renders the email preview from that exact payload, and invokes `stage_daily_candidate.py --publisher-dry-run`. That explicit flag writes a private `publisher-dry-run.json` receipt only when the isolated publisher passes without committing or pushing. A cron must not claim a publisher dry run unless it invoked that flag and read the passing receipt.
+The original daily email runs through one curator job; no second site-research job is permitted. It creates a restricted private draft, derives canonical JSON with deterministic IDs, validates it, renders the email preview from that exact payload, and invokes `stage_daily_candidate.py --publisher-dry-run`. That explicit flag writes a private `publisher-dry-run.json` receipt only when the isolated publisher passes without committing or pushing.
 
-The scheduled daily job `5b08e6700274` now runs this private shadow sequence through `/root/.hermes/scripts/bay_area_offbeat_shadow_collect.py`: it creates the restricted draft, validates canonical JSON, renders and send-proofs the deterministic email, and invokes `stage_daily_candidate.py --publisher-dry-run`. It must never call the non-dry-run publisher, commit, push, or change Pages during shadow mode.
+The scheduled daily job `5b08e6700274` runs this sequence through `/root/.hermes/scripts/bay_area_offbeat_shadow_collect.py`, then sends the deterministic email through the private sender with duplicate suppression and Sent-folder proof. Only after that proof does it invoke `publish_daily.py` with the exact same private candidate. The publisher repeats validation/build/test gates in an isolated worktree and can stage only public data paths before a normal non-force push.
 
-Three successive shadow runs must demonstrate title/date/link/count parity between the deterministic email preview and candidate payload before automatic public writes can be considered. A failed draft, validation, sender, or dry-run gate leaves the public site unchanged; the established email can still be sent only from a successfully validated candidate.
-
-To pause future public publishing without interrupting the email, pause only the dedicated site-publisher job once it exists. Do not disable the established email collector/curator job as a substitute.
+A failed draft, validation, sender, or publisher gate leaves the public site unchanged. A verified email followed by publisher failure must not be resent automatically; the next daily run creates a fresh candidate. To temporarily pause public publishing while retaining the email, return the cron prompt to its `--publisher-dry-run` shadow stop rather than pausing the whole daily job.
 
 ## Local verification suite
 
