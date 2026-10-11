@@ -1,0 +1,175 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": null,
+      "id": "evt_fa95b4a2d5ab977b",
+      "last_verified_at": "2026-10-11T14:08:53Z",
+      "neighborhood": null,
+      "official_url": "https://berkhistory.org/2026/09/21/sunday-october-11-230-pm-author-talk-and-book-launch-with-jacqueline-barber/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Berkeley Historical Society & Museum",
+      "starts_at": "2026-10-11T14:30:00-07:00",
+      "tags": [
+        "local history",
+        "author talk",
+        "East Bay"
+      ],
+      "title": "Author Talk and Book Launch with Jacqueline Barber",
+      "why": "A hyperlocal West Berkeley time machine: one block, working-class and immigrant lives from 1900–1950, plus time with the On the Waterfront exhibit."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-15T23:00:00-07:00",
+      "id": "evt_347b64d7fd4327cb",
+      "last_verified_at": "2026-10-11T14:08:53Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/10/15/the-tenses-mshr-sung-kim",
+      "price_note": "$17; free or discounted for members.",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-15T20:00:00-07:00",
+      "tags": [
+        "experimental music",
+        "sound art",
+        "synthesizers",
+        "live electronics"
+      ],
+      "title": "The Tenses + MSHR + Sung Kim",
+      "why": "MSHR's virtual-acoustic-feedback Negative Flower meets cassette relics, homemade instruments, and a Portland underground archive: more circuit ritual than concert."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-10-16T21:30:00-07:00",
+      "id": "evt_c17cdb10e10790fe",
+      "last_verified_at": "2026-10-11T14:08:53Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/film-fridays-wood-street",
+      "price_note": "Free community event; food and refreshments provided.",
+      "radar": false,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-10-16T19:00:00-07:00",
+      "tags": [
+        "documentary",
+        "Oakland",
+        "community arts",
+        "post-screening talk"
+      ],
+      "title": "FILM FRIDAYS: WOOD STREET",
+      "why": "A local documentary about the Wood Street encampment's fight against eviction, followed by a filmmaker and community panel at a genuinely neighborhood-rooted arts space."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-17T17:00:00-07:00",
+      "id": "evt_c073c03817f7f529",
+      "last_verified_at": "2026-10-11T14:08:53Z",
+      "neighborhood": null,
+      "official_url": "https://luma.com/rae67vry",
+      "price_note": null,
+      "radar": false,
+      "source_name": "DWeb",
+      "starts_at": "2026-10-17T10:00:00-07:00",
+      "tags": [
+        "decentralized web",
+        "open web",
+        "hacker culture",
+        "coworking"
+      ],
+      "title": "DWeb Build Session",
+      "why": "A real open-web working room: quiet focus space, project collaboration, and a group check-in for people building outside the standard platform feed."
+    },
+    {
+      "all_day": false,
+      "city": "Richmond",
+      "ends_at": "2026-10-20T20:00:00-07:00",
+      "id": "evt_b821ead2fb44a0f8",
+      "last_verified_at": "2026-10-11T14:08:53Z",
+      "neighborhood": null,
+      "official_url": "https://eventbrite.com/e/1997613506773/",
+      "price_note": "Free.",
+      "radar": true,
+      "source_name": "Internet Archive",
+      "starts_at": "2026-10-20T18:00:00-07:00",
+      "tags": [
+        "media archaeology",
+        "archives",
+        "Internet Archive",
+        "behind the scenes"
+      ],
+      "title": "Doors Open 2026: Go Behind–the-Scenes at the Physical Archive",
+      "why": "A behind-the-scenes tour of the Internet Archive's physical vaults, with books, records, film, video, microfiche, and preservation machinery in the mix."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-24T23:30:00-07:00",
+      "id": "evt_2102c2457023ef7e",
+      "last_verified_at": "2026-10-11T14:08:53Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/10/24/tyondai-braxton",
+      "price_note": "$23 advance / $25 door; free or discounted for members.",
+      "radar": true,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-24T20:30:00-07:00",
+      "tags": [
+        "experimental music",
+        "modular synth",
+        "sound art",
+        "electroacoustic"
+      ],
+      "title": "Tyondai Braxton + Matt Robidoux",
+      "why": "A Battles cofounder's electronic collage meets Robidoux's touch-controlled aluminum-corn modular system: rigorous, handmade, and pleasingly absurd."
+    },
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": "2026-10-31T09:00:00-07:00",
+      "id": "evt_fb9a8d0a642b155e",
+      "last_verified_at": "2026-10-11T14:08:53Z",
+      "neighborhood": "Tilden Park",
+      "official_url": "https://berkeleypaths.org/upcoming-events/2025/11/1/sunrise-hike-in-tilden-park-fnfe9",
+      "price_note": "No dogs on this route.",
+      "radar": true,
+      "source_name": "Berkeley Path Wanderers Association",
+      "starts_at": "2026-10-31T06:15:00-07:00",
+      "tags": [
+        "outdoor walk",
+        "sunrise",
+        "Tilden Park",
+        "East Bay"
+      ],
+      "title": "Sunrise Hike in Tilden Park",
+      "why": "A before-dawn climb to Wildcat Peak with city lights, a thermos break, and sunrise from the East Bay hills—an actual minor expedition."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_dd07c838346a42a2",
+      "last_verified_at": "2026-10-11T14:08:53Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://tickets.grayarea.org/events/01a035dd-e455-89a2-5128-509f0715237d",
+      "price_note": "General admission $0–$25.",
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "machine art",
+        "bioart",
+        "robotics",
+        "generative sound",
+        "cybernetics"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "Natural Intelligence made literal: microorganisms and plants drive robots, lights, sound, and a breathalyzer pipe organ—the exact Mondo-to-SRL side alley."
+    }
+  ],
+  "generated_at": "2026-10-11T14:10:07Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
