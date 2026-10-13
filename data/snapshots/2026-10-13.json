@@ -1,0 +1,182 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-15T23:00:00-07:00",
+      "id": "evt_347b64d7fd4327cb",
+      "last_verified_at": "2026-10-13T14:09:31Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/10/15/the-tenses-mshr-sung-kim",
+      "price_note": "$17; free or discounted for members",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-15T20:00:00-07:00",
+      "tags": [
+        "experimental music",
+        "sound art",
+        "handmade instruments",
+        "noise"
+      ],
+      "title": "The Tenses + MSHR + Sung Kim",
+      "why": "Smegma veterans, MSHR's feedback-and-sculpture system, and Sung Kim's handmade instruments make this a rare live-machine/noise room."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-10-16T21:30:00-07:00",
+      "id": "evt_c17cdb10e10790fe",
+      "last_verified_at": "2026-10-13T14:09:31Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/film-fridays-wood-street",
+      "price_note": "Free community event; food and refreshments provided",
+      "radar": false,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-10-16T19:00:00-07:00",
+      "tags": [
+        "documentary",
+        "community film",
+        "panel discussion",
+        "free"
+      ],
+      "title": "FILM FRIDAYS: WOOD STREET",
+      "why": "An Oakland-made documentary about Wood Street's displaced encampment, followed by the filmmaker and community members in conversation."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-18T14:00:00-07:00",
+      "id": "evt_83fea8e94c38ec3a",
+      "last_verified_at": "2026-10-13T14:09:31Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://grayarea.org/event/cybersentics-book-club-october-2026/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Gray Area",
+      "starts_at": "2026-10-18T12:00:00-07:00",
+      "tags": [
+        "cybernetics",
+        "telepresence",
+        "new media",
+        "book club",
+        "art and technology"
+      ],
+      "title": "Cybersentics Book Club October 2026: Here/There",
+      "why": "A direct Deliria2-calibration hit: early telepresence art, cyborg and cybernetics inquiry, and a makers-and-researchers reading room."
+    },
+    {
+      "all_day": false,
+      "city": "Richmond",
+      "ends_at": "2026-10-20T20:00:00-07:00",
+      "id": "evt_6da56f1f4f60e468",
+      "last_verified_at": "2026-10-13T14:09:31Z",
+      "neighborhood": null,
+      "official_url": "https://blog.archive.org/event/doors-open-2026-go-behind-the-scenes-at-the-physical-archive/",
+      "price_note": "$10",
+      "radar": false,
+      "source_name": "Internet Archive",
+      "starts_at": "2026-10-20T18:00:00-07:00",
+      "tags": [
+        "media archaeology",
+        "archives",
+        "digitization",
+        "film preservation",
+        "tour"
+      ],
+      "title": "Doors Open 2026: Go Behind-the-Scenes at the Physical Archive",
+      "why": "A behind-the-scenes passage through digitization, microfiche, climate control, and the lived machinery of preservation."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-22T21:00:00-07:00",
+      "id": "evt_1aa82d76720a0e04",
+      "last_verified_at": "2026-10-13T14:09:31Z",
+      "neighborhood": "Fort Mason",
+      "official_url": "https://longnow.org/talks/02026-thurston-aguera-y-arcas/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Long Now",
+      "starts_at": "2026-10-22T19:00:00-07:00",
+      "tags": [
+        "intelligence",
+        "philosophy",
+        "ecology",
+        "technology",
+        "Long Now"
+      ],
+      "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+      "why": "A non-pitchy, long-horizon conversation on intelligence, symbiosis, ecology, and how our new tools co-create us."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-24T23:30:00-07:00",
+      "id": "evt_2102c2457023ef7e",
+      "last_verified_at": "2026-10-13T14:09:31Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/10/24/tyondai-braxton",
+      "price_note": "$23 advance / $25 door; free or discounted for members",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-24T20:30:00-07:00",
+      "tags": [
+        "electronic music",
+        "sound art",
+        "modular synth",
+        "experimental music",
+        "performance"
+      ],
+      "title": "Tyondai Braxton + Matt Robidoux",
+      "why": "Electroacoustic work with Braxton's experimental electronics and Robidoux's touch-controlled aluminum-corn modular instrument."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-05T21:00:00-08:00",
+      "id": "evt_a51e54f859b6878f",
+      "last_verified_at": "2026-10-13T14:09:31Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/11/5/marjorie-keller-intimate-observer",
+      "price_note": "$15; free or discounted for members",
+      "radar": true,
+      "source_name": "The Lab",
+      "starts_at": "2026-11-05T19:00:00-08:00",
+      "tags": [
+        "experimental film",
+        "16mm",
+        "feminist film",
+        "film history",
+        "screening"
+      ],
+      "title": "Marjorie Keller: Intimate Observer",
+      "why": "A compact, curator-led encounter with a major feminist experimental filmmaker, on 8mm and 16mm traces of private life and inquiry."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-10-13T14:09:31Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "machine art",
+        "robotics",
+        "bioart",
+        "sound art",
+        "interactive installation",
+        "Gray Area"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "The clearest upcoming Deliria2-style bet: live bacteria, plant, and crustacean signals drive robots, sound, lights, and a breathalyzer organ."
+    }
+  ],
+  "generated_at": "2026-10-13T14:11:17Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
