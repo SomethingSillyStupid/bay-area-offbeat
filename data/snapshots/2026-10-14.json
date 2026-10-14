@@ -1,0 +1,155 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-15T23:00:00-07:00",
+      "id": "evt_7e53199135e67e01",
+      "last_verified_at": "2026-10-14T14:07:16Z",
+      "neighborhood": "Mission",
+      "official_url": "https://www.thelab.org/projects/2026/10/15/the-tenses-mshr-sung-kim",
+      "price_note": "$17; free or discounted for members",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-15T20:30:00-07:00",
+      "tags": [
+        "experimental music",
+        "sound art",
+        "art-tech",
+        "performance"
+      ],
+      "title": "The Tenses + MSHR + Sung Kim",
+      "why": "MSHR’s sculptural-feedback improvisation meets a tape-recorder-and-synth Portland underground duo, with handmade string constructions opening."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-10-16T21:30:00-07:00",
+      "id": "evt_c17cdb10e10790fe",
+      "last_verified_at": "2026-10-14T14:07:16Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/film-fridays-wood-street",
+      "price_note": "Free; food and refreshments provided",
+      "radar": false,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-10-16T19:00:00-07:00",
+      "tags": [
+        "documentary film",
+        "community",
+        "Oakland",
+        "panel"
+      ],
+      "title": "FILM FRIDAYS: WOOD STREET",
+      "why": "A free East Oakland documentary screening about the Wood Street encampment, followed by a filmmaker-and-community panel."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-17T17:00:00-07:00",
+      "id": "evt_c073c03817f7f529",
+      "last_verified_at": "2026-10-14T14:07:16Z",
+      "neighborhood": null,
+      "official_url": "https://luma.com/rae67vry",
+      "price_note": "Registration required",
+      "radar": false,
+      "source_name": "DWeb",
+      "starts_at": "2026-10-17T10:00:00-07:00",
+      "tags": [
+        "decentralized web",
+        "hacker community",
+        "coworking"
+      ],
+      "title": "DWeb Build Session",
+      "why": "A low-key decentralized-web coworking day: build with others in focused or discussion rooms, then reconvene for project updates."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-18T14:00:00-07:00",
+      "id": "evt_83fea8e94c38ec3a",
+      "last_verified_at": "2026-10-14T14:07:16Z",
+      "neighborhood": "Mission",
+      "official_url": "https://grayarea.org/event/cybersentics-book-club-october-2026/",
+      "price_note": "RSVP required",
+      "radar": false,
+      "source_name": "Gray Area",
+      "starts_at": "2026-10-18T12:00:00-07:00",
+      "tags": [
+        "cybernetics",
+        "telepresence",
+        "media archaeology",
+        "book club",
+        "art-tech"
+      ],
+      "title": "Cybersentics Book Club October 2026: Here/There",
+      "why": "An exact-fit hybrid reading on 1970s telepresence art, cybernetics, embodied interfaces, and collaboration across distance."
+    },
+    {
+      "all_day": false,
+      "city": "Richmond",
+      "ends_at": "2026-10-20T20:00:00-07:00",
+      "id": "evt_3b8f34c0fd44b63e",
+      "last_verified_at": "2026-10-14T14:07:16Z",
+      "neighborhood": null,
+      "official_url": "https://www.eventbrite.com/e/1997613506773/",
+      "price_note": "Registration required",
+      "radar": false,
+      "source_name": "Internet Archive",
+      "starts_at": "2026-10-20T18:00:00-07:00",
+      "tags": [
+        "media archaeology",
+        "archives",
+        "film preservation",
+        "behind the scenes"
+      ],
+      "title": "Doors Open 2026: Go Behind–the-Scenes at the Physical Archive",
+      "why": "A rare after-hours look at physical books, records, microfiche, film, and video moving through preservation and digitization."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-24T23:30:00-07:00",
+      "id": "evt_2102c2457023ef7e",
+      "last_verified_at": "2026-10-14T14:07:16Z",
+      "neighborhood": "Mission",
+      "official_url": "https://www.thelab.org/projects/2026/10/24/tyondai-braxton",
+      "price_note": "$23 advance; $25 door; free or discounted for members",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-24T20:30:00-07:00",
+      "tags": [
+        "electroacoustic",
+        "experimental music",
+        "instrument invention",
+        "sound art"
+      ],
+      "title": "Tyondai Braxton + Matt Robidoux",
+      "why": "Electroacoustic composer Tyondai Braxton meets Matt Robidoux’s touch-controlled aluminum corn-synth system for a properly odd sound night."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-10-14T14:07:16Z",
+      "neighborhood": "Mission",
+      "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+      "price_note": "Tickets available",
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "machine art",
+        "bio-art",
+        "robotics",
+        "generative sound",
+        "interactive art"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "Live bio-art and machine performance: bacteria, plants, and ostracods drive custom electronics, sound, lights, and robots in real time."
+    }
+  ],
+  "generated_at": "2026-10-14T14:08:45Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
