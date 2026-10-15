@@ -1,0 +1,172 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-15T23:00:00-07:00",
+      "id": "evt_7e53199135e67e01",
+      "last_verified_at": "2026-10-15T14:06:23Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/10/15/the-tenses-mshr-sung-kim",
+      "price_note": "$17; free or discounted for members",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-15T20:30:00-07:00",
+      "tags": [
+        "experimental music",
+        "sound art",
+        "interactive systems"
+      ],
+      "title": "The Tenses + MSHR + Sung Kim",
+      "why": "A rare collision of archival noise, sculptural feedback systems, handmade instruments, and old underground tape culture."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-10-16T21:30:00-07:00",
+      "id": "evt_c17cdb10e10790fe",
+      "last_verified_at": "2026-10-15T14:06:23Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/film-fridays-wood-street",
+      "price_note": "Free; RSVP requested",
+      "radar": false,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-10-16T19:00:00-07:00",
+      "tags": [
+        "film",
+        "Oakland",
+        "community"
+      ],
+      "title": "Film Fridays: Wood Street",
+      "why": "A free Oakland documentary screening and panel that treats displacement as local history still being fought over."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-10-18T00:00:00-07:00",
+      "id": "evt_3a575d624c56a8e6",
+      "last_verified_at": "2026-10-15T14:06:23Z",
+      "neighborhood": null,
+      "official_url": "https://themade.org/en/event/event-dead-internet-theory-imac-lan-party",
+      "price_note": "Pay what you can; $10 suggested donation",
+      "radar": false,
+      "source_name": "Museum of Art and Digital Entertainment",
+      "starts_at": "2026-10-17T20:00:00-07:00",
+      "tags": [
+        "media archaeology",
+        "game art",
+        "obsolete futures",
+        "Oakland"
+      ],
+      "title": "Dead Internet Theory: iMac LAN Party",
+      "why": "The exact media-archaeology sweet spot: restored iMac G3s, strange games, installations, and actual humans reclaiming early-web weirdness."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-18T14:00:00-07:00",
+      "id": "evt_83fea8e94c38ec3a",
+      "last_verified_at": "2026-10-15T14:06:23Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://grayarea.org/event/cybersentics-book-club-october-2026/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Gray Area",
+      "starts_at": "2026-10-18T12:00:00-07:00",
+      "tags": [
+        "cybernetics",
+        "telepresence",
+        "media archaeology",
+        "Deliria2 vibe"
+      ],
+      "title": "Cybersentics Book Club October 2026: Here/There",
+      "why": "Telepresence art, cybernetics, and early networked performance in the room that most directly echoes the Deliria2 benchmark."
+    },
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": "2026-10-19T18:30:00-07:00",
+      "id": "evt_188ee853ba1f7857",
+      "last_verified_at": "2026-10-15T14:06:23Z",
+      "neighborhood": "UC Berkeley",
+      "official_url": "https://events.berkeley.edu/event/325580-the-promise-and-pitfalls-of-inclusive-design-and-disa",
+      "price_note": "Free; RSVP requested",
+      "radar": false,
+      "source_name": "Berkeley Center for New Media",
+      "starts_at": "2026-10-19T17:00:00-07:00",
+      "tags": [
+        "critical technology",
+        "accessibility",
+        "open culture",
+        "Berkeley"
+      ],
+      "title": "The Promise and Pitfalls of Inclusive Design and Disability Technology feat. Jutta Treviranus and Liz Henry",
+      "why": "A critical, non-hype conversation on disability tech, repairable assistive tools, open culture, and AI's bias toward the average."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-21T22:00:00-07:00",
+      "id": "evt_7176ae0425f1d42d",
+      "last_verified_at": "2026-10-15T14:06:23Z",
+      "neighborhood": null,
+      "official_url": "https://eventbrite.com/e/1998015902349",
+      "price_note": "Few tickets left; registration required",
+      "radar": false,
+      "source_name": "Internet Archive",
+      "starts_at": "2026-10-21T17:00:00-07:00",
+      "tags": [
+        "open web",
+        "media preservation",
+        "public records"
+      ],
+      "title": "Democracy's Library: Tools for Participation",
+      "why": "A rare public archive-house gathering about saving, using, and building with shared digital history and public records."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-24T23:30:00-07:00",
+      "id": "evt_2102c2457023ef7e",
+      "last_verified_at": "2026-10-15T14:06:23Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/10/24/tyondai-braxton",
+      "price_note": "$23 advance / $25 door; free or discounted for members",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-24T20:30:00-07:00",
+      "tags": [
+        "experimental music",
+        "electroacoustic",
+        "sound art"
+      ],
+      "title": "Tyondai Braxton + Matt Robidoux",
+      "why": "Electroacoustic invention meets a touch-driven aluminum corn synth—more laboratory than standard concert."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-10-15T14:06:23Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "machine art",
+        "robotics",
+        "bio art",
+        "sound art",
+        "Deliria2 vibe"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "Direct hit: living organisms steering sound and robots, participatory plant instruments, and a machine-art veteran at Gray Area."
+    }
+  ],
+  "generated_at": "2026-10-15T14:07:59Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
