@@ -1,0 +1,138 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-10-16T21:30:00-07:00",
+      "id": "evt_c17cdb10e10790fe",
+      "last_verified_at": "2026-10-16T14:04:06Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/film-fridays-wood-street",
+      "price_note": "Free community event; RSVP",
+      "radar": false,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-10-16T19:00:00-07:00",
+      "tags": [
+        "documentary",
+        "Oakland history",
+        "community cinema",
+        "panel"
+      ],
+      "title": "FILM FRIDAYS: WOOD STREET",
+      "why": "A free East Oakland screening and live conversation that keeps the city's Wood Street encampment history in the room rather than abstracting it into a headline."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-18T14:00:00-07:00",
+      "id": "evt_83fea8e94c38ec3a",
+      "last_verified_at": "2026-10-16T14:04:06Z",
+      "neighborhood": null,
+      "official_url": "https://grayarea.org/event/cybersentics-book-club-october-2026/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Gray Area",
+      "starts_at": "2026-10-18T12:00:00-07:00",
+      "tags": [
+        "cybernetics",
+        "telepresence",
+        "net art",
+        "book club",
+        "art and technology"
+      ],
+      "title": "Cybersentics Book Club October 2026: Here/There",
+      "why": "Exactly the Gray Area research-room energy: early telepresence performance, cybernetics, and net-art history discussed with Rhizome's executive director."
+    },
+    {
+      "all_day": false,
+      "city": "Richmond",
+      "ends_at": "2026-10-20T20:00:00-07:00",
+      "id": "evt_4f91752d5b622617",
+      "last_verified_at": "2026-10-16T14:04:06Z",
+      "neighborhood": null,
+      "official_url": "https://blog.archive.org/2026/08/17/registration-is-now-open-for-internet-archives-annual-celebration/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Internet Archive",
+      "starts_at": "2026-10-20T18:00:00-07:00",
+      "tags": [
+        "media archaeology",
+        "archives",
+        "film",
+        "music",
+        "digital preservation"
+      ],
+      "title": "Doors Open: Go Behind the Scenes at the Physical Archive",
+      "why": "A real look behind the preservation apparatus: books, records, microfiche, film, and video, plus how they move from donation to digitization and access."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-20T20:30:00-07:00",
+      "id": "evt_d1c30536f9a303ba",
+      "last_verified_at": "2026-10-16T14:04:06Z",
+      "neighborhood": null,
+      "official_url": "https://luma.com/167y2s25",
+      "price_note": "Approval required",
+      "radar": false,
+      "source_name": "DWeb",
+      "starts_at": "2026-10-20T18:30:00-07:00",
+      "tags": [
+        "decentralized web",
+        "grassroots archiving",
+        "local-first",
+        "community technology",
+        "workshop"
+      ],
+      "title": "DWeb Weaving & Tooling, October 2026",
+      "why": "A small, practical room for decentralized-web philosophy, grassroots archiving, local-first tools, demos, and conversation about digital autonomy."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_e988f006966d2f89",
+      "last_verified_at": "2026-10-16T14:04:06Z",
+      "neighborhood": null,
+      "official_url": "https://www.eventbrite.com/e/th-thng-ii-premiere-w-yt-obscura-tickets-2002649909790",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Center for New Music",
+      "starts_at": "2026-11-13T19:00:00-08:00",
+      "tags": [
+        "experimental film",
+        "found footage",
+        "AI cinema",
+        "video art",
+        "electronic music"
+      ],
+      "title": "TH THNG II premiere w/ YT Obscura",
+      "why": "An unusually specific media-archaeology-and-AI-horror night: live work built from low-view pre-2008 YouTube videos, then a feature screening with Q&A."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-10-16T14:04:06Z",
+      "neighborhood": null,
+      "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "machine art",
+        "robotics",
+        "bio art",
+        "generative sound",
+        "natural intelligence"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "A direct Deliria2 line: artists turn bacteria, plant signals, ostracods, and breath into live robotic motion, sound, and participatory machine art."
+    }
+  ],
+  "generated_at": "2026-10-16T14:04:39Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
