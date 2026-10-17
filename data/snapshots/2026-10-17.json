@@ -1,0 +1,115 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": null,
+      "id": "evt_f86fd6c10891471c",
+      "last_verified_at": "2026-10-17T14:04:52Z",
+      "neighborhood": null,
+      "official_url": "https://burningman.org/global-events-groups/find-a-burning-man-event/decompression-2026/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Burning Man Project",
+      "starts_at": "2026-10-17T14:00:00-07:00",
+      "tags": [
+        "participatory art",
+        "maker culture",
+        "fire art",
+        "experimental film",
+        "Oakland"
+      ],
+      "title": "Decompression 2026: Oakland Edition! Vol II",
+      "why": "A maximal Oakland maker-art organism: hands-on builds, fire art, mutant vehicles, a mini film festival, odd salons, and participatory installations."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-18T14:00:00-07:00",
+      "id": "evt_83fea8e94c38ec3a",
+      "last_verified_at": "2026-10-17T14:04:52Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://grayarea.org/event/cybersentics-book-club-october-2026/",
+      "price_note": "Pay what you want; $10 suggested donation",
+      "radar": false,
+      "source_name": "Gray Area",
+      "starts_at": "2026-10-18T12:00:00-07:00",
+      "tags": [
+        "cybernetics",
+        "telepresence",
+        "net art",
+        "media archaeology",
+        "book club"
+      ],
+      "title": "Cybersentics Book Club October 2026: Here/There",
+      "why": "The day’s clearest Deliria2-adjacent room: telepresence history, early networked performance, net-art preservation, and a real reading-table crowd with Rhizome’s Michael Connor."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-21T22:00:00-07:00",
+      "id": "evt_ecae220e6f1b8bfa",
+      "last_verified_at": "2026-10-17T14:04:52Z",
+      "neighborhood": null,
+      "official_url": "https://eventbrite.com/e/1998015902349",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Internet Archive",
+      "starts_at": "2026-10-21T17:00:00-07:00",
+      "tags": [
+        "open web",
+        "digital preservation",
+        "media archaeology",
+        "public archives"
+      ],
+      "title": "Democracy’s Library: Tools for Participation",
+      "why": "A public ritual around the Wayback Machine and shared archives: preservation, APIs, citizen research, and people keeping the web from evaporating."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-24T23:30:00-07:00",
+      "id": "evt_2102c2457023ef7e",
+      "last_verified_at": "2026-10-17T14:04:52Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/10/24/tyondai-braxton",
+      "price_note": "$23 advance / $25 door; free or discounted for members",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-24T20:30:00-07:00",
+      "tags": [
+        "experimental music",
+        "electronics",
+        "sound art",
+        "kinetic sculpture"
+      ],
+      "title": "Tyondai Braxton + Matt Robidoux",
+      "why": "Electroacoustic left-field plus Matt Robidoux’s touch-controlled aluminum corn synth: a small-room collision of composition, sculpture, improvisation, and accessibility."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-10-17T14:04:52Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "machine art",
+        "robotics",
+        "bio art",
+        "generative sound",
+        "Gray Area"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "The strongest forward-looking Deliria2 signal: plant, bacteria, and crustacean data drives robots, synthesizers, live microscopy, and weird machine art."
+    }
+  ],
+  "generated_at": "2026-10-17T14:05:51Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
