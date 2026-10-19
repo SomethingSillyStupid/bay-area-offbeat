@@ -1,0 +1,219 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "Richmond",
+      "ends_at": "2026-10-20T20:00:00-07:00",
+      "id": "evt_142aed2af1c2c689",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": null,
+      "official_url": "https://www.eventbrite.com/e/1997613506773/",
+      "price_note": "Few tickets left",
+      "radar": false,
+      "source_name": "Internet Archive",
+      "starts_at": "2026-10-20T18:00:00-07:00",
+      "tags": [
+        "media archaeology",
+        "archives",
+        "open web",
+        "tour"
+      ],
+      "title": "Doors Open 2026: Go Behind-the-Scenes at the Physical Archive",
+      "why": "A rare after-hours look at books, records, microfiche, film, and video in the preservation machinery behind a lot of our collective weird memory."
+    },
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": null,
+      "id": "evt_b67c9d198f039ab0",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": null,
+      "official_url": "https://bampfa.org/event/marjorie-keller-films",
+      "price_note": null,
+      "radar": false,
+      "source_name": "BAMPFA",
+      "starts_at": "2026-10-21T19:00:00-07:00",
+      "tags": [
+        "experimental film",
+        "16mm",
+        "film history",
+        "feminist cinema"
+      ],
+      "title": "Marjorie Keller Films",
+      "why": "Steve Anker introduces five 16mm films by a fiercely independent artist whose intimate, feminist work turns private life into formal cinematic inquiry."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-22T21:00:00-07:00",
+      "id": "evt_1aa82d76720a0e04",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": "Fort Mason",
+      "official_url": "https://longnow.org/talks/02026-thurston-aguera-y-arcas/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Long Now",
+      "starts_at": "2026-10-22T19:00:00-07:00",
+      "tags": [
+        "intelligence",
+        "philosophy",
+        "biology",
+        "future thinking"
+      ],
+      "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+      "why": "A rare non-triumphalist intelligence conversation: interdependence, symbiosis, and the relation between biological and synthetic minds, with an argument rather than a pitch deck."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-24T23:30:00-07:00",
+      "id": "evt_2102c2457023ef7e",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/10/24/tyondai-braxton",
+      "price_note": "$23 advance / $25 door",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-24T20:30:00-07:00",
+      "tags": [
+        "experimental music",
+        "electroacoustic",
+        "sound art",
+        "synthesizers"
+      ],
+      "title": "Tyondai Braxton + Matt Robidoux",
+      "why": "Braxton's electroacoustic new music meets Robidoux's touch-controlled aluminum corn synth: a literal collision of sculpture, improvisation, and modular electronics."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-29T19:30:00-07:00",
+      "id": "evt_8150b8166d4857bd",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": null,
+      "official_url": "https://www.eventbrite.com/e/philosophy-salon-with-the-paradox-lab-philosophical-zombies-tickets-2001407172730",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Manny's / The Paradox Lab",
+      "starts_at": "2026-10-29T18:00:00-07:00",
+      "tags": [
+        "consciousness",
+        "philosophy",
+        "cognitive science",
+        "reality inquiry"
+      ],
+      "title": "Philosophy Salon with The Paradox Lab: Philosophical Zombies",
+      "why": "A genuinely public consciousness problem, not a costume-party zombie gag: can something act human while having no inner experience? Led by a philosopher and cognitive-science researcher."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-05T21:00:00-08:00",
+      "id": "evt_a51e54f859b6878f",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/11/5/marjorie-keller-intimate-observer",
+      "price_note": "$15 / $12 Cinematheque members",
+      "radar": true,
+      "source_name": "The Lab / San Francisco Cinematheque",
+      "starts_at": "2026-11-05T19:00:00-08:00",
+      "tags": [
+        "experimental film",
+        "16mm",
+        "media history",
+        "feminist cinema"
+      ],
+      "title": "Marjorie Keller: Intimate Observer",
+      "why": "A compact 16mm and Super-8 program of Keller's emotionally exacting, formally adventurous films, paired with a new book restoring her place in experimental-cinema history."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-07T20:00:00-08:00",
+      "id": "evt_67c4ee47bc57021b",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/11/7/wendy-clarke-the-prison-tapes",
+      "price_note": "Free",
+      "radar": true,
+      "source_name": "The Lab",
+      "starts_at": "2026-11-07T18:30:00-08:00",
+      "tags": [
+        "video art",
+        "screening",
+        "oral history",
+        "social practice"
+      ],
+      "title": "Wendy Clarke: The Prison Tapes",
+      "why": "A video-art pioneer screens rarely seen collaborative prison work, then talks with Ear Hustle cofounder Nigel Poor about video as intimacy, exchange, and testimony."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-10T21:00:00-08:00",
+      "id": "evt_1bf20b21e9506ecb",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": "Fort Mason",
+      "official_url": "https://longnow.org/entangled/",
+      "price_note": "Few tickets left",
+      "radar": true,
+      "source_name": "Long Now",
+      "starts_at": "2026-11-10T18:00:00-08:00",
+      "tags": [
+        "consciousness",
+        "intelligence",
+        "biology",
+        "future thinking"
+      ],
+      "title": "Entangled Intelligences",
+      "why": "Jaron Lanier, Michael Levin, David Eagleman, Sara Imari Walker, and others put biological, ecological, and synthetic intelligence in the same unusually serious room."
+    },
+    {
+      "all_day": false,
+      "city": "Palo Alto",
+      "ends_at": null,
+      "id": "evt_a03fdc0de05138f5",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": "Stanford Research Park",
+      "official_url": "https://www.scaruffi.com/leonardo/nov2026.html",
+      "price_note": "Free; open to everybody",
+      "radar": true,
+      "source_name": "Leonardo LASER",
+      "starts_at": "2026-11-18T17:30:00-08:00",
+      "tags": [
+        "art and technology",
+        "consciousness",
+        "interfaces",
+        "cognitive science",
+        "salon"
+      ],
+      "title": "Leonardo Art/Science Evening Rendezvous: Liat Berdugo + Vinod Menon",
+      "why": "A low-key art-science night linking gestural interfaces, embodiment, power, the default-mode network, selfhood, and consciousness in the age of AI."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "machine art",
+        "robotics",
+        "bioart",
+        "sound art",
+        "interactive art"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "The actual machine-art thing: plant sensors, bacterial activity, and microscopic crustaceans drive sound, robotic motion, and a breathalyzer pipe organ."
+    }
+  ],
+  "generated_at": "2026-10-19T14:13:00Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}

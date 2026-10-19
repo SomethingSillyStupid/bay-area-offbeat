@@ -2,95 +2,73 @@
   "events": [
     {
       "all_day": false,
-      "city": "San Francisco",
-      "ends_at": "2026-10-18T14:00:00-07:00",
-      "id": "evt_83fea8e94c38ec3a",
-      "last_verified_at": "2026-10-18T14:07:32Z",
-      "neighborhood": "Mission District",
-      "official_url": "https://grayarea.org/event/cybersentics-book-club-october-2026/",
-      "price_note": "RSVP",
-      "radar": false,
-      "source_name": "Gray Area",
-      "starts_at": "2026-10-18T12:00:00-07:00",
-      "tags": [
-        "cybernetics",
-        "telepresence",
-        "net art",
-        "reading group",
-        "art tech"
-      ],
-      "title": "Cybersentics Book Club October 2026: Here/There",
-      "why": "The day’s cleanest Deliria2 hit: a real-room conversation on 1970s telepresence art, bodies, and collaboration across early networked systems."
-    },
-    {
-      "all_day": false,
-      "city": "Oakland",
-      "ends_at": "2026-10-18T19:00:00-07:00",
-      "id": "evt_2a0b6abab24afaab",
-      "last_verified_at": "2026-10-18T14:07:32Z",
+      "city": "Richmond",
+      "ends_at": "2026-10-20T20:00:00-07:00",
+      "id": "evt_142aed2af1c2c689",
+      "last_verified_at": "2026-10-19T14:10:15Z",
       "neighborhood": null,
-      "official_url": "https://themade.org/en/event/event-tinker-nights-the-made-2026-10-18",
-      "price_note": null,
-      "radar": false,
-      "source_name": "Museum of Art and Digital Entertainment",
-      "starts_at": "2026-10-18T17:00:00-07:00",
-      "tags": [
-        "media archaeology",
-        "vintage computing",
-        "hacker culture",
-        "Oakland"
-      ],
-      "title": "Tinker Nights @ The MADE",
-      "why": "An Oakland vintage-hardware hang built around CRTs, consoles, and collective tinkering—a small, playable antidote to the browser tab that ate your evening."
-    },
-    {
-      "all_day": false,
-      "city": "San Francisco",
-      "ends_at": "2026-10-21T22:00:00-07:00",
-      "id": "evt_c43fcd53bab64112",
-      "last_verified_at": "2026-10-18T14:07:32Z",
-      "neighborhood": null,
-      "official_url": "https://blog.archive.org/event/democracys-library-tools-for-participation/",
-      "price_note": "$15; few tickets left",
+      "official_url": "https://www.eventbrite.com/e/1997613506773/",
+      "price_note": "Few tickets left",
       "radar": false,
       "source_name": "Internet Archive",
-      "starts_at": "2026-10-21T17:00:00-07:00",
+      "starts_at": "2026-10-20T18:00:00-07:00",
       "tags": [
+        "media archaeology",
+        "archives",
         "open web",
-        "digital preservation",
-        "public archives",
-        "community"
+        "tour"
       ],
-      "title": "Democracy’s Library: Tools for Participation",
-      "why": "A rare evening at the Archive’s headquarters with people treating preservation, public records, and shared web infrastructure as something you can actually participate in."
+      "title": "Doors Open 2026: Go Behind-the-Scenes at the Physical Archive",
+      "why": "A rare after-hours look at books, records, microfiche, film, and video in the preservation machinery behind a lot of our collective weird memory."
     },
     {
       "all_day": false,
-      "city": "Oakland",
-      "ends_at": "2026-10-23T23:30:00-07:00",
-      "id": "evt_f45d1b628d3a5604",
-      "last_verified_at": "2026-10-18T14:07:32Z",
+      "city": "Berkeley",
+      "ends_at": null,
+      "id": "evt_b67c9d198f039ab0",
+      "last_verified_at": "2026-10-19T14:10:15Z",
       "neighborhood": null,
-      "official_url": "https://themade.org/en/event/experimental-play-nights-1994112067875",
+      "official_url": "https://bampfa.org/event/marjorie-keller-films",
       "price_note": null,
       "radar": false,
-      "source_name": "Museum of Art and Digital Entertainment",
-      "starts_at": "2026-10-23T21:00:00-07:00",
+      "source_name": "BAMPFA",
+      "starts_at": "2026-10-21T19:00:00-07:00",
       "tags": [
-        "experimental games",
-        "interactive media",
-        "game art",
-        "Oakland"
+        "experimental film",
+        "16mm",
+        "film history",
+        "feminist cinema"
       ],
-      "title": "Experimental Play Nights",
-      "why": "Late-night experimental games in Oakland: short, strange, social play rather than the usual tournament or industry mixer."
+      "title": "Marjorie Keller Films",
+      "why": "Steve Anker introduces five 16mm films by a fiercely independent artist whose intimate, feminist work turns private life into formal cinematic inquiry."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-22T21:00:00-07:00",
+      "id": "evt_1aa82d76720a0e04",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": "Fort Mason",
+      "official_url": "https://longnow.org/talks/02026-thurston-aguera-y-arcas/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Long Now",
+      "starts_at": "2026-10-22T19:00:00-07:00",
+      "tags": [
+        "intelligence",
+        "philosophy",
+        "biology",
+        "future thinking"
+      ],
+      "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+      "why": "A rare non-triumphalist intelligence conversation: interdependence, symbiosis, and the relation between biological and synthetic minds, with an argument rather than a pitch deck."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": "2026-10-24T23:30:00-07:00",
       "id": "evt_2102c2457023ef7e",
-      "last_verified_at": "2026-10-18T14:07:32Z",
+      "last_verified_at": "2026-10-19T14:10:15Z",
       "neighborhood": "Mission District",
       "official_url": "https://www.thelab.org/projects/2026/10/24/tyondai-braxton",
       "price_note": "$23 advance / $25 door",
@@ -101,59 +79,123 @@
         "experimental music",
         "electroacoustic",
         "sound art",
-        "DIY tech"
+        "synthesizers"
       ],
       "title": "Tyondai Braxton + Matt Robidoux",
-      "why": "Braxton’s electroacoustic maximalism meets Matt Robidoux’s touch-driven corn synth—silly apparatus, serious sound, exactly the right kind of laboratory."
-    },
-    {
-      "all_day": false,
-      "city": "Oakland",
-      "ends_at": "2026-11-06T19:30:00-08:00",
-      "id": "evt_2d2f7dc22e165e49",
-      "last_verified_at": "2026-10-18T14:07:32Z",
-      "neighborhood": "Lake Merritt",
-      "official_url": "https://berkeleypaths.org/upcoming-events/2026/11/6/evening-walk-around-lake-merritt",
-      "price_note": null,
-      "radar": true,
-      "source_name": "Berkeley Path Wanderers Association",
-      "starts_at": "2026-11-06T17:30:00-08:00",
-      "tags": [
-        "night walk",
-        "birds",
-        "Lake Merritt",
-        "outdoors"
-      ],
-      "title": "Evening Walk around Lake Merritt",
-      "why": "A low-key night loop with birds, water, and the old Necklace of Lights—an easy local way to reset the weird-device brain without leaving Oakland."
+      "why": "Braxton's electroacoustic new music meets Robidoux's touch-controlled aluminum corn synth: a literal collision of sculpture, improvisation, and modular electronics."
     },
     {
       "all_day": false,
       "city": "San Francisco",
-      "ends_at": null,
-      "id": "evt_6c344c1d1772b035",
-      "last_verified_at": "2026-10-18T14:07:32Z",
+      "ends_at": "2026-10-29T19:30:00-07:00",
+      "id": "evt_8150b8166d4857bd",
+      "last_verified_at": "2026-10-19T14:10:15Z",
       "neighborhood": null,
-      "official_url": "https://centerfornewmusic.com/event/th-thng-ii-premiere-w-yt-obscura/",
+      "official_url": "https://www.eventbrite.com/e/philosophy-salon-with-the-paradox-lab-philosophical-zombies-tickets-2001407172730",
       "price_note": null,
+      "radar": false,
+      "source_name": "Manny's / The Paradox Lab",
+      "starts_at": "2026-10-29T18:00:00-07:00",
+      "tags": [
+        "consciousness",
+        "philosophy",
+        "cognitive science",
+        "reality inquiry"
+      ],
+      "title": "Philosophy Salon with The Paradox Lab: Philosophical Zombies",
+      "why": "A genuinely public consciousness problem, not a costume-party zombie gag: can something act human while having no inner experience? Led by a philosopher and cognitive-science researcher."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-05T21:00:00-08:00",
+      "id": "evt_a51e54f859b6878f",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/11/5/marjorie-keller-intimate-observer",
+      "price_note": "$15 / $12 Cinematheque members",
       "radar": true,
-      "source_name": "Center for New Music",
-      "starts_at": "2026-11-13T19:00:00-08:00",
+      "source_name": "The Lab / San Francisco Cinematheque",
+      "starts_at": "2026-11-05T19:00:00-08:00",
       "tags": [
         "experimental film",
-        "AI critique",
-        "found footage",
-        "media archaeology"
+        "16mm",
+        "media history",
+        "feminist cinema"
       ],
-      "title": "TH THNG II premiere w/ YT Obscura",
-      "why": "A high-grade fake-AI-horror séance paired with a live excavation of near-unwatched pre-2008 YouTube footage: media archaeology with an exposed nervous system."
+      "title": "Marjorie Keller: Intimate Observer",
+      "why": "A compact 16mm and Super-8 program of Keller's emotionally exacting, formally adventurous films, paired with a new book restoring her place in experimental-cinema history."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-07T20:00:00-08:00",
+      "id": "evt_67c4ee47bc57021b",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/11/7/wendy-clarke-the-prison-tapes",
+      "price_note": "Free",
+      "radar": true,
+      "source_name": "The Lab",
+      "starts_at": "2026-11-07T18:30:00-08:00",
+      "tags": [
+        "video art",
+        "screening",
+        "oral history",
+        "social practice"
+      ],
+      "title": "Wendy Clarke: The Prison Tapes",
+      "why": "A video-art pioneer screens rarely seen collaborative prison work, then talks with Ear Hustle cofounder Nigel Poor about video as intimacy, exchange, and testimony."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-10T21:00:00-08:00",
+      "id": "evt_1bf20b21e9506ecb",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": "Fort Mason",
+      "official_url": "https://longnow.org/entangled/",
+      "price_note": "Few tickets left",
+      "radar": true,
+      "source_name": "Long Now",
+      "starts_at": "2026-11-10T18:00:00-08:00",
+      "tags": [
+        "consciousness",
+        "intelligence",
+        "biology",
+        "future thinking"
+      ],
+      "title": "Entangled Intelligences",
+      "why": "Jaron Lanier, Michael Levin, David Eagleman, Sara Imari Walker, and others put biological, ecological, and synthetic intelligence in the same unusually serious room."
+    },
+    {
+      "all_day": false,
+      "city": "Palo Alto",
+      "ends_at": null,
+      "id": "evt_a03fdc0de05138f5",
+      "last_verified_at": "2026-10-19T14:10:15Z",
+      "neighborhood": "Stanford Research Park",
+      "official_url": "https://www.scaruffi.com/leonardo/nov2026.html",
+      "price_note": "Free; open to everybody",
+      "radar": true,
+      "source_name": "Leonardo LASER",
+      "starts_at": "2026-11-18T17:30:00-08:00",
+      "tags": [
+        "art and technology",
+        "consciousness",
+        "interfaces",
+        "cognitive science",
+        "salon"
+      ],
+      "title": "Leonardo Art/Science Evening Rendezvous: Liat Berdugo + Vinod Menon",
+      "why": "A low-key art-science night linking gestural interfaces, embodiment, power, the default-mode network, selfhood, and consciousness in the age of AI."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": null,
       "id": "evt_a620fe101f56efd1",
-      "last_verified_at": "2026-10-18T14:07:32Z",
+      "last_verified_at": "2026-10-19T14:10:15Z",
       "neighborhood": "Mission District",
       "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
       "price_note": null,
@@ -163,15 +205,15 @@
       "tags": [
         "machine art",
         "robotics",
-        "bio art",
+        "bioart",
         "sound art",
-        "Gray Area"
+        "interactive art"
       ],
       "title": "Micro To Macro: Microorganisms, Sound and Robots",
-      "why": "Living organisms direct custom robots and sound systems: plants, bacteria, and tiny crustaceans become a properly strange machine-art ensemble."
+      "why": "The actual machine-art thing: plant sensors, bacterial activity, and microscopic crustaceans drive sound, robotic motion, and a breathalyzer pipe organ."
     }
   ],
-  "generated_at": "2026-10-18T14:08:19Z",
+  "generated_at": "2026-10-19T14:13:00Z",
   "schema_version": 1,
   "timezone": "America/Los_Angeles"
 }
