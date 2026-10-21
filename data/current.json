@@ -2,53 +2,10 @@
   "events": [
     {
       "all_day": false,
-      "city": "Berkeley",
-      "ends_at": null,
-      "id": "evt_b67c9d198f039ab0",
-      "last_verified_at": "2026-10-20T14:09:45Z",
-      "neighborhood": null,
-      "official_url": "https://bampfa.org/event/marjorie-keller-films",
-      "price_note": null,
-      "radar": false,
-      "source_name": "BAMPFA",
-      "starts_at": "2026-10-21T19:00:00-07:00",
-      "tags": [
-        "experimental film",
-        "16mm",
-        "film history",
-        "feminist cinema"
-      ],
-      "title": "Marjorie Keller Films",
-      "why": "Rare 16mm program restores a fiercely independent feminist experimental filmmaker to the big screen, introduced by veteran curator Steve Anker."
-    },
-    {
-      "all_day": false,
-      "city": "San Francisco",
-      "ends_at": "2026-10-21T20:00:00-07:00",
-      "id": "evt_6ba702ef95153ddf",
-      "last_verified_at": "2026-10-20T14:09:45Z",
-      "neighborhood": null,
-      "official_url": "https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-workshop/",
-      "price_note": "$25 suggested donation; pay what you want",
-      "radar": false,
-      "source_name": "Gray Area",
-      "starts_at": "2026-10-21T18:00:00-07:00",
-      "tags": [
-        "art-tech",
-        "creative coding",
-        "interactive media",
-        "workshop",
-        "AI"
-      ],
-      "title": "Patch Bay — From Lore to Logic: Building Interactive Worlds with AI + Figma [Workshop]",
-      "why": "A small Gray Area lab for turning speculative stories into working interactive prototypes, with room to ask where these tools help, fail, or get weird."
-    },
-    {
-      "all_day": false,
       "city": "San Francisco",
       "ends_at": "2026-10-22T21:00:00-07:00",
       "id": "evt_1aa82d76720a0e04",
-      "last_verified_at": "2026-10-20T14:09:45Z",
+      "last_verified_at": "2026-10-21T14:11:28Z",
       "neighborhood": "Fort Mason",
       "official_url": "https://longnow.org/talks/02026-thurston-aguera-y-arcas/",
       "price_note": null,
@@ -56,128 +13,125 @@
       "source_name": "Long Now",
       "starts_at": "2026-10-22T19:00:00-07:00",
       "tags": [
-        "art-science",
-        "AI",
-        "consciousness",
-        "futures",
-        "public talk"
+        "intelligence",
+        "artificial life",
+        "long-term thinking",
+        "conversation"
       ],
       "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
-      "why": "A counterweight to product-launch AI talk: ecology, artificial life, and new minds considered through symbiosis rather than dominance."
-    },
-    {
-      "all_day": false,
-      "city": "San Francisco",
-      "ends_at": "2026-10-24T23:30:00-07:00",
-      "id": "evt_2102c2457023ef7e",
-      "last_verified_at": "2026-10-20T14:09:45Z",
-      "neighborhood": "Mission District",
-      "official_url": "https://www.thelab.org/projects/2026/10/24/tyondai-braxton",
-      "price_note": "$23 advance; $25 door",
-      "radar": false,
-      "source_name": "The Lab",
-      "starts_at": "2026-10-24T20:30:00-07:00",
-      "tags": [
-        "experimental music",
-        "electroacoustic",
-        "sound art",
-        "synthesizers"
-      ],
-      "title": "Tyondai Braxton + Matt Robidoux",
-      "why": "Electroacoustic architecture meets a touch-controlled aluminum corn synth: handmade, absurd, and anchored in Bay Area experimental-music lineage."
+      "why": "Long Now steers the intelligence conversation toward interdependence, artificial life, and human-synthetic co-creation rather than a startup pitch-room futurism."
     },
     {
       "all_day": false,
       "city": "Berkeley",
       "ends_at": null,
       "id": "evt_a4b3901f8a597700",
-      "last_verified_at": "2026-10-20T14:09:45Z",
+      "last_verified_at": "2026-10-21T14:11:28Z",
       "neighborhood": "Claremont",
       "official_url": "https://berkhistory.org/2026/09/21/saturday-october-24-2-pm-the-1991-firestorm-walking-tour-led-by-janet-byron-with-bob-johnson/",
       "price_note": null,
       "radar": false,
-      "source_name": "Berkeley Historical Society and Museum",
+      "source_name": "Berkeley Historical Society & Museum",
       "starts_at": "2026-10-24T14:00:00-07:00",
       "tags": [
         "local history",
         "walking tour",
         "East Bay",
-        "fire history"
+        "firestorm"
       ],
       "title": "The 1991 Firestorm, walking tour led by Janet Byron with Bob Johnson",
-      "why": "A lived-history walk with the reporter who reached the scene, tracing surviving homes, rebuilding, a mid-block path, and the hills' fire memory."
+      "why": "The reporter who first reached the 1991 Oakland-Berkeley Firestorm leads a ground-level walk through what survived, what burned, and how the hillside was rebuilt."
     },
     {
       "all_day": false,
       "city": "San Francisco",
-      "ends_at": "2026-10-28T22:00:00-07:00",
-      "id": "evt_b2fea0a0c498fc15",
-      "last_verified_at": "2026-10-20T14:09:45Z",
-      "neighborhood": null,
-      "official_url": "https://grayarea.org/event/scaling-intelligence/",
-      "price_note": "Free; registration required",
+      "ends_at": "2026-10-24T23:30:00-07:00",
+      "id": "evt_2102c2457023ef7e",
+      "last_verified_at": "2026-10-21T14:11:28Z",
+      "neighborhood": "Mission",
+      "official_url": "https://www.thelab.org/projects/2026/10/24/tyondai-braxton",
+      "price_note": "$23 advance / $25 door; free or discounted for members",
       "radar": false,
-      "source_name": "Gray Area",
-      "starts_at": "2026-10-28T19:00:00-07:00",
+      "source_name": "The Lab",
+      "starts_at": "2026-10-24T20:30:00-07:00",
       "tags": [
-        "art-tech",
-        "AI art",
-        "new media",
-        "exhibition",
-        "Gray Area"
+        "experimental music",
+        "sound art",
+        "synthesizers",
+        "San Francisco"
       ],
-      "title": "Scaling Intelligence —Modal x Gray Area Commissions — OPENING NIGHT",
-      "why": "Eleven commissioned artists move between neural networks, satellites, microbes, forests, and watersheds—the artist-led side of a field usually sold as a product demo."
+      "title": "Tyondai Braxton + Matt Robidoux",
+      "why": "Braxton’s electroacoustic set meets Robidoux’s touch-driven corn synth: a built instrument, free improvisation, and the Mills Tape Music Center/Buchla lineage in one bill."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-10-28T19:00:00-07:00",
+      "id": "evt_754d32c0df760822",
+      "last_verified_at": "2026-10-21T14:11:28Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/dia-de-los-muertos-celebration",
+      "price_note": null,
+      "radar": false,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-10-28T16:00:00-07:00",
+      "tags": [
+        "community arts",
+        "printmaking",
+        "Oakland",
+        "Day of the Dead"
+      ],
+      "title": "Dia De Los Muertos Community Celebration",
+      "why": "A small East Oakland art-center gathering with workshops and printmaking, followed by altar installations and a drum lament on Nov. 2."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": "2026-10-29T19:30:00-07:00",
-      "id": "evt_8150b8166d4857bd",
-      "last_verified_at": "2026-10-20T14:09:45Z",
+      "id": "evt_b08f892e6f756b4f",
+      "last_verified_at": "2026-10-21T14:11:28Z",
       "neighborhood": null,
-      "official_url": "https://www.eventbrite.com/e/philosophy-salon-with-the-paradox-lab-philosophical-zombies-tickets-2001407172730",
+      "official_url": "https://www.paradoxlab.org/events-1/2026/2/26/philosophy-salon-at-exploratoriums-after-dark-e9cfl-2lnec-berlx",
       "price_note": null,
       "radar": false,
-      "source_name": "Manny's",
+      "source_name": "The Paradox Lab",
       "starts_at": "2026-10-29T18:00:00-07:00",
       "tags": [
-        "philosophy of mind",
+        "philosophy",
         "consciousness",
         "salon",
-        "cognitive science"
+        "San Francisco"
       ],
-      "title": "Philosophy Salon with The Paradox Lab: Philosophical Zombies",
-      "why": "A consciousness thought experiment handled as a real public inquiry, led by a cognitive-science philosopher instead of a standard AI networking panel."
+      "title": "Philosophy Salon at Manny's: Philosophical Zombies",
+      "why": "A properly peculiar consciousness salon: can something behave exactly like a person while having no inner life, and would that change how you treat it?"
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": "2026-11-10T21:00:00-08:00",
-      "id": "evt_1bf20b21e9506ecb",
-      "last_verified_at": "2026-10-20T14:09:45Z",
+      "id": "evt_1770973de184b3c1",
+      "last_verified_at": "2026-10-21T14:11:28Z",
       "neighborhood": "Fort Mason",
-      "official_url": "https://longnow.org/entangled/",
-      "price_note": "Few tickets left",
+      "official_url": "https://longnow.org/entangled",
+      "price_note": null,
       "radar": true,
       "source_name": "Long Now",
       "starts_at": "2026-11-10T18:00:00-08:00",
       "tags": [
+        "intelligence",
         "art-science",
         "consciousness",
-        "interspecies intelligence",
-        "futures",
-        "public talk"
+        "San Francisco"
       ],
       "title": "Entangled Intelligences",
-      "why": "A rare shared room for microbial, neural, ecological, synthetic, musical, and planetary intelligence—not a parade of AI product claims."
+      "why": "The closest thing here to a Deliria2-adjacent big-brain variety show: biologists, an AI artist, Jaron Lanier, and cross-species intelligence in one room."
     },
     {
       "all_day": false,
       "city": "Palo Alto",
       "ends_at": null,
-      "id": "evt_e3b5567524f0e626",
-      "last_verified_at": "2026-10-20T14:09:45Z",
+      "id": "evt_63c4bba8ef5521ee",
+      "last_verified_at": "2026-10-21T14:11:28Z",
       "neighborhood": "Stanford Research Park",
       "official_url": "https://www.scaruffi.com/leonardo/nov2026.html",
       "price_note": "Free and open to everybody",
@@ -186,21 +140,20 @@
       "starts_at": "2026-11-18T17:30:00-08:00",
       "tags": [
         "art-science",
-        "new media",
+        "media art",
         "consciousness",
-        "public talk",
-        "salon"
+        "Palo Alto"
       ],
-      "title": "Leonardo Art/Science Evening Rendezvous (LASER)",
-      "why": "An Oakland new-media artist on everyday gestural interfaces joins a neuroscience talk on self and consciousness in the age of AI, with informal discussion."
+      "title": "Leonardo Art Science Evening Rendezvous: Liat Berdugo + Vinod Menon",
+      "why": "This is the art-science salon lane: gestural interfaces, embodied technology, brain networks, selfhood, and consciousness, with time to mingle."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": null,
-      "id": "evt_e84ddbec3c770a41",
-      "last_verified_at": "2026-10-20T14:09:45Z",
-      "neighborhood": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-10-21T14:11:28Z",
+      "neighborhood": "Mission",
       "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
       "price_note": null,
       "radar": true,
@@ -208,17 +161,16 @@
       "starts_at": "2026-11-19T19:00:00-08:00",
       "tags": [
         "machine art",
+        "bioart",
         "robotics",
-        "bio art",
-        "generative sound",
-        "interactive performance",
+        "sound art",
         "Gray Area"
       ],
-      "title": "Micro To Macro: Microorganisms, Sound and Robots by Scott Kildall and Kal Spelletich",
-      "why": "The clearest Deliria2 successor on the calendar: plant sensors, bacterial electricity, swimming ostracods, generative sound, robotics, and Kal Spelletich."
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "Direct Deliria2 territory: plant sensors, live bacteria, tiny crustaceans, robot motion, generative sound, and a human breath-triggered pipe organ."
     }
   ],
-  "generated_at": "2026-10-20T14:12:44Z",
+  "generated_at": "2026-10-21T14:12:21Z",
   "schema_version": 1,
   "timezone": "America/Los_Angeles"
 }

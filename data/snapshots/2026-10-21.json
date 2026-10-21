@@ -1,0 +1,176 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-22T21:00:00-07:00",
+      "id": "evt_1aa82d76720a0e04",
+      "last_verified_at": "2026-10-21T14:11:28Z",
+      "neighborhood": "Fort Mason",
+      "official_url": "https://longnow.org/talks/02026-thurston-aguera-y-arcas/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Long Now",
+      "starts_at": "2026-10-22T19:00:00-07:00",
+      "tags": [
+        "intelligence",
+        "artificial life",
+        "long-term thinking",
+        "conversation"
+      ],
+      "title": "Baratunde Thurston & Blaise Agüera y Arcas: On Interdependence",
+      "why": "Long Now steers the intelligence conversation toward interdependence, artificial life, and human-synthetic co-creation rather than a startup pitch-room futurism."
+    },
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": null,
+      "id": "evt_a4b3901f8a597700",
+      "last_verified_at": "2026-10-21T14:11:28Z",
+      "neighborhood": "Claremont",
+      "official_url": "https://berkhistory.org/2026/09/21/saturday-october-24-2-pm-the-1991-firestorm-walking-tour-led-by-janet-byron-with-bob-johnson/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Berkeley Historical Society & Museum",
+      "starts_at": "2026-10-24T14:00:00-07:00",
+      "tags": [
+        "local history",
+        "walking tour",
+        "East Bay",
+        "firestorm"
+      ],
+      "title": "The 1991 Firestorm, walking tour led by Janet Byron with Bob Johnson",
+      "why": "The reporter who first reached the 1991 Oakland-Berkeley Firestorm leads a ground-level walk through what survived, what burned, and how the hillside was rebuilt."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-24T23:30:00-07:00",
+      "id": "evt_2102c2457023ef7e",
+      "last_verified_at": "2026-10-21T14:11:28Z",
+      "neighborhood": "Mission",
+      "official_url": "https://www.thelab.org/projects/2026/10/24/tyondai-braxton",
+      "price_note": "$23 advance / $25 door; free or discounted for members",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-24T20:30:00-07:00",
+      "tags": [
+        "experimental music",
+        "sound art",
+        "synthesizers",
+        "San Francisco"
+      ],
+      "title": "Tyondai Braxton + Matt Robidoux",
+      "why": "Braxton’s electroacoustic set meets Robidoux’s touch-driven corn synth: a built instrument, free improvisation, and the Mills Tape Music Center/Buchla lineage in one bill."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-10-28T19:00:00-07:00",
+      "id": "evt_754d32c0df760822",
+      "last_verified_at": "2026-10-21T14:11:28Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/dia-de-los-muertos-celebration",
+      "price_note": null,
+      "radar": false,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-10-28T16:00:00-07:00",
+      "tags": [
+        "community arts",
+        "printmaking",
+        "Oakland",
+        "Day of the Dead"
+      ],
+      "title": "Dia De Los Muertos Community Celebration",
+      "why": "A small East Oakland art-center gathering with workshops and printmaking, followed by altar installations and a drum lament on Nov. 2."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-29T19:30:00-07:00",
+      "id": "evt_b08f892e6f756b4f",
+      "last_verified_at": "2026-10-21T14:11:28Z",
+      "neighborhood": null,
+      "official_url": "https://www.paradoxlab.org/events-1/2026/2/26/philosophy-salon-at-exploratoriums-after-dark-e9cfl-2lnec-berlx",
+      "price_note": null,
+      "radar": false,
+      "source_name": "The Paradox Lab",
+      "starts_at": "2026-10-29T18:00:00-07:00",
+      "tags": [
+        "philosophy",
+        "consciousness",
+        "salon",
+        "San Francisco"
+      ],
+      "title": "Philosophy Salon at Manny's: Philosophical Zombies",
+      "why": "A properly peculiar consciousness salon: can something behave exactly like a person while having no inner life, and would that change how you treat it?"
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-10T21:00:00-08:00",
+      "id": "evt_1770973de184b3c1",
+      "last_verified_at": "2026-10-21T14:11:28Z",
+      "neighborhood": "Fort Mason",
+      "official_url": "https://longnow.org/entangled",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Long Now",
+      "starts_at": "2026-11-10T18:00:00-08:00",
+      "tags": [
+        "intelligence",
+        "art-science",
+        "consciousness",
+        "San Francisco"
+      ],
+      "title": "Entangled Intelligences",
+      "why": "The closest thing here to a Deliria2-adjacent big-brain variety show: biologists, an AI artist, Jaron Lanier, and cross-species intelligence in one room."
+    },
+    {
+      "all_day": false,
+      "city": "Palo Alto",
+      "ends_at": null,
+      "id": "evt_63c4bba8ef5521ee",
+      "last_verified_at": "2026-10-21T14:11:28Z",
+      "neighborhood": "Stanford Research Park",
+      "official_url": "https://www.scaruffi.com/leonardo/nov2026.html",
+      "price_note": "Free and open to everybody",
+      "radar": true,
+      "source_name": "Leonardo LASER",
+      "starts_at": "2026-11-18T17:30:00-08:00",
+      "tags": [
+        "art-science",
+        "media art",
+        "consciousness",
+        "Palo Alto"
+      ],
+      "title": "Leonardo Art Science Evening Rendezvous: Liat Berdugo + Vinod Menon",
+      "why": "This is the art-science salon lane: gestural interfaces, embodied technology, brain networks, selfhood, and consciousness, with time to mingle."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-10-21T14:11:28Z",
+      "neighborhood": "Mission",
+      "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "machine art",
+        "bioart",
+        "robotics",
+        "sound art",
+        "Gray Area"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "Direct Deliria2 territory: plant sensors, live bacteria, tiny crustaceans, robot motion, generative sound, and a human breath-triggered pipe organ."
+    }
+  ],
+  "generated_at": "2026-10-21T14:12:21Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
