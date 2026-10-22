@@ -1,0 +1,176 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": null,
+      "id": "evt_12578dca2cabf46f",
+      "last_verified_at": "2026-10-22T14:10:20Z",
+      "neighborhood": "Downtown Berkeley",
+      "official_url": "https://www.berkeleysouthasian.org/tour/berkeley/",
+      "price_note": "$25; discounts available for youth, students, and low-income attendees.",
+      "radar": false,
+      "source_name": "Berkeley South Asian Radical History Tour",
+      "starts_at": "2026-10-24T10:00:00-07:00",
+      "tags": [
+        "history",
+        "walking tour",
+        "activism",
+        "outdoors"
+      ],
+      "title": "Berkeley South Asian Radical History Walking Tour",
+      "why": "An accessible walk through four generations of local South Asian radical history, led where that history happened."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-24T23:30:00-07:00",
+      "id": "evt_2102c2457023ef7e",
+      "last_verified_at": "2026-10-22T14:10:20Z",
+      "neighborhood": "Mission",
+      "official_url": "https://www.thelab.org/projects/2026/10/24/tyondai-braxton",
+      "price_note": "$23 advance / $25 door.",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-10-24T20:30:00-07:00",
+      "tags": [
+        "experimental music",
+        "electronic",
+        "sound art",
+        "performance"
+      ],
+      "title": "Tyondai Braxton + Matt Robidoux",
+      "why": "Braxton's electroacoustics meet Robidoux's tactile corn-synth improvisation—an absurdly serious sound-art pairing."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-28T22:00:00-07:00",
+      "id": "evt_1de1bb2e01a8f37b",
+      "last_verified_at": "2026-10-22T14:10:20Z",
+      "neighborhood": "Mission",
+      "official_url": "https://grayarea.org/event/scaling-intelligence/",
+      "price_note": "Waitlist only; exhibition is free through Nov. 1.",
+      "radar": false,
+      "source_name": "Gray Area",
+      "starts_at": "2026-10-28T19:00:00-07:00",
+      "tags": [
+        "new media",
+        "art and technology",
+        "AI art",
+        "exhibition"
+      ],
+      "title": "Scaling Intelligence — Modal x Gray Area Commissions — Opening Night",
+      "why": "Eleven commissioned works connect satellites, microbes, neural networks, forests, and watersheds—an art show rather than a pitch deck."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-29T19:30:00-07:00",
+      "id": "evt_8150b8166d4857bd",
+      "last_verified_at": "2026-10-22T14:10:20Z",
+      "neighborhood": "Mission",
+      "official_url": "https://www.eventbrite.com/e/philosophy-salon-with-the-paradox-lab-philosophical-zombies-tickets-2001407172730",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Manny's / The Paradox Lab",
+      "starts_at": "2026-10-29T18:00:00-07:00",
+      "tags": [
+        "philosophy",
+        "consciousness",
+        "cognitive science",
+        "salon"
+      ],
+      "title": "Philosophy Salon with The Paradox Lab: Philosophical Zombies",
+      "why": "A philosophy-of-mind salon on qualia, consciousness, and whether a perfect human simulacrum could be dark inside."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-04T20:00:00-08:00",
+      "id": "evt_486c72b78cbfa7ca",
+      "last_verified_at": "2026-10-22T14:10:20Z",
+      "neighborhood": "Mission",
+      "official_url": "https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-workshop-2-2/",
+      "price_note": "Pay what you want; $25 suggested.",
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-04T18:00:00-08:00",
+      "tags": [
+        "bio-art",
+        "robotics",
+        "sound art",
+        "workshop"
+      ],
+      "title": "Patch Bay — Translating Living Systems into Robotics and Music",
+      "why": "Kildall and Spelletich turn plant, fungal, and bacterial signals into sound and robots: natural-intelligence practice, not AI boosterism."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-05T21:00:00-08:00",
+      "id": "evt_a51e54f859b6878f",
+      "last_verified_at": "2026-10-22T14:10:20Z",
+      "neighborhood": "Mission",
+      "official_url": "https://www.thelab.org/projects/2026/11/5/marjorie-keller-intimate-observer",
+      "price_note": "$15; free or discounted for members.",
+      "radar": true,
+      "source_name": "The Lab / San Francisco Cinematheque",
+      "starts_at": "2026-11-05T19:00:00-08:00",
+      "tags": [
+        "experimental film",
+        "16mm",
+        "media archaeology",
+        "screening"
+      ],
+      "title": "Marjorie Keller: Intimate Observer",
+      "why": "A Cinematheque-curated program of 8mm, Super-8, and 16mm work by a feminist experimental-film original."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-10T21:00:00-08:00",
+      "id": "evt_e05c132ad254fa33",
+      "last_verified_at": "2026-10-22T14:10:20Z",
+      "neighborhood": "Fort Mason",
+      "official_url": "https://longnow.org/entangled",
+      "price_note": "Official listing directs to a waitlist.",
+      "radar": true,
+      "source_name": "Long Now",
+      "starts_at": "2026-11-10T19:00:00-08:00",
+      "tags": [
+        "intelligence",
+        "consciousness",
+        "art and science",
+        "speculative technology"
+      ],
+      "title": "Entangled Intelligences",
+      "why": "Long Now convenes Jaron Lanier, Michael Levin, Sara Imari Walker, artists, and scientists on biological and synthetic intelligence."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-10-22T14:10:20Z",
+      "neighborhood": "Mission",
+      "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "machine art",
+        "bio-art",
+        "robotics",
+        "sound art",
+        "participatory"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "The clearest current Deliria2-adjacent hit: sensors, bacteria, plants, ostracods, robots, sound, and a breathalyzer pipe organ."
+    }
+  ],
+  "generated_at": "2026-10-22T14:11:17Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
