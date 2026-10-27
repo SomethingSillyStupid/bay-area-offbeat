@@ -1,0 +1,158 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-29T19:30:00-07:00",
+      "id": "evt_8150b8166d4857bd",
+      "last_verified_at": "2026-10-27T14:08:54Z",
+      "neighborhood": null,
+      "official_url": "https://www.eventbrite.com/e/philosophy-salon-with-the-paradox-lab-philosophical-zombies-tickets-2001407172730",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Manny's / The Paradox Lab",
+      "starts_at": "2026-10-29T18:00:00-07:00",
+      "tags": [
+        "philosophy",
+        "consciousness",
+        "cognitive science",
+        "salon"
+      ],
+      "title": "Philosophy Salon with The Paradox Lab: Philosophical Zombies",
+      "why": "A public thought experiment about consciousness and whether a human-like being can be dark inside: a fine little reality-inquiry room."
+    },
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": "2026-11-01T21:00:00-08:00",
+      "id": "evt_091d2bb416d152a5",
+      "last_verified_at": "2026-10-27T14:08:54Z",
+      "neighborhood": "UC Berkeley",
+      "official_url": "https://events.berkeley.edu/cnmat/event/333029-galan-trio-concert",
+      "price_note": "Free and open to the public",
+      "radar": false,
+      "source_name": "UC Berkeley CNMAT",
+      "starts_at": "2026-11-01T20:00:00-08:00",
+      "tags": [
+        "new music",
+        "contemporary composition",
+        "experimental music",
+        "East Bay"
+      ],
+      "title": "Galan Trio Concert",
+      "why": "A free CNMAT program built around five newly commissioned works: an East Bay chance to hear living contemporary composition outside the usual concert circuit."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-04T20:00:00-08:00",
+      "id": "evt_89d0f113986e1c2d",
+      "last_verified_at": "2026-10-27T14:08:54Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-workshop-2-2/",
+      "price_note": "Pay what you want; suggested donation $25",
+      "radar": false,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-04T18:00:00-08:00",
+      "tags": [
+        "bioart",
+        "robotics",
+        "sound art",
+        "creative technology",
+        "workshop"
+      ],
+      "title": "Patch Bay — Translating Living Systems into Robotics and Music [Workshop]",
+      "why": "Scott Kildall and Kal Spelletich turn biological signals into robot motion and sound, then open up their data-art hardware and creative decisions to the room."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-05T21:00:00-08:00",
+      "id": "evt_a51e54f859b6878f",
+      "last_verified_at": "2026-10-27T14:08:54Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/11/5/marjorie-keller-intimate-observer",
+      "price_note": "$15; free or discounted for members",
+      "radar": false,
+      "source_name": "The Lab / San Francisco Cinematheque",
+      "starts_at": "2026-11-05T19:00:00-08:00",
+      "tags": [
+        "experimental film",
+        "16mm",
+        "feminist film",
+        "media history"
+      ],
+      "title": "Marjorie Keller: Intimate Observer",
+      "why": "A screening-driven look at a fiercely independent 8mm and 16mm filmmaker, framed around domestic life, feminism, and experimental-cinema lineage."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-06T23:00:00-08:00",
+      "id": "evt_31f7bc491e2ee9f2",
+      "last_verified_at": "2026-10-27T14:08:54Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/11/7/eternities-bob-bellerue-katie-porter-antimatter",
+      "price_note": "$17; free or discounted for members",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-11-06T20:00:00-08:00",
+      "tags": [
+        "experimental music",
+        "drone",
+        "feedback",
+        "sound art",
+        "electronics"
+      ],
+      "title": "Eternities (Bob Bellerue / Katie Porter) + Antimatter",
+      "why": "Sustained bass-clarinet and feedback drones meet industrial oscillators and military-surplus sound machines: a properly sideways night of physical electronics."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-10T21:00:00-08:00",
+      "id": "evt_4aed72e332f4ca12",
+      "last_verified_at": "2026-10-27T14:08:54Z",
+      "neighborhood": "Fort Mason",
+      "official_url": "https://www.eventbrite.com/e/entangled-intelligences-tickets-1992365697434?aff=oddtdtcreator",
+      "price_note": null,
+      "radar": true,
+      "source_name": "The Long Now Foundation",
+      "starts_at": "2026-11-10T19:00:00-08:00",
+      "tags": [
+        "intelligence",
+        "consciousness",
+        "synthetic biology",
+        "art and technology",
+        "talk"
+      ],
+      "title": "Entangled Intelligences",
+      "why": "A cross-disciplinary room for interspecies intelligence, moving with David Eagleman, Jaron Lanier, Michael Levin, and others from microbes to synthetic agents."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-10-27T14:08:54Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+      "price_note": "$0–$25 sliding scale",
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "bioart",
+        "robotics",
+        "machine art",
+        "sound art",
+        "participatory"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "Bacteria, plants, and tiny crustaceans drive robots, sound, and a breathalyzer-activated pipe organ in a live Natural Intelligence performance."
+    }
+  ],
+  "generated_at": "2026-10-27T14:10:23Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
