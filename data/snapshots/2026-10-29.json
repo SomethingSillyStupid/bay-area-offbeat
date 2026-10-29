@@ -1,0 +1,159 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-10-29T19:30:00-07:00",
+      "id": "evt_b08f892e6f756b4f",
+      "last_verified_at": "2026-10-29T14:10:00Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.paradoxlab.org/events-1/2026/2/26/philosophy-salon-at-exploratoriums-after-dark-e9cfl-2lnec-berlx",
+      "price_note": null,
+      "radar": false,
+      "source_name": "The Paradox Lab",
+      "starts_at": "2026-10-29T18:00:00-07:00",
+      "tags": [
+        "philosophy",
+        "consciousness",
+        "mind",
+        "salon"
+      ],
+      "title": "Philosophy Salon at Manny's: Philosophical Zombies",
+      "why": "A Halloween-worthy philosophy-of-mind salon asking whether human-seeming behavior can exist without an inner life."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": null,
+      "id": "evt_71fc3b7fbb6dffa6",
+      "last_verified_at": "2026-10-29T14:10:00Z",
+      "neighborhood": null,
+      "official_url": "https://www.paramountoakland.org/events/detail/frankenstein",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Paramount Theatre",
+      "starts_at": "2026-10-31T15:00:00-07:00",
+      "tags": [
+        "film",
+        "35mm",
+        "Halloween",
+        "Oakland",
+        "organ"
+      ],
+      "title": "Frankenstein (1931)",
+      "why": "The right seasonal detour: Boris Karloff in 35 mm, a live Mighty Wurlitzer, cartoons, and an Art Deco movie palace."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-04T20:00:00-08:00",
+      "id": "evt_facba2428a411b0b",
+      "last_verified_at": "2026-10-29T14:10:00Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://luma.com/mgofofs3",
+      "price_note": "Suggested donation $25; pay what you want",
+      "radar": false,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-04T18:00:00-08:00",
+      "tags": [
+        "bioart",
+        "robotics",
+        "sound",
+        "hacker art",
+        "Gray Area"
+      ],
+      "title": "Patch Bay: Translating Living Systems into Robotics and Music",
+      "why": "Closest thing to the Deliria2 brief this week: artists turn plant, fungal, and bacterial signals into hacked electronics, robotics, and sound."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-05T21:00:00-08:00",
+      "id": "evt_a51e54f859b6878f",
+      "last_verified_at": "2026-10-29T14:10:00Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/11/5/marjorie-keller-intimate-observer",
+      "price_note": "$15; free or discounted for members",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-11-05T19:00:00-08:00",
+      "tags": [
+        "experimental film",
+        "feminist film",
+        "screening",
+        "Mission"
+      ],
+      "title": "Marjorie Keller: Intimate Observer",
+      "why": "A rare public route into an underseen feminist experimental-film body of work, with Steve Anker presenting a 1972-79 program."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-06T21:00:00-08:00",
+      "id": "evt_a7c4a19b3ba2ea0d",
+      "last_verified_at": "2026-10-29T14:10:00Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/film-fridays-safar-journey-a-film-by-priyanka-suryaneni",
+      "price_note": "Free; food and refreshments provided",
+      "radar": false,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-11-06T19:00:00-08:00",
+      "tags": [
+        "film",
+        "local history",
+        "East Oakland",
+        "discussion",
+        "free"
+      ],
+      "title": "Film Fridays: Safar (Journey)",
+      "why": "A free East Oakland screening connecting South Asian history at Angel Island to a discussion with the filmmaker, more civic memory than ordinary movie night."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_02f98ce811a54c0d",
+      "last_verified_at": "2026-10-29T14:10:00Z",
+      "neighborhood": null,
+      "official_url": "https://canyoncinema.com/2026/10/19/rock-ross-go-like-this-the-roxie-nov-11/",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Canyon Cinema",
+      "starts_at": "2026-11-11T18:00:00-08:00",
+      "tags": [
+        "16mm",
+        "experimental film",
+        "media archaeology",
+        "live piano",
+        "screening"
+      ],
+      "title": "Rock Ross: Go Like This",
+      "why": "A 16 mm night with a local underground-film lifer in person, wry scratch animation, a Mothlight parody, and live piano."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-10-29T14:10:00Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "bioart",
+        "robotics",
+        "sound",
+        "machine art",
+        "Gray Area"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "The most literal Deliria2-adjacent performance on the board: plants, bacteria, and tiny crustaceans drive sound, robots, and a breathalyzer pipe organ."
+    }
+  ],
+  "generated_at": "2026-10-29T14:10:50Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
