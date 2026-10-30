@@ -2,56 +2,56 @@
   "events": [
     {
       "all_day": false,
-      "city": "San Francisco",
-      "ends_at": "2026-10-29T19:30:00-07:00",
-      "id": "evt_b08f892e6f756b4f",
-      "last_verified_at": "2026-10-29T14:10:00Z",
-      "neighborhood": "Mission District",
-      "official_url": "https://www.paradoxlab.org/events-1/2026/2/26/philosophy-salon-at-exploratoriums-after-dark-e9cfl-2lnec-berlx",
-      "price_note": null,
+      "city": "Berkeley",
+      "ends_at": "2026-10-31T12:00:00-07:00",
+      "id": "evt_21ff6673c8e903f9",
+      "last_verified_at": "2026-10-30T14:10:21Z",
+      "neighborhood": "Tilden Nature Area",
+      "official_url": "https://anc.apm.activecommunities.com/ebparks/activity/search/detail/60204?onlineSiteId=0&from_original_cui=true",
+      "price_note": "Free; drop-in",
       "radar": false,
-      "source_name": "The Paradox Lab",
-      "starts_at": "2026-10-29T18:00:00-07:00",
+      "source_name": "East Bay Regional Park District",
+      "starts_at": "2026-10-31T11:00:00-07:00",
       "tags": [
-        "philosophy",
-        "consciousness",
-        "mind",
-        "salon"
+        "nature",
+        "oddity",
+        "walk",
+        "free",
+        "East Bay"
       ],
-      "title": "Philosophy Salon at Manny's: Philosophical Zombies",
-      "why": "A Halloween-worthy philosophy-of-mind salon asking whether human-seeming behavior can exist without an inner life."
+      "title": "Plant Gall Gala",
+      "why": "A bizarre-natural-history stroll with plant-gall lore, then a handmade accessory and green-carpet reveal."
     },
     {
       "all_day": false,
-      "city": "Oakland",
+      "city": "San Francisco",
       "ends_at": null,
-      "id": "evt_71fc3b7fbb6dffa6",
-      "last_verified_at": "2026-10-29T14:10:00Z",
-      "neighborhood": null,
-      "official_url": "https://www.paramountoakland.org/events/detail/frankenstein",
+      "id": "evt_829cfac187bd4241",
+      "last_verified_at": "2026-10-30T14:10:21Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.atasite.org/event/rewards-program-malignant/",
       "price_note": null,
       "radar": false,
-      "source_name": "Paramount Theatre",
-      "starts_at": "2026-10-31T15:00:00-07:00",
+      "source_name": "Artists' Television Access",
+      "starts_at": "2026-11-02T19:30:00-08:00",
       "tags": [
-        "film",
-        "35mm",
-        "Halloween",
-        "Oakland",
-        "organ"
+        "experimental film",
+        "celluloid",
+        "live score",
+        "small venue"
       ],
-      "title": "Frankenstein (1931)",
-      "why": "The right seasonal detour: Boris Karloff in 35 mm, a live Mighty Wurlitzer, cartoons, and an Art Deco movie palace."
+      "title": "Rewards Program: Malignant",
+      "why": "A live-scored three-projector celluloid performance brings Oakland and SF experimental-media people into one small-room event."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": "2026-11-04T20:00:00-08:00",
-      "id": "evt_facba2428a411b0b",
-      "last_verified_at": "2026-10-29T14:10:00Z",
+      "id": "evt_0f743f8038b52b2f",
+      "last_verified_at": "2026-10-30T14:10:21Z",
       "neighborhood": "Mission District",
-      "official_url": "https://luma.com/mgofofs3",
-      "price_note": "Suggested donation $25; pay what you want",
+      "official_url": "https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-workshop-2-2/",
+      "price_note": "Pay what you want; $25 suggested donation",
       "radar": false,
       "source_name": "Gray Area",
       "starts_at": "2026-11-04T18:00:00-08:00",
@@ -59,40 +59,40 @@
         "bioart",
         "robotics",
         "sound",
-        "hacker art",
-        "Gray Area"
+        "creative technology",
+        "workshop"
       ],
       "title": "Patch Bay: Translating Living Systems into Robotics and Music",
-      "why": "Closest thing to the Deliria2 brief this week: artists turn plant, fungal, and bacterial signals into hacked electronics, robotics, and sound."
+      "why": "The Kildall-Spelletich workshop turns bio-signals into hacked electronics, sound, and robot movement: the week's clearest Deliria2 match."
     },
     {
       "all_day": false,
-      "city": "San Francisco",
-      "ends_at": "2026-11-05T21:00:00-08:00",
-      "id": "evt_a51e54f859b6878f",
-      "last_verified_at": "2026-10-29T14:10:00Z",
-      "neighborhood": "Mission District",
-      "official_url": "https://www.thelab.org/projects/2026/11/5/marjorie-keller-intimate-observer",
-      "price_note": "$15; free or discounted for members",
+      "city": "Oakland",
+      "ends_at": "2026-11-06T19:30:00-08:00",
+      "id": "evt_ca29dc07cc3b7144",
+      "last_verified_at": "2026-10-30T14:10:21Z",
+      "neighborhood": "Lake Merritt",
+      "official_url": "https://www.berkeleypaths.org/upcoming-events/2026/11/6/evening-walk-around-lake-merritt",
+      "price_note": null,
       "radar": false,
-      "source_name": "The Lab",
-      "starts_at": "2026-11-05T19:00:00-08:00",
+      "source_name": "Berkeley Path Wanderers",
+      "starts_at": "2026-11-06T17:30:00-08:00",
       "tags": [
-        "experimental film",
-        "feminist film",
-        "screening",
-        "Mission"
+        "walk",
+        "urban nature",
+        "history",
+        "East Bay"
       ],
-      "title": "Marjorie Keller: Intimate Observer",
-      "why": "A rare public route into an underseen feminist experimental-film body of work, with Steve Anker presenting a 1972-79 program."
+      "title": "Evening Walk around Lake Merritt",
+      "why": "A low-key twilight loop through the refuge, birdlife, skyline reflections, and the old Necklace of Lights."
     },
     {
       "all_day": false,
       "city": "Oakland",
       "ends_at": "2026-11-06T21:00:00-08:00",
       "id": "evt_a7c4a19b3ba2ea0d",
-      "last_verified_at": "2026-10-29T14:10:00Z",
-      "neighborhood": null,
+      "last_verified_at": "2026-10-30T14:10:21Z",
+      "neighborhood": "East Oakland",
       "official_url": "https://www.eastsideartsalliance.org/calendar/film-fridays-safar-journey-a-film-by-priyanka-suryaneni",
       "price_note": "Free; food and refreshments provided",
       "radar": false,
@@ -100,60 +100,104 @@
       "starts_at": "2026-11-06T19:00:00-08:00",
       "tags": [
         "film",
-        "local history",
-        "East Oakland",
+        "history",
         "discussion",
-        "free"
+        "free",
+        "East Bay"
       ],
       "title": "Film Fridays: Safar (Journey)",
-      "why": "A free East Oakland screening connecting South Asian history at Angel Island to a discussion with the filmmaker, more civic memory than ordinary movie night."
+      "why": "A film tracing South Asian histories at Angel Island, followed by a discussion with Priyanka Suryaneni at a vital East Oakland art center."
     },
     {
       "all_day": false,
       "city": "San Francisco",
-      "ends_at": null,
-      "id": "evt_02f98ce811a54c0d",
-      "last_verified_at": "2026-10-29T14:10:00Z",
-      "neighborhood": null,
-      "official_url": "https://canyoncinema.com/2026/10/19/rock-ross-go-like-this-the-roxie-nov-11/",
-      "price_note": null,
-      "radar": true,
-      "source_name": "Canyon Cinema",
-      "starts_at": "2026-11-11T18:00:00-08:00",
+      "ends_at": "2026-11-07T20:00:00-08:00",
+      "id": "evt_67c4ee47bc57021b",
+      "last_verified_at": "2026-10-30T14:10:21Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/11/7/wendy-clarke-the-prison-tapes",
+      "price_note": "Free; RSVP optional",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-11-07T18:30:00-08:00",
       "tags": [
-        "16mm",
-        "experimental film",
-        "media archaeology",
-        "live piano",
-        "screening"
+        "video art",
+        "screening",
+        "conversation",
+        "free",
+        "archives"
       ],
-      "title": "Rock Ross: Go Like This",
-      "why": "A 16 mm night with a local underground-film lifer in person, wry scratch animation, a Mothlight parody, and live piano."
+      "title": "Wendy Clarke: The Prison Tapes",
+      "why": "Rare video works and a live conversation connect a 1979–2002 prison-art practice to Ear Hustle's Nigel Poor."
+    },
+    {
+      "all_day": false,
+      "city": "Palo Alto",
+      "ends_at": null,
+      "id": "evt_ea34ed3aea9e02d0",
+      "last_verified_at": "2026-10-30T14:10:21Z",
+      "neighborhood": "Stanford Research Park",
+      "official_url": "https://www.scaruffi.com/leonardo/nov2026.html",
+      "price_note": "Free and open to everybody",
+      "radar": true,
+      "source_name": "Leonardo Art Science Evening Rendezvous",
+      "starts_at": "2026-11-18T17:30:00-08:00",
+      "tags": [
+        "art and science",
+        "consciousness",
+        "media art",
+        "salon",
+        "free"
+      ],
+      "title": "Leonardo Art/Science Evening Rendezvous",
+      "why": "Liat Berdugo on gestural interfaces plus Vinod Menon on the self and consciousness makes this a genuine art-tech-and-mind salon."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": null,
       "id": "evt_a620fe101f56efd1",
-      "last_verified_at": "2026-10-29T14:10:00Z",
+      "last_verified_at": "2026-10-30T14:10:21Z",
       "neighborhood": "Mission District",
       "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
-      "price_note": null,
+      "price_note": "Ticketed",
       "radar": true,
       "source_name": "Gray Area",
       "starts_at": "2026-11-19T19:00:00-08:00",
       "tags": [
+        "machine art",
         "bioart",
         "robotics",
         "sound",
-        "machine art",
-        "Gray Area"
+        "participatory"
       ],
       "title": "Micro To Macro: Microorganisms, Sound and Robots",
-      "why": "The most literal Deliria2-adjacent performance on the board: plants, bacteria, and tiny crustaceans drive sound, robots, and a breathalyzer pipe organ."
+      "why": "Bacteria, plant sensors, ostracods, robots, lights, and a breathalyzer organ: the purest local machine-art night-lab proposition on the board."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-12-01T21:00:00-08:00",
+      "id": "evt_1f5aad4c1a002027",
+      "last_verified_at": "2026-10-30T14:10:21Z",
+      "neighborhood": "Civic Center",
+      "official_url": "https://longnow.org/talks/02026-prelinger/",
+      "price_note": "Ticketed; Long Now members can claim two free tickets",
+      "radar": true,
+      "source_name": "Long Now",
+      "starts_at": "2026-12-01T19:00:00-08:00",
+      "tags": [
+        "archives",
+        "film",
+        "local history",
+        "media archaeology",
+        "participatory"
+      ],
+      "title": "Rick Prelinger: Lost Landscapes 02026",
+      "why": "Prelinger's noisy-audience collage of home movies, industrial film, lost infrastructure, and SF memory is archival culture as a live civic séance."
     }
   ],
-  "generated_at": "2026-10-29T14:10:50Z",
+  "generated_at": "2026-10-30T14:11:01Z",
   "schema_version": 1,
   "timezone": "America/Los_Angeles"
 }
