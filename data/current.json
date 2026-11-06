@@ -2,74 +2,30 @@
   "events": [
     {
       "all_day": false,
-      "city": "San Francisco",
-      "ends_at": "2026-11-04T20:00:00-08:00",
-      "id": "evt_0f743f8038b52b2f",
-      "last_verified_at": "2026-11-02T14:07:19Z",
-      "neighborhood": null,
-      "official_url": "https://grayarea.org/event/patch-bay-interactive-worlds-ai-figma-workshop-2-2/",
-      "price_note": "$25 suggested donation; pay what you want",
-      "radar": false,
-      "source_name": "Gray Area",
-      "starts_at": "2026-11-04T18:00:00-08:00",
-      "tags": [
-        "bio-art",
-        "robotics",
-        "sound",
-        "machine art",
-        "workshop"
-      ],
-      "title": "Patch Bay: Translating Living Systems into Robotics and Music",
-      "why": "A rare chance to poke at real bio-art hardware with two Bay Area machine-art veterans, translating plants, fungi, bacteria, and data into sound and robotic action."
-    },
-    {
-      "all_day": false,
-      "city": "San Francisco",
-      "ends_at": "2026-11-05T21:00:00-08:00",
-      "id": "evt_a51e54f859b6878f",
-      "last_verified_at": "2026-11-02T14:07:19Z",
-      "neighborhood": "Mission",
-      "official_url": "https://www.thelab.org/projects/2026/11/5/marjorie-keller-intimate-observer",
-      "price_note": "$15; free or discounted for members",
-      "radar": false,
-      "source_name": "The Lab",
-      "starts_at": "2026-11-05T19:00:00-08:00",
-      "tags": [
-        "experimental film",
-        "16mm",
-        "media history",
-        "screening"
-      ],
-      "title": "Marjorie Keller: Intimate Observer",
-      "why": "A sharp archival survey of a feminist experimental-film force, with 8mm and 16mm works screened in a small Mission room and introduced by Steve Anker."
-    },
-    {
-      "all_day": false,
       "city": "Oakland",
-      "ends_at": "2026-11-06T19:30:00-08:00",
-      "id": "evt_ca29dc07cc3b7144",
-      "last_verified_at": "2026-11-02T14:07:19Z",
-      "neighborhood": "Lake Merritt",
-      "official_url": "https://www.berkeleypaths.org/upcoming-events/2026/11/6/evening-walk-around-lake-merritt",
-      "price_note": null,
+      "ends_at": "2026-11-06T21:00:00-08:00",
+      "id": "evt_e1b23ea56e9cb548",
+      "last_verified_at": "2026-11-06T14:09:46Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/film-fridays-safar-journey-a-film-by-priyanka-suryaneni",
+      "price_note": "Free; food and refreshments provided",
       "radar": false,
-      "source_name": "Berkeley Path Wanderers Association",
-      "starts_at": "2026-11-06T17:30:00-08:00",
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-11-06T19:00:00-08:00",
       "tags": [
-        "walk",
-        "local nature",
-        "Oakland",
-        "night"
+        "film",
+        "local history",
+        "discussion"
       ],
-      "title": "Evening Walk around Lake Merritt",
-      "why": "An after-dark, 3.5-mile loop for skyline reflections, the Necklace of Lights, and likely encounters with night herons, pelicans, egrets, and cormorants."
+      "title": "Film Fridays: Safar (Journey) a Film by Priyanka Suryaneni",
+      "why": "A direct local-history film about South Asian histories at Angel Island, followed by a discussion with Priyanka Suryaneni—not just a screening."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": "2026-11-07T20:00:00-08:00",
       "id": "evt_67c4ee47bc57021b",
-      "last_verified_at": "2026-11-02T14:07:19Z",
+      "last_verified_at": "2026-11-06T14:09:46Z",
       "neighborhood": "Mission",
       "official_url": "https://www.thelab.org/projects/2026/11/7/wendy-clarke-the-prison-tapes",
       "price_note": "Free; RSVP optional",
@@ -79,100 +35,161 @@
       "tags": [
         "video art",
         "experimental film",
-        "archives",
-        "conversation"
+        "conversation",
+        "archives"
       ],
       "title": "Wendy Clarke: The Prison Tapes",
-      "why": "A rare evening of prison-made video art and conversation with pioneering artist Wendy Clarke and Ear Hustle cofounder Nigel Poor, treating the camera as a tool for exchange instead of content churn."
+      "why": "Rare video art made through long-term prison collaborations, plus a live conversation with the artist and Ear Hustle cofounder Nigel Poor."
     },
     {
       "all_day": false,
-      "city": "San Francisco",
-      "ends_at": null,
-      "id": "evt_e05c132ad254fa33",
-      "last_verified_at": "2026-11-02T14:07:19Z",
-      "neighborhood": null,
-      "official_url": "https://longnow.org/entangled",
-      "price_note": "In-person waitlist; livestream available",
+      "city": "Berkeley",
+      "ends_at": "2026-11-07T12:30:00-08:00",
+      "id": "evt_1c1deef6491d6954",
+      "last_verified_at": "2026-11-06T14:09:46Z",
+      "neighborhood": "Elmwood",
+      "official_url": "https://berkeleypaths.org/upcoming-events/2026/11/7/little-free-libraries-elmwood-claremont-rockridge",
+      "price_note": null,
       "radar": false,
-      "source_name": "Long Now Foundation",
-      "starts_at": "2026-11-10T19:00:00-08:00",
+      "source_name": "Berkeley Path Wanderers Association",
+      "starts_at": "2026-11-07T10:00:00-08:00",
       "tags": [
-        "consciousness",
-        "art-science",
-        "intelligence",
-        "talks"
+        "walk",
+        "book swap",
+        "local culture"
       ],
-      "title": "Entangled Intelligences",
-      "why": "A cross-disciplinary night with Jaron Lanier, Michael Levin, David Eagleman, Sara Imari Walker, Sasha Stiles, and others probing biological, synthetic, and cosmic intelligence."
+      "title": "Little Free Libraries of Elmwood and Environs",
+      "why": "A mostly flat, dog-friendly 2.5-mile ramble through tiny community libraries, whimsical yard art, and an elfin village, with optional book swaps."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-10T21:00:00-08:00",
+      "id": "evt_7313b125b0f5d57e",
+      "last_verified_at": "2026-11-06T14:09:46Z",
+      "neighborhood": "Mission",
+      "official_url": "https://www.eventbrite.com/e/uncanny-alley-emmy-winning-immersive-theater-one-night-only-tickets-2003752247913",
+      "price_note": "$28.52",
+      "radar": false,
+      "source_name": "SF SIGGRAPH at Gray Area",
+      "starts_at": "2026-11-10T18:00:00-08:00",
+      "tags": [
+        "immersive theater",
+        "VR",
+        "live performance",
+        "art tech"
+      ],
+      "title": "Uncanny Alley — Emmy-Winning Immersive Theater, One Night Only",
+      "why": "An actual cross-city live-VR theater piece: performers, audience avatars, a hacker escape plot, and a behind-the-scenes tour of its real-time show-control system."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": null,
-      "id": "evt_ab6af08617251554",
-      "last_verified_at": "2026-11-02T14:07:19Z",
-      "neighborhood": null,
-      "official_url": "https://roxie.com/film/rock-ross-go-like-this-16mm/#showtimes",
-      "price_note": "Free or discounted for Roxie members",
+      "id": "evt_02f98ce811a54c0d",
+      "last_verified_at": "2026-11-06T14:09:46Z",
+      "neighborhood": "Mission",
+      "official_url": "https://canyoncinema.com/2026/10/19/rock-ross-go-like-this-the-roxie-nov-11/",
+      "price_note": null,
       "radar": false,
-      "source_name": "Roxie Theater / Canyon Cinema",
+      "source_name": "Canyon Cinema",
       "starts_at": "2026-11-11T18:00:00-08:00",
       "tags": [
         "experimental film",
         "16mm",
         "media archaeology",
-        "Q&A"
+        "live score"
       ],
       "title": "Rock Ross: Go Like This",
-      "why": "A 16mm and camera-originals survey of local experimental-film lifer Rock Ross, with the filmmaker in person for a post-screening Q&A."
+      "why": "A local underground-film lifer presents a 16 mm program of playful, scratched, hand-made city films, with Rock Ross in person and live piano."
+    },
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": "2026-11-14T16:30:00-08:00",
+      "id": "evt_8ace4390922c8e91",
+      "last_verified_at": "2026-11-06T14:09:46Z",
+      "neighborhood": "Lorin",
+      "official_url": "https://berkhistory.org/2026/10/28/saturday-november-14-3-pm-history-roadshow-adeline-street-area/",
+      "price_note": "Free; RSVP by Nov. 11",
+      "radar": false,
+      "source_name": "Berkeley Historical Society & Museum",
+      "starts_at": "2026-11-14T15:00:00-08:00",
+      "tags": [
+        "local history",
+        "lace",
+        "hands-on",
+        "neighborhood"
+      ],
+      "title": "History Roadshow, Adeline Street Area",
+      "why": "A tiny neighborhood-history roadshow at the lace-and-textile museum: an Ashby/Adeline talk, hands-on lace activity, refreshments, and a take-home history sheet."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-15T14:00:00-08:00",
+      "id": "evt_8fa9c4b1a0d5a009",
+      "last_verified_at": "2026-11-06T14:09:46Z",
+      "neighborhood": "Mission",
+      "official_url": "https://luma.com/kxrxj1xp",
+      "price_note": "Pay what you want; suggested $10",
+      "radar": false,
+      "source_name": "Gray Area / Cybersentics",
+      "starts_at": "2026-11-15T12:00:00-08:00",
+      "tags": [
+        "cybernetics",
+        "synthesizers",
+        "book club",
+        "media history"
+      ],
+      "title": "Cybersentics Book Club: West Coast Sound Synthesis",
+      "why": "The rare book club that makes circuit history into social history: Buchla, Moog, Bay psychedelic scenes, and artists getting intimate with noisy machines."
     },
     {
       "all_day": false,
       "city": "Palo Alto",
       "ends_at": null,
-      "id": "evt_7d7c23e441385353",
-      "last_verified_at": "2026-11-02T14:07:19Z",
+      "id": "evt_b2eeb3dfb99296db",
+      "last_verified_at": "2026-11-06T14:09:46Z",
       "neighborhood": "Stanford Research Park",
       "official_url": "https://www.scaruffi.com/leonardo/nov2026.html",
-      "price_note": "Free; open to everybody",
+      "price_note": "Free",
       "radar": true,
-      "source_name": "Leonardo Art Science Evening Rendezvous",
+      "source_name": "Leonardo Art/Science Evening Rendezvous",
       "starts_at": "2026-11-18T17:30:00-08:00",
       "tags": [
-        "art-science",
+        "art science",
         "consciousness",
-        "interfaces",
-        "talks",
-        "salon"
+        "new media",
+        "philosophy"
       ],
-      "title": "Leonardo Art Science Evening Rendezvous (LASER)",
-      "why": "A notably strong art-science salon: Liat Berdugo on gestural interfaces beside talks on consciousness, selfhood, and AI, followed by discussion and mingling."
+      "title": "Leonardo Art/Science Evening Rendezvous: Gestural Interfaces and Consciousness",
+      "why": "Three precise routes into the benchmark zone: gestural interfaces, consciousness and the self in the age of AI, and which self AI remembers, followed by discussion."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": null,
       "id": "evt_a620fe101f56efd1",
-      "last_verified_at": "2026-11-02T14:07:19Z",
-      "neighborhood": null,
+      "last_verified_at": "2026-11-06T14:09:46Z",
+      "neighborhood": "Mission",
       "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
-      "price_note": "$0–$25 sliding scale",
+      "price_note": null,
       "radar": true,
       "source_name": "Gray Area",
       "starts_at": "2026-11-19T19:00:00-08:00",
       "tags": [
-        "bio-art",
-        "robotics",
         "machine art",
-        "sound",
-        "participatory"
+        "bio art",
+        "robotics",
+        "generative sound",
+        "cybernetics"
       ],
       "title": "Micro To Macro: Microorganisms, Sound and Robots",
-      "why": "A direct Deliria2-style hit: natural-intelligence bio-art drives robots, sound, a participatory plant orchestra, and a breathalyzer-operated pipe organ."
+      "why": "A dead-on Deliria2 match: plant, bacterial, and ostracod signals drive custom electronics, robots, light, sound, and a participatory plant orchestra."
     }
   ],
-  "generated_at": "2026-11-02T14:09:15Z",
+  "generated_at": "2026-11-06T14:10:49Z",
   "schema_version": 1,
   "timezone": "America/Los_Angeles"
 }
