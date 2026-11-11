@@ -2,194 +2,173 @@
   "events": [
     {
       "all_day": false,
-      "city": "Oakland",
-      "ends_at": "2026-11-06T21:00:00-08:00",
-      "id": "evt_e1b23ea56e9cb548",
-      "last_verified_at": "2026-11-06T14:09:46Z",
-      "neighborhood": null,
-      "official_url": "https://www.eastsideartsalliance.org/calendar/film-fridays-safar-journey-a-film-by-priyanka-suryaneni",
-      "price_note": "Free; food and refreshments provided",
-      "radar": false,
-      "source_name": "EastSide Arts Alliance",
-      "starts_at": "2026-11-06T19:00:00-08:00",
-      "tags": [
-        "film",
-        "local history",
-        "discussion"
-      ],
-      "title": "Film Fridays: Safar (Journey) a Film by Priyanka Suryaneni",
-      "why": "A direct local-history film about South Asian histories at Angel Island, followed by a discussion with Priyanka Suryaneni—not just a screening."
-    },
-    {
-      "all_day": false,
       "city": "San Francisco",
-      "ends_at": "2026-11-07T20:00:00-08:00",
-      "id": "evt_67c4ee47bc57021b",
-      "last_verified_at": "2026-11-06T14:09:46Z",
+      "ends_at": "2026-11-13T23:00:00-08:00",
+      "id": "evt_90c2b8c465feeced",
+      "last_verified_at": "2026-11-11T14:07:04Z",
       "neighborhood": "Mission",
-      "official_url": "https://www.thelab.org/projects/2026/11/7/wendy-clarke-the-prison-tapes",
-      "price_note": "Free; RSVP optional",
+      "official_url": "https://www.thelab.org/projects/2026/11/13/dorian-wood-canto-de-todes-roco-crdova",
+      "price_note": "$29; free or discounted for members",
       "radar": false,
       "source_name": "The Lab",
-      "starts_at": "2026-11-07T18:30:00-08:00",
+      "starts_at": "2026-11-13T20:00:00-08:00",
       "tags": [
-        "video art",
-        "experimental film",
-        "conversation",
-        "archives"
+        "experimental music",
+        "performance",
+        "independent arts"
       ],
-      "title": "Wendy Clarke: The Prison Tapes",
-      "why": "Rare video art made through long-term prison collaborations, plus a live conversation with the artist and Ear Hustle cofounder Nigel Poor."
-    },
-    {
-      "all_day": false,
-      "city": "Berkeley",
-      "ends_at": "2026-11-07T12:30:00-08:00",
-      "id": "evt_1c1deef6491d6954",
-      "last_verified_at": "2026-11-06T14:09:46Z",
-      "neighborhood": "Elmwood",
-      "official_url": "https://berkeleypaths.org/upcoming-events/2026/11/7/little-free-libraries-elmwood-claremont-rockridge",
-      "price_note": null,
-      "radar": false,
-      "source_name": "Berkeley Path Wanderers Association",
-      "starts_at": "2026-11-07T10:00:00-08:00",
-      "tags": [
-        "walk",
-        "book swap",
-        "local culture"
-      ],
-      "title": "Little Free Libraries of Elmwood and Environs",
-      "why": "A mostly flat, dog-friendly 2.5-mile ramble through tiny community libraries, whimsical yard art, and an elfin village, with optional book swaps."
+      "title": "Dorian Wood: Canto de Todes + Roco Córdova",
+      "why": "A distilled chamber-folk and experimental work with a local improviser makes this a deliberately sideways Friday performance."
     },
     {
       "all_day": false,
       "city": "San Francisco",
-      "ends_at": "2026-11-10T21:00:00-08:00",
-      "id": "evt_7313b125b0f5d57e",
-      "last_verified_at": "2026-11-06T14:09:46Z",
-      "neighborhood": "Mission",
-      "official_url": "https://www.eventbrite.com/e/uncanny-alley-emmy-winning-immersive-theater-one-night-only-tickets-2003752247913",
-      "price_note": "$28.52",
-      "radar": false,
-      "source_name": "SF SIGGRAPH at Gray Area",
-      "starts_at": "2026-11-10T18:00:00-08:00",
-      "tags": [
-        "immersive theater",
-        "VR",
-        "live performance",
-        "art tech"
-      ],
-      "title": "Uncanny Alley — Emmy-Winning Immersive Theater, One Night Only",
-      "why": "An actual cross-city live-VR theater piece: performers, audience avatars, a hacker escape plot, and a behind-the-scenes tour of its real-time show-control system."
-    },
-    {
-      "all_day": false,
-      "city": "San Francisco",
-      "ends_at": null,
-      "id": "evt_02f98ce811a54c0d",
-      "last_verified_at": "2026-11-06T14:09:46Z",
-      "neighborhood": "Mission",
-      "official_url": "https://canyoncinema.com/2026/10/19/rock-ross-go-like-this-the-roxie-nov-11/",
+      "ends_at": "2026-11-15T00:30:00-08:00",
+      "id": "evt_08b992cf03c9fa85",
+      "last_verified_at": "2026-11-11T14:07:04Z",
+      "neighborhood": null,
+      "official_url": "https://www.eventbrite.com/e/the-san-francisco-underground-short-film-festival-2026-tickets-2002970388350",
       "price_note": null,
       "radar": false,
-      "source_name": "Canyon Cinema",
-      "starts_at": "2026-11-11T18:00:00-08:00",
+      "source_name": "Media Meltdown / 4 Star Theater",
+      "starts_at": "2026-11-14T14:15:00-08:00",
       "tags": [
         "experimental film",
-        "16mm",
-        "media archaeology",
-        "live score"
+        "DIY cinema",
+        "independent film"
       ],
-      "title": "Rock Ross: Go Like This",
-      "why": "A local underground-film lifer presents a 16 mm program of playful, scratched, hand-made city films, with Rock Ross in person and live piano."
-    },
-    {
-      "all_day": false,
-      "city": "Berkeley",
-      "ends_at": "2026-11-14T16:30:00-08:00",
-      "id": "evt_8ace4390922c8e91",
-      "last_verified_at": "2026-11-06T14:09:46Z",
-      "neighborhood": "Lorin",
-      "official_url": "https://berkhistory.org/2026/10/28/saturday-november-14-3-pm-history-roadshow-adeline-street-area/",
-      "price_note": "Free; RSVP by Nov. 11",
-      "radar": false,
-      "source_name": "Berkeley Historical Society & Museum",
-      "starts_at": "2026-11-14T15:00:00-08:00",
-      "tags": [
-        "local history",
-        "lace",
-        "hands-on",
-        "neighborhood"
-      ],
-      "title": "History Roadshow, Adeline Street Area",
-      "why": "A tiny neighborhood-history roadshow at the lace-and-textile museum: an Ashby/Adeline talk, hands-on lace activity, refreshments, and a take-home history sheet."
+      "title": "The San Francisco Underground Short Film Festival 2026",
+      "why": "A locally made festival built for DIY, surreal, subversive, and genuinely strange shorts, with live acts threaded through four programs."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": "2026-11-15T14:00:00-08:00",
       "id": "evt_8fa9c4b1a0d5a009",
-      "last_verified_at": "2026-11-06T14:09:46Z",
+      "last_verified_at": "2026-11-11T14:07:04Z",
       "neighborhood": "Mission",
       "official_url": "https://luma.com/kxrxj1xp",
-      "price_note": "Pay what you want; suggested $10",
+      "price_note": "Suggested donation $10; pay what you want",
       "radar": false,
       "source_name": "Gray Area / Cybersentics",
       "starts_at": "2026-11-15T12:00:00-08:00",
       "tags": [
         "cybernetics",
         "synthesizers",
-        "book club",
-        "media history"
+        "media history",
+        "Gray Area"
       ],
       "title": "Cybersentics Book Club: West Coast Sound Synthesis",
-      "why": "The rare book club that makes circuit history into social history: Buchla, Moog, Bay psychedelic scenes, and artists getting intimate with noisy machines."
+      "why": "An unusually direct Deliria2-network room: Buchla, Moog, Bay Area counterculture, and the history of intimate human-machine music."
     },
     {
       "all_day": false,
       "city": "Palo Alto",
       "ends_at": null,
-      "id": "evt_b2eeb3dfb99296db",
-      "last_verified_at": "2026-11-06T14:09:46Z",
+      "id": "evt_c3974cb28eda08ad",
+      "last_verified_at": "2026-11-11T14:07:04Z",
       "neighborhood": "Stanford Research Park",
-      "official_url": "https://www.scaruffi.com/leonardo/nov2026.html",
-      "price_note": "Free",
-      "radar": true,
-      "source_name": "Leonardo Art/Science Evening Rendezvous",
+      "official_url": "https://scaruffi.com/leonardo/nov2026.html",
+      "price_note": "Free and open to everybody",
+      "radar": false,
+      "source_name": "Leonardo LASER",
       "starts_at": "2026-11-18T17:30:00-08:00",
       "tags": [
         "art science",
         "consciousness",
-        "new media",
-        "philosophy"
+        "media art",
+        "salon"
       ],
-      "title": "Leonardo Art/Science Evening Rendezvous: Gestural Interfaces and Consciousness",
-      "why": "Three precise routes into the benchmark zone: gestural interfaces, consciousness and the self in the age of AI, and which self AI remembers, followed by discussion."
+      "title": "Leonardo Art/Science Evening Rendezvous (LASER)",
+      "why": "Liat Berdugo on gestural interfaces joins talks on AI, the self, and consciousness—an actual art-science salon rather than investor aerobics."
+    },
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": null,
+      "id": "evt_f3c79269cbc2b92f",
+      "last_verified_at": "2026-11-11T14:07:04Z",
+      "neighborhood": null,
+      "official_url": "https://bampfa.org/event/black-hole-collective-film-lab",
+      "price_note": null,
+      "radar": false,
+      "source_name": "BAMPFA",
+      "starts_at": "2026-11-18T19:00:00-08:00",
+      "tags": [
+        "experimental film",
+        "16mm",
+        "artist-run",
+        "media archaeology"
+      ],
+      "title": "Black Hole Collective Film Lab",
+      "why": "Oakland's community photochemical lab screens its 16mm and digital traces, preserving the means of making as much as the films themselves."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": null,
       "id": "evt_a620fe101f56efd1",
-      "last_verified_at": "2026-11-06T14:09:46Z",
+      "last_verified_at": "2026-11-11T14:07:04Z",
       "neighborhood": "Mission",
       "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
-      "price_note": null,
-      "radar": true,
+      "price_note": "General admission: $0–$25",
+      "radar": false,
       "source_name": "Gray Area",
       "starts_at": "2026-11-19T19:00:00-08:00",
       "tags": [
         "machine art",
         "bio art",
         "robotics",
-        "generative sound",
-        "cybernetics"
+        "creative technology",
+        "Gray Area"
       ],
       "title": "Micro To Macro: Microorganisms, Sound and Robots",
-      "why": "A dead-on Deliria2 match: plant, bacterial, and ostracod signals drive custom electronics, robots, light, sound, and a participatory plant orchestra."
+      "why": "The clearest Deliria2-vibe pick: bacteria, plants, and crustaceans drive custom electronics, sound, robots, and participatory instruments."
+    },
+    {
+      "all_day": false,
+      "city": "Novato",
+      "ends_at": null,
+      "id": "evt_d2c4923a7e670885",
+      "last_verified_at": "2026-11-11T14:07:04Z",
+      "neighborhood": null,
+      "official_url": "https://wonderfest.org/controlled-hallucination/",
+      "price_note": "Free; unticketed",
+      "radar": true,
+      "source_name": "Wonderfest",
+      "starts_at": "2026-11-24T19:00:00-08:00",
+      "tags": [
+        "consciousness",
+        "perception",
+        "psychedelic science",
+        "public science"
+      ],
+      "title": "Experienced Reality as a Controlled Hallucination",
+      "why": "A UC Berkeley neuroscientist and psychedelic-science director examines perception as brain-built reality, neatly on the reality-inquiry bullseye."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-12-04T21:00:00-08:00",
+      "id": "evt_7096404fd5da955c",
+      "last_verified_at": "2026-11-11T14:07:04Z",
+      "neighborhood": "Mission",
+      "official_url": "https://www.thelab.org/projects/2026/12/4/ff-in-sf-a-celebration-of-50-years-of-free-expression-with-franklin-furnace",
+      "price_note": "Free; no RSVP required",
+      "radar": true,
+      "source_name": "The Lab",
+      "starts_at": "2026-12-04T19:00:00-08:00",
+      "tags": [
+        "performance art",
+        "media history",
+        "artists books",
+        "free"
+      ],
+      "title": "FF in SF: A Celebration of 50 Years of Free Expression with Franklin Furnace",
+      "why": "A book talk, signing, and live performance marking Franklin Furnace's 50-year fight for artists' books, media, and free expression."
     }
   ],
-  "generated_at": "2026-11-06T14:10:49Z",
+  "generated_at": "2026-11-11T14:08:34Z",
   "schema_version": 1,
   "timezone": "America/Los_Angeles"
 }
