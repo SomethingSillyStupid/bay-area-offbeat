@@ -144,6 +144,22 @@ class StageDailyCandidateTests(unittest.TestCase):
             with self.assertRaisesRegex(stage.StageError, "publisher dry run failed"):
                 stage.run_publisher_dry_run(candidate_path, NOW)
 
+    def test_dry_run_failure_exposes_only_allowlisted_gate_diagnostics(self) -> None:
+        candidate_path = self.run_dir / "candidate.json"
+        for raw, expected in [
+            ("test gate failed", "test gate failed"),
+            ("static build gate failed", "static build gate failed"),
+            ("sensitive contents /private/secret", "unknown publisher error"),
+        ]:
+            with self.subTest(raw=raw):
+                with patch.object(
+                    stage, "run_json_command",
+                    return_value=(1, {"published": False, "message": raw}),
+                ):
+                    with self.assertRaises(stage.StageError) as caught:
+                        stage.run_publisher_dry_run(candidate_path, NOW)
+                self.assertEqual(str(caught.exception), "publisher dry run failed: " + expected)
+
     def test_explicit_publisher_dry_run_writes_a_private_receipt_only_after_success(self) -> None:
         self.write_draft(valid_draft())
         expected_report = {

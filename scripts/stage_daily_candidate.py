@@ -254,7 +254,24 @@ def run_publisher_dry_run(candidate_path: Path, now: str | None) -> dict[str, An
         or publisher_report is None
         or publisher_report != PUBLISHER_DRY_RUN_SUCCESS
     ):
-        raise StageError("publisher dry run failed")
+        # The publisher emits fixed gate names only. Never surface untrusted
+        # subprocess text or paths when the response is malformed.
+        safe_messages = {
+            "candidate validation failed",
+            "test gate failed",
+            "static build gate failed",
+            "unable to fetch expected remote branch",
+            "unable to create isolated publication worktree",
+            "target repository is dirty",
+            "local and remote publication histories diverge",
+            "another publication is already running",
+        }
+        message = publisher_report.get("message") if publisher_report else None
+        detail = (
+            message if isinstance(message, str) and message in safe_messages
+            else "unknown publisher error"
+        )
+        raise StageError(f"publisher dry run failed: {detail}")
     return publisher_report
 
 

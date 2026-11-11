@@ -128,6 +128,25 @@ class StrictEventSchemaContractTests(unittest.TestCase):
             report["errors"], ["input JSON nesting exceeds safe parser limits"]
         )
 
+    def test_json_depth_limit_is_enforced_before_parser_recursion(self) -> None:
+        payload = "[" * 65 + "0" + "]" * 65
+        result = run_raw_document(payload)
+        self.assertEqual(result.returncode, 1)
+        self.assertEqual(result.stderr, "")
+        self.assertEqual(
+            json.loads(result.stdout)["errors"],
+            ["input JSON nesting exceeds safe parser limits"],
+        )
+
+    def test_brackets_and_escaped_quote_in_string_do_not_count_as_nesting(self) -> None:
+        document = valid_document()
+        document["events"][0]["why"] = (  # type: ignore[index]
+            'Quote " followed by ' + "[" * 75 + " and " + "}" * 75
+        )
+        result = run_document(document)
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertTrue(json.loads(result.stdout)["valid"])
+
     def test_timestamp_with_offset_seconds_is_rejected_before_frontend_diverges(self) -> None:
         document = valid_document()
         event = document["events"][0]  # type: ignore[index]

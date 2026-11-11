@@ -43,6 +43,7 @@ TEXT_LIMITS = {
     "tag": 48,
 }
 MAX_PUBLIC_DATA_AGE = timedelta(hours=36)
+MAX_JSON_DEPTH = 64
 CANONICAL_AWARE_TIMESTAMP = re.compile(
     r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{1,3})?(?:Z|[+-]\d{2}:\d{2})$"
 )
@@ -63,6 +64,30 @@ class JsonArgumentParser(argparse.ArgumentParser):
 
 class DuplicateJsonMemberError(ValueError):
     """Raised when a JSON object repeats a member name at any nesting level."""
+
+
+def exceeds_json_depth(text: str) -> bool:
+    """Bound structural nesting before decoding; delimiters in strings are data."""
+    depth = 0
+    in_string = False
+    escaped = False
+    for char in text:
+        if in_string:
+            if escaped:
+                escaped = False
+            elif char == "\\":
+                escaped = True
+            elif char == '"':
+                in_string = False
+        elif char == '"':
+            in_string = True
+        elif char in "[{":
+            depth += 1
+            if depth > MAX_JSON_DEPTH:
+                return True
+        elif char in "]}":
+            depth = max(0, depth - 1)
+    return False
 
 
 def reject_duplicate_json_members(
@@ -437,10 +462,11 @@ def main(argv: list[str] | None = None) -> int:
     now, report_now, now_errors = validation_now(args.now)
     try:
         with open(args.input, encoding="utf-8") as handle:
-            document: object = json.load(
-                handle,
-                object_pairs_hook=reject_duplicate_json_members,
-            )
+            payload = handle.read()
+        if exceeds_json_depth(payload):
+            print_report(["input JSON nesting exceeds safe parser limits"], 0, utc_iso(report_now))
+            return 1
+        document: object = json.loads(payload, object_pairs_hook=reject_duplicate_json_members)
     except DuplicateJsonMemberError:
         print_report(["input contains duplicate JSON member"], 0, utc_iso(report_now))
         return 1
