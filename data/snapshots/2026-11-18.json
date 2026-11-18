@@ -1,0 +1,182 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-19T20:00:00-08:00",
+      "id": "evt_f9c1ba977ad6c61b",
+      "last_verified_at": "2026-11-18T14:07:56Z",
+      "neighborhood": null,
+      "official_url": "https://www.oaklandheritage.org/events/2026nov-idora-park",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Oakland Heritage Alliance",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "Oakland history",
+        "postcards",
+        "amusement history",
+        "lecture"
+      ],
+      "title": "Postcard Views of Idora Park",
+      "why": "Nine thousand Oakland postcards turn the vanished Temescal amusement park into a vivid local-history evening inside Chapel of the Chimes."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-11-18T14:07:56Z",
+      "neighborhood": null,
+      "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+      "price_note": "$0–$25 general admission",
+      "radar": false,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "machine art",
+        "bio art",
+        "robotics",
+        "generative sound",
+        "participatory"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "A dead-on Deliria2 match: bacteria, plants, and microscopic crustaceans drive custom sound, robots, light, and a participatory plant orchestra."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-20T20:30:00-08:00",
+      "id": "evt_7b682ee56e91efec",
+      "last_verified_at": "2026-11-18T14:07:56Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/1edc0vypiznm7s61mztm3dv2escu1w",
+      "price_note": "$20 general; $10 students and seniors",
+      "radar": false,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-11-20T19:00:00-08:00",
+      "tags": [
+        "storytelling",
+        "ritual",
+        "music",
+        "community arts",
+        "installation"
+      ],
+      "title": "BOT — Placenta: Bridge of Bot",
+      "why": "A deliberately intimate Oakland blend of storytelling, music, and altar-like visual installation about migration, ancestral memory, grief, and belonging."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-21T21:30:00-08:00",
+      "id": "evt_cfe6783d0ca3c1fa",
+      "last_verified_at": "2026-11-18T14:07:56Z",
+      "neighborhood": null,
+      "official_url": "https://dresherensemble.org/event/bassoon-transformations-paul-hanson-improbable-territory/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Paul Dresher Ensemble",
+      "starts_at": "2026-11-21T19:30:00-08:00",
+      "tags": [
+        "experimental music",
+        "improvisation",
+        "electronics",
+        "bassoon",
+        "live performance"
+      ],
+      "title": "BASSOON TRANSFORMATIONS: Paul Hanson—Improbable Territory",
+      "why": "Electric bassoon with loops and effects is an unusual front door to Oakland's new-music scene, paired with improvising pianist Unpil Baek."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-22T17:00:00-08:00",
+      "id": "evt_daa21b5237ca96fc",
+      "last_verified_at": "2026-11-18T14:07:56Z",
+      "neighborhood": null,
+      "official_url": "https://www.tickettailor.com/events/shapeshifterscinema/2459478",
+      "price_note": "$70 plus $2 booking fee",
+      "radar": false,
+      "source_name": "Shapeshifters Cinema",
+      "starts_at": "2026-11-22T12:00:00-08:00",
+      "tags": [
+        "media archaeology",
+        "animation",
+        "CRT",
+        "hands-on",
+        "DIY film"
+      ],
+      "title": "Computerless Animation Workshop",
+      "why": "Spend an afternoon treating a decommissioned security camera and CRT as an animation rig, leaving with your own computerless clip."
+    },
+    {
+      "all_day": false,
+      "city": "Novato",
+      "ends_at": "2026-11-24T20:30:00-08:00",
+      "id": "evt_d2c4923a7e670885",
+      "last_verified_at": "2026-11-18T14:07:56Z",
+      "neighborhood": null,
+      "official_url": "https://wonderfest.org/controlled-hallucination/",
+      "price_note": "Free and unticketed",
+      "radar": false,
+      "source_name": "Wonderfest",
+      "starts_at": "2026-11-24T19:00:00-08:00",
+      "tags": [
+        "consciousness",
+        "perception",
+        "psychedelic science",
+        "neuroscience",
+        "talk"
+      ],
+      "title": "Experienced Reality as a Controlled Hallucination",
+      "why": "A rare public reality-inquiry talk with UC Berkeley's Michael Silver on perception, predictive inference, and psychedelic-science research."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-12-03T20:00:00-08:00",
+      "id": "evt_4735bc8a14bc5ccb",
+      "last_verified_at": "2026-11-18T14:07:56Z",
+      "neighborhood": null,
+      "official_url": "https://www.goethe.de/ins/us/en/ver.cfm?event_id=27358284",
+      "price_note": "Free and open to the public",
+      "radar": true,
+      "source_name": "Goethe-Institut San Francisco",
+      "starts_at": "2026-12-03T18:00:00-08:00",
+      "tags": [
+        "cyberpunk",
+        "experimental film",
+        "noise",
+        "media theory",
+        "counterculture"
+      ],
+      "title": "Decoder",
+      "why": "A free early-cyberpunk artifact of subliminal Muzak, urban pirates, Einstürzende Neubauten, Genesis P-Orridge, and Burroughs."
+    },
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": "2026-12-12T20:30:00-08:00",
+      "id": "evt_dd5f7bae6c3afb3d",
+      "last_verified_at": "2026-11-18T14:07:56Z",
+      "neighborhood": null,
+      "official_url": "https://dogbotic.com/live-events/2026/10/8/unsilentnight",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Dogbotic",
+      "starts_at": "2026-12-12T19:00:00-08:00",
+      "tags": [
+        "participatory sound",
+        "sound art",
+        "mobile performance",
+        "DIY technology",
+        "walk"
+      ],
+      "title": "Unsilent Night 2026",
+      "why": "Bring a phone or boombox and become one voice in a four-track, roving sound sculpture across the UC Berkeley campus."
+    }
+  ],
+  "generated_at": "2026-11-18T14:09:45Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
