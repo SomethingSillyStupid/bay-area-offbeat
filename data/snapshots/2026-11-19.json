@@ -1,0 +1,203 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_a620fe101f56efd1",
+      "last_verified_at": "2026-11-19T14:06:32Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://grayarea.org/event/micro-to-macro-sound-robots/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Gray Area",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "art-science",
+        "bioart",
+        "robotics",
+        "participatory",
+        "experimental sound"
+      ],
+      "title": "Micro To Macro: Microorganisms, Sound and Robots",
+      "why": "The cleanest Deliria2 hit tonight: living organisms drive robots, synths, a plant-powered orchestra, and a breathalyzer pipe organ."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-19T20:00:00-08:00",
+      "id": "evt_f9c1ba977ad6c61b",
+      "last_verified_at": "2026-11-19T14:06:32Z",
+      "neighborhood": null,
+      "official_url": "https://www.oaklandheritage.org/events/2026nov-idora-park",
+      "price_note": "Registration required",
+      "radar": false,
+      "source_name": "Oakland Heritage Alliance",
+      "starts_at": "2026-11-19T19:00:00-08:00",
+      "tags": [
+        "local history",
+        "Oakland",
+        "postcards",
+        "lost places"
+      ],
+      "title": "Postcard Views of Idora Park",
+      "why": "A local-history deep cut in a resonant Oakland landmark: a 9,000-postcard collection rebuilds Temescal's lost amusement park."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-20T20:30:00-08:00",
+      "id": "evt_c41345c7da15f7d4",
+      "last_verified_at": "2026-11-19T14:06:32Z",
+      "neighborhood": null,
+      "official_url": "https://www.eastsideartsalliance.org/calendar/1edc0vypiznm7s61mztm3dv2escu1w",
+      "price_note": "$20 general; $10 students and seniors",
+      "radar": false,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-11-20T19:00:00-08:00",
+      "tags": [
+        "storytelling",
+        "ritual",
+        "music",
+        "community arts",
+        "Oakland"
+      ],
+      "title": "BOT — Placenta: Bridge of Bot | Ritual for Belonging",
+      "why": "An East Oakland storytelling-and-music ritual inside an altar-and-offering environment, connecting memory, displacement, resilience, and belonging."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-20T21:30:00-08:00",
+      "id": "evt_c4a394f8cec140ef",
+      "last_verified_at": "2026-11-19T14:06:32Z",
+      "neighborhood": null,
+      "official_url": "https://dresherensemble.org/event/eva-maria-zimmermann-graham-viegut-dayu-mang-ana-kreasi-kontemporer/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Paul Dresher Ensemble",
+      "starts_at": "2026-11-20T19:30:00-08:00",
+      "tags": [
+        "contemporary music",
+        "gamelan",
+        "experimental sound",
+        "Oakland"
+      ],
+      "title": "Eva-Maria Zimmermann, Graham Viegut, Dayu Mang Ana — Kreasi Kontemporer",
+      "why": "A small Oakland room for contemporary gamelan, piano, percussion, and voices—more curiosity-driven than standard concert-hall programming."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-21T06:00:00-08:00",
+      "id": "evt_60991b86f6fc0f00",
+      "last_verified_at": "2026-11-19T14:06:32Z",
+      "neighborhood": "Downtown",
+      "official_url": "https://ra.co/events/2568557",
+      "price_note": "21+; attendance capped",
+      "radar": false,
+      "source_name": "Endzeit / Resident Advisor",
+      "starts_at": "2026-11-20T22:00:00-08:00",
+      "tags": [
+        "techno",
+        "underground music",
+        "sound art",
+        "independent labels",
+        "San Francisco"
+      ],
+      "title": "Endzeit x Non Series",
+      "why": "A nonprofit label-series night explicitly framed against music's mechanization, with DIY instruments, modular live sets, sound art, and a capped room."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-11-21T22:00:00-08:00",
+      "id": "evt_2ecdd409546bc3d4",
+      "last_verified_at": "2026-11-19T14:06:32Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/11/21/songs-sermons-amp-sacred-voyeurism",
+      "price_note": "Free; RSVP optional",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-11-21T20:00:00-08:00",
+      "tags": [
+        "experimental performance",
+        "ritual",
+        "voice",
+        "free",
+        "Mission"
+      ],
+      "title": "Songs, Sermons & Sacred Voyeurism",
+      "why": "Free experimental ritual-performance in the Mission, treating voice, visual obstruction, listening, and witness as its material."
+    },
+    {
+      "all_day": false,
+      "city": "Novato",
+      "ends_at": "2026-11-24T20:30:00-08:00",
+      "id": "evt_d2c4923a7e670885",
+      "last_verified_at": "2026-11-19T14:06:32Z",
+      "neighborhood": null,
+      "official_url": "https://wonderfest.org/controlled-hallucination/",
+      "price_note": "Free; unticketed",
+      "radar": false,
+      "source_name": "Wonderfest",
+      "starts_at": "2026-11-24T19:00:00-08:00",
+      "tags": [
+        "consciousness",
+        "perception",
+        "psychedelic science",
+        "public science",
+        "free"
+      ],
+      "title": "Experienced Reality as a Controlled Hallucination",
+      "why": "A free public-neuroscience talk on perception as actively constructed reality, led by UC Berkeley's Center for the Science of Psychedelics director."
+    },
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": "2026-12-12T20:30:00-08:00",
+      "id": "evt_dd5f7bae6c3afb3d",
+      "last_verified_at": "2026-11-19T14:06:32Z",
+      "neighborhood": "UC Berkeley campus",
+      "official_url": "https://dogbotic.com/live-events/2026/10/8/unsilentnight",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Dogbotic",
+      "starts_at": "2026-12-12T19:00:00-08:00",
+      "tags": [
+        "participatory",
+        "sound art",
+        "sound walk",
+        "media archaeology",
+        "Berkeley"
+      ],
+      "title": "Unsilent Night 2026",
+      "why": "A Berkeley moving sound sculpture where each listener carries one track on a phone or boombox, turning the walk into a shifting ambient orchestra."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-12-20T14:00:00-08:00",
+      "id": "evt_d85f30dced8fb397",
+      "last_verified_at": "2026-11-19T14:06:32Z",
+      "neighborhood": null,
+      "official_url": "https://grayarea.org/event/cybersentics-book-club-dec-2026/",
+      "price_note": "Suggested donation $10; pay what you want",
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-12-20T12:00:00-08:00",
+      "tags": [
+        "cybernetics",
+        "media archaeology",
+        "book club",
+        "participatory",
+        "Gray Area"
+      ],
+      "title": "Cybersentics Book Club: Love Testers + Musée Mécanique Tour",
+      "why": "Gray Area's cybernetics-minded book club takes the love-testing-machine question into a hands-on media-archaeology session at Musée Mécanique."
+    }
+  ],
+  "generated_at": "2026-11-19T14:08:05Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
