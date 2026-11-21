@@ -1,0 +1,160 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-21T17:00:00-08:00",
+      "id": "evt_29b16beac2ed13e7",
+      "last_verified_at": "2026-11-21T14:07:34Z",
+      "neighborhood": "East Oakland",
+      "official_url": "https://www.eastsideartsalliance.org/calendar/1edc0vypiznm7s61mztm3dv2escu1w-9x5ca",
+      "price_note": "$20 general; $10 students and seniors",
+      "radar": false,
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-11-21T14:00:00-08:00",
+      "tags": [
+        "storytelling",
+        "music",
+        "community arts",
+        "East Bay",
+        "accessibility"
+      ],
+      "title": "BOT — Placenta: Bridge of Bot",
+      "why": "A rare East Oakland performance-world blending community storytelling, music, and a visual field of altars and offerings; Saturday’s presentation includes ASL interpretation."
+    },
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": "2026-11-22T17:00:00-08:00",
+      "id": "evt_a12e2c761f3ed84d",
+      "last_verified_at": "2026-11-21T14:07:34Z",
+      "neighborhood": "Live Oak Park",
+      "official_url": "https://www.berkeleyartcenter.org/events",
+      "price_note": "Free; RSVP encouraged, not required",
+      "radar": false,
+      "source_name": "Berkeley Art Center",
+      "starts_at": "2026-11-22T15:00:00-08:00",
+      "tags": [
+        "contemporary art",
+        "live performance",
+        "ecology",
+        "free",
+        "East Bay"
+      ],
+      "title": "Closing Reception + Performance: I see every wave",
+      "why": "A free close-out for a site-responsive ecological show, with a live performance beside immersive video, sculpture, and mixed-media work in Live Oak Park."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-22T21:30:00-08:00",
+      "id": "evt_3b873b085b1770c5",
+      "last_verified_at": "2026-11-21T14:07:34Z",
+      "neighborhood": "West Oakland",
+      "official_url": "https://dresherensemble.org/event/bristlelenny-gonzales-erik-ellestad/",
+      "price_note": "$20; free for students and financially challenged",
+      "radar": false,
+      "source_name": "West Oakland Sound Series / Dresher Ensemble",
+      "starts_at": "2026-11-22T19:30:00-08:00",
+      "tags": [
+        "experimental music",
+        "improvisation",
+        "electronics",
+        "West Oakland"
+      ],
+      "title": "BRISTLE: Lenny Gonzales + Erik Ellestad",
+      "why": "West Oakland’s weekly experimental-sound room pairs an eccentric sax-and-strings quartet with guitar and sax electronics, noise, extended technique, and real-time improvisation."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-24T23:45:00-08:00",
+      "id": "evt_f493362e9aa81a67",
+      "last_verified_at": "2026-11-21T14:07:34Z",
+      "neighborhood": null,
+      "official_url": "https://luma.com/jmukm34y",
+      "price_note": null,
+      "radar": false,
+      "source_name": "SudoRoom",
+      "starts_at": "2026-11-24T19:30:00-08:00",
+      "tags": [
+        "hackerspace",
+        "repair",
+        "electronics",
+        "DIY",
+        "Oakland"
+      ],
+      "title": "Hardware Hack Night & Fixit Clinic",
+      "why": "The most direct current hacker-culture pick: volunteer repair, electronics, projection art, microchip boards, sewing, and peer learning in Oakland’s free hackerspace."
+    },
+    {
+      "all_day": false,
+      "city": "Novato",
+      "ends_at": "2026-11-24T20:30:00-08:00",
+      "id": "evt_d2c4923a7e670885",
+      "last_verified_at": "2026-11-21T14:07:34Z",
+      "neighborhood": null,
+      "official_url": "https://wonderfest.org/controlled-hallucination/",
+      "price_note": "Free and unticketed; donations welcome",
+      "radar": false,
+      "source_name": "Wonderfest",
+      "starts_at": "2026-11-24T19:00:00-08:00",
+      "tags": [
+        "consciousness",
+        "perception",
+        "neuroscience",
+        "reality inquiry",
+        "free"
+      ],
+      "title": "Experienced Reality as a Controlled Hallucination",
+      "why": "A serious public reality-inquiry night: UC Berkeley neuroscientist Michael Silver on perception as a controlled hallucination and psychedelic-science research."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-12-03T21:00:00-08:00",
+      "id": "evt_65703dbf93776bb8",
+      "last_verified_at": "2026-11-21T14:07:34Z",
+      "neighborhood": null,
+      "official_url": "https://www.thingamajigs.org/programs/calendar/2026/12/3/thingamajigs-performance-group-at-the-do-over-series",
+      "price_note": "$10 advance or at the door",
+      "radar": true,
+      "source_name": "Thingamajigs",
+      "starts_at": "2026-12-03T19:00:00-08:00",
+      "tags": [
+        "expanded cinema",
+        "experimental sound",
+        "electronics",
+        "Oakland",
+        "media art"
+      ],
+      "title": "Thingamajigs Performance Group at the Do-Over Series",
+      "why": "A close match for the machine-art and moving-image zone: paracinematic apparatus, handheld projection, glass, and electronics explore how sound and vision lock together."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_cd6c7bc1f4a2d126",
+      "last_verified_at": "2026-11-21T14:07:34Z",
+      "neighborhood": null,
+      "official_url": "https://grayarea.org/event/in-darkness-and-secrecy/",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Gray Area",
+      "starts_at": "2026-12-05T16:30:00-08:00",
+      "tags": [
+        "AI philosophy",
+        "media theory",
+        "speculative technology",
+        "consciousness",
+        "San Francisco"
+      ],
+      "title": "In Darkness and Secrecy: The Silent Singularity",
+      "why": "A genuine Gray Area-level counterculture fit: media theory, AI philosophy, Cold War espionage, Fermi-Paradox thinking, and a question about intelligence that refuses measurement."
+    }
+  ],
+  "generated_at": "2026-11-21T14:08:32Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}

@@ -2,153 +2,159 @@
   "events": [
     {
       "all_day": false,
-      "city": "San Francisco",
-      "ends_at": "2026-11-21T06:00:00-08:00",
-      "id": "evt_60991b86f6fc0f00",
-      "last_verified_at": "2026-11-20T14:08:07Z",
-      "neighborhood": null,
-      "official_url": "https://ra.co/events/2568557",
-      "price_note": "21+; attendance capped",
-      "radar": false,
-      "source_name": "Endzeit / Resident Advisor",
-      "starts_at": "2026-11-20T22:00:00-08:00",
-      "tags": [
-        "techno",
-        "sound art",
-        "A/V",
-        "underground"
-      ],
-      "title": "Endzeit x Non Series",
-      "why": "A nonprofit independent-label night pairing deep techno with custom A/V, artist-built instruments and modular live-set culture—closer to an art-lab gathering than standard nightlife."
-    },
-    {
-      "all_day": false,
       "city": "Oakland",
-      "ends_at": "2026-11-22T17:00:00-08:00",
-      "id": "evt_47944cc831b90689",
-      "last_verified_at": "2026-11-20T14:08:07Z",
-      "neighborhood": null,
-      "official_url": "https://buytickets.at/shapeshifterscinema/2459478",
-      "price_note": "$70",
-      "radar": false,
-      "source_name": "Shapeshifters Cinema",
-      "starts_at": "2026-11-22T12:00:00-08:00",
-      "tags": [
-        "media archaeology",
-        "DIY film",
-        "workshop",
-        "analog video"
-      ],
-      "title": "Computerless Animation Workshop",
-      "why": "A genuinely hands-on media-archaeology day: animate with an analog Video Lunchbox, a retired security camera and a CRT, then leave with a clip."
-    },
-    {
-      "all_day": false,
-      "city": "Oakland",
-      "ends_at": null,
-      "id": "evt_34035e0201dd8bfc",
-      "last_verified_at": "2026-11-20T14:08:07Z",
-      "neighborhood": null,
-      "official_url": "https://www.eastsideartsalliance.org/calendar/1edc0vypiznm7s61mztm3dv2escu1w-9x5ca-33966",
-      "price_note": "$20 general; $10 students/seniors",
+      "ends_at": "2026-11-21T17:00:00-08:00",
+      "id": "evt_29b16beac2ed13e7",
+      "last_verified_at": "2026-11-21T14:07:34Z",
+      "neighborhood": "East Oakland",
+      "official_url": "https://www.eastsideartsalliance.org/calendar/1edc0vypiznm7s61mztm3dv2escu1w-9x5ca",
+      "price_note": "$20 general; $10 students and seniors",
       "radar": false,
       "source_name": "EastSide Arts Alliance",
-      "starts_at": "2026-11-22T14:00:00-08:00",
+      "starts_at": "2026-11-21T14:00:00-08:00",
       "tags": [
-        "community arts",
         "storytelling",
-        "ritual",
+        "music",
+        "community arts",
+        "East Bay",
         "accessibility"
       ],
-      "title": "Ritual for Belonging",
-      "why": "A small East Oakland story-and-ritual gathering connecting memory, migration and healing, with artists, community storytellers and ritual drummers; Sunday adds haptic tour and audio description."
+      "title": "BOT — Placenta: Bridge of Bot",
+      "why": "A rare East Oakland performance-world blending community storytelling, music, and a visual field of altars and offerings; Saturday’s presentation includes ASL interpretation."
+    },
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": "2026-11-22T17:00:00-08:00",
+      "id": "evt_a12e2c761f3ed84d",
+      "last_verified_at": "2026-11-21T14:07:34Z",
+      "neighborhood": "Live Oak Park",
+      "official_url": "https://www.berkeleyartcenter.org/events",
+      "price_note": "Free; RSVP encouraged, not required",
+      "radar": false,
+      "source_name": "Berkeley Art Center",
+      "starts_at": "2026-11-22T15:00:00-08:00",
+      "tags": [
+        "contemporary art",
+        "live performance",
+        "ecology",
+        "free",
+        "East Bay"
+      ],
+      "title": "Closing Reception + Performance: I see every wave",
+      "why": "A free close-out for a site-responsive ecological show, with a live performance beside immersive video, sculpture, and mixed-media work in Live Oak Park."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-22T21:30:00-08:00",
+      "id": "evt_3b873b085b1770c5",
+      "last_verified_at": "2026-11-21T14:07:34Z",
+      "neighborhood": "West Oakland",
+      "official_url": "https://dresherensemble.org/event/bristlelenny-gonzales-erik-ellestad/",
+      "price_note": "$20; free for students and financially challenged",
+      "radar": false,
+      "source_name": "West Oakland Sound Series / Dresher Ensemble",
+      "starts_at": "2026-11-22T19:30:00-08:00",
+      "tags": [
+        "experimental music",
+        "improvisation",
+        "electronics",
+        "West Oakland"
+      ],
+      "title": "BRISTLE: Lenny Gonzales + Erik Ellestad",
+      "why": "West Oakland’s weekly experimental-sound room pairs an eccentric sax-and-strings quartet with guitar and sax electronics, noise, extended technique, and real-time improvisation."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-24T23:45:00-08:00",
+      "id": "evt_f493362e9aa81a67",
+      "last_verified_at": "2026-11-21T14:07:34Z",
+      "neighborhood": null,
+      "official_url": "https://luma.com/jmukm34y",
+      "price_note": null,
+      "radar": false,
+      "source_name": "SudoRoom",
+      "starts_at": "2026-11-24T19:30:00-08:00",
+      "tags": [
+        "hackerspace",
+        "repair",
+        "electronics",
+        "DIY",
+        "Oakland"
+      ],
+      "title": "Hardware Hack Night & Fixit Clinic",
+      "why": "The most direct current hacker-culture pick: volunteer repair, electronics, projection art, microchip boards, sewing, and peer learning in Oakland’s free hackerspace."
     },
     {
       "all_day": false,
       "city": "Novato",
-      "ends_at": null,
+      "ends_at": "2026-11-24T20:30:00-08:00",
       "id": "evt_d2c4923a7e670885",
-      "last_verified_at": "2026-11-20T14:08:07Z",
+      "last_verified_at": "2026-11-21T14:07:34Z",
       "neighborhood": null,
       "official_url": "https://wonderfest.org/controlled-hallucination/",
-      "price_note": "Free; unticketed",
+      "price_note": "Free and unticketed; donations welcome",
       "radar": false,
       "source_name": "Wonderfest",
       "starts_at": "2026-11-24T19:00:00-08:00",
       "tags": [
         "consciousness",
         "perception",
-        "science",
-        "reality inquiry"
+        "neuroscience",
+        "reality inquiry",
+        "free"
       ],
       "title": "Experienced Reality as a Controlled Hallucination",
-      "why": "A free reality-inquiry talk that treats perception as brain-built experience, bringing UC Berkeley neuroscience and psychedelic-science questions into a public room."
+      "why": "A serious public reality-inquiry night: UC Berkeley neuroscientist Michael Silver on perception as a controlled hallucination and psychedelic-science research."
     },
     {
       "all_day": false,
       "city": "Oakland",
       "ends_at": "2026-12-03T21:00:00-08:00",
-      "id": "evt_4433d7e8113a6edf",
-      "last_verified_at": "2026-11-20T14:08:07Z",
+      "id": "evt_65703dbf93776bb8",
+      "last_verified_at": "2026-11-21T14:07:34Z",
       "neighborhood": null,
-      "official_url": "https://www.tickettailor.com/events/shapeshifterscinema/2543968",
-      "price_note": "$10 + $1 booking fee",
+      "official_url": "https://www.thingamajigs.org/programs/calendar/2026/12/3/thingamajigs-performance-group-at-the-do-over-series",
+      "price_note": "$10 advance or at the door",
       "radar": true,
-      "source_name": "Shapeshifters Cinema",
+      "source_name": "Thingamajigs",
       "starts_at": "2026-12-03T19:00:00-08:00",
       "tags": [
         "expanded cinema",
-        "experimental music",
-        "live electronics",
-        "film"
+        "experimental sound",
+        "electronics",
+        "Oakland",
+        "media art"
       ],
-      "title": "Do-Over Music Series - Weeks / Thingamajigs",
-      "why": "A tidy Oakland collision of hand-held cinema, live electronics, improvised sound and found-film interventions—the kind of small machine-and-image room that rewards curiosity."
+      "title": "Thingamajigs Performance Group at the Do-Over Series",
+      "why": "A close match for the machine-art and moving-image zone: paracinematic apparatus, handheld projection, glass, and electronics explore how sound and vision lock together."
     },
     {
       "all_day": false,
-      "city": "Oakland",
+      "city": "San Francisco",
       "ends_at": null,
-      "id": "evt_6b0dfb057b3f39cb",
-      "last_verified_at": "2026-11-20T14:08:07Z",
+      "id": "evt_cd6c7bc1f4a2d126",
+      "last_verified_at": "2026-11-21T14:07:34Z",
       "neighborhood": null,
-      "official_url": "https://www.paramountoakland.org/tours",
-      "price_note": "$10 adults; $5 youth",
-      "radar": true,
-      "source_name": "Paramount Theatre",
-      "starts_at": "2026-12-05T10:00:00-08:00",
-      "tags": [
-        "architecture",
-        "history",
-        "tour",
-        "Art Deco"
-      ],
-      "title": "Paramount Theatre Public Tour",
-      "why": "A low-cost, behind-the-scenes return to Oakland's Art Deco palace: an interactive 90-minute tour, cameras welcome, with less distance from the architectural details."
-    },
-    {
-      "all_day": false,
-      "city": "Berkeley",
-      "ends_at": "2026-12-12T20:30:00-08:00",
-      "id": "evt_dd5f7bae6c3afb3d",
-      "last_verified_at": "2026-11-20T14:08:07Z",
-      "neighborhood": "UC Berkeley",
-      "official_url": "https://dogbotic.com/live-events/2026/10/8/unsilentnight",
+      "official_url": "https://grayarea.org/event/in-darkness-and-secrecy/",
       "price_note": null,
       "radar": true,
-      "source_name": "Dogbotic",
-      "starts_at": "2026-12-12T19:00:00-08:00",
+      "source_name": "Gray Area",
+      "starts_at": "2026-12-05T16:30:00-08:00",
       "tags": [
-        "participatory art",
-        "sound art",
-        "walking",
-        "media archaeology"
+        "AI philosophy",
+        "media theory",
+        "speculative technology",
+        "consciousness",
+        "San Francisco"
       ],
-      "title": "Unsilent Night 2026",
-      "why": "A communal mobile sound sculpture: everyone becomes one channel of a four-track ambient work while walking campus with a phone, speaker or old boombox."
+      "title": "In Darkness and Secrecy: The Silent Singularity",
+      "why": "A genuine Gray Area-level counterculture fit: media theory, AI philosophy, Cold War espionage, Fermi-Paradox thinking, and a question about intelligence that refuses measurement."
     }
   ],
-  "generated_at": "2026-11-20T14:09:06Z",
+  "generated_at": "2026-11-21T14:08:32Z",
   "schema_version": 1,
   "timezone": "America/Los_Angeles"
 }
