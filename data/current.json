@@ -2,51 +2,10 @@
   "events": [
     {
       "all_day": false,
-      "city": "Oakland",
-      "ends_at": "2026-11-22T17:00:00-08:00",
-      "id": "evt_47944cc831b90689",
-      "last_verified_at": "2026-11-22T14:11:57Z",
-      "neighborhood": null,
-      "official_url": "https://buytickets.at/shapeshifterscinema/2459478",
-      "price_note": "$70; member discount available",
-      "radar": false,
-      "source_name": "Shapeshifters Cinema",
-      "starts_at": "2026-11-22T12:00:00-08:00",
-      "tags": [
-        "animation",
-        "media archaeology",
-        "analog video",
-        "hands-on"
-      ],
-      "title": "Computerless Animation Workshop",
-      "why": "Turn an obsolete-animation setup into your own short: use a Video Lunchbox, hand-drawn paper, a decommissioned security camera, and a CRT, then screen what you made."
-    },
-    {
-      "all_day": false,
-      "city": "El Cerrito",
-      "ends_at": "2026-11-24T21:45:00-08:00",
-      "id": "evt_edae692b8f0414c6",
-      "last_verified_at": "2026-11-22T14:11:57Z",
-      "neighborhood": null,
-      "official_url": "https://bikeeastbay.org/event/bike-burgers-brews/2026-11-24/",
-      "price_note": null,
-      "radar": false,
-      "source_name": "Bikes Burgers Brews / Bike East Bay",
-      "starts_at": "2026-11-24T17:45:00-08:00",
-      "tags": [
-        "community ride",
-        "social cycling",
-        "East Bay"
-      ],
-      "title": "Bikes Burgers Brews",
-      "why": "A no-drop grown-folks night ride with burgers and brews in the mix: 15–25 mostly flat miles, all rider levels welcome, working bike required."
-    },
-    {
-      "all_day": false,
       "city": "Novato",
       "ends_at": "2026-11-24T20:30:00-08:00",
       "id": "evt_d2c4923a7e670885",
-      "last_verified_at": "2026-11-22T14:11:57Z",
+      "last_verified_at": "2026-11-23T14:06:13Z",
       "neighborhood": null,
       "official_url": "https://wonderfest.org/controlled-hallucination/",
       "price_note": "Free; unticketed",
@@ -56,123 +15,123 @@
       "tags": [
         "consciousness",
         "perception",
-        "psychedelic science",
-        "talk"
+        "science-talk",
+        "free"
       ],
       "title": "Experienced Reality as a Controlled Hallucination",
-      "why": "Berkeley vision scientist Michael Silver turns perception into the event: how brains construct reality, from attention and expectations to psychedelic-science research."
+      "why": "A rare free, plain-language outing on perception, psychedelics, and how brains construct reality, led by UC Berkeley neuroscientist Michael Silver."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": null,
+      "id": "evt_51526c914b00ae76",
+      "last_verified_at": "2026-11-23T14:06:13Z",
+      "neighborhood": "Lake Merritt",
+      "official_url": "https://oaklandyellowjackets.wildapricot.org/",
+      "price_note": "Non-members welcome; liability waiver required",
+      "radar": false,
+      "source_name": "Oakland Yellowjackets",
+      "starts_at": "2026-11-28T09:00:00-08:00",
+      "tags": [
+        "bike-ride",
+        "community",
+        "social",
+        "East Bay"
+      ],
+      "title": "Decide and Ride",
+      "why": "A genuinely social, all-abilities Oakland bike club ride: nonmembers can join, and the group explicitly rides for safety and camaraderie rather than racing."
     },
     {
       "all_day": false,
       "city": "Oakland",
       "ends_at": "2026-11-29T21:00:00-08:00",
       "id": "evt_0b74f4e2623f7084",
-      "last_verified_at": "2026-11-22T14:11:57Z",
-      "neighborhood": "East Oakland",
+      "last_verified_at": "2026-11-23T14:06:13Z",
+      "neighborhood": null,
       "official_url": "https://www.eastsideartsalliance.org/calendar/malayabloom",
-      "price_note": "Suggested $10 donation at the door",
+      "price_note": "Suggested donation: $10 at the door",
       "radar": false,
       "source_name": "EastSide Arts Alliance",
       "starts_at": "2026-11-29T18:00:00-08:00",
       "tags": [
         "documentary",
         "discussion",
-        "art build",
-        "community"
+        "community-arts",
+        "East Bay"
       ],
       "title": "Bloom Where You Are Planted: Film Screening and Discussion",
-      "why": "A film night that begins with a community art build and ends in a discussion about displacement, home, and resilience—more participatory than a standard screening."
+      "why": "An East Oakland documentary screening plus art build and discussion, centered on activists' disrupted ties to home and collective resilience."
     },
     {
       "all_day": false,
       "city": "Oakland",
-      "ends_at": null,
-      "id": "evt_0338604fd7ce8c77",
-      "last_verified_at": "2026-11-22T14:11:57Z",
+      "ends_at": "2026-12-03T21:00:00-08:00",
+      "id": "evt_65703dbf93776bb8",
+      "last_verified_at": "2026-11-23T14:06:13Z",
       "neighborhood": null,
-      "official_url": "https://buytickets.at/shapeshifterscinema/2543968",
-      "price_note": "$10; member discount available",
-      "radar": true,
-      "source_name": "Shapeshifters Cinema",
+      "official_url": "https://www.thingamajigs.org/programs/calendar/2026/12/3/thingamajigs-performance-group-at-the-do-over-series",
+      "price_note": "$10 advance or at the door",
+      "radar": false,
+      "source_name": "Thingamajigs",
       "starts_at": "2026-12-03T19:00:00-08:00",
       "tags": [
-        "expanded cinema",
-        "improvised music",
-        "sound art",
-        "film"
+        "experimental-sound",
+        "expanded-cinema",
+        "electronics",
+        "East Bay"
       ],
-      "title": "Do-Over Music Series: Weeks / Thingamajigs",
-      "why": "Tom Weeks’ solo sax set gives way to Thingamajigs’ handmade electronics, glass and reeds, projection, film loops, and improvised music: productive cross-wiring."
+      "title": "Thingamajigs Performance Group at the Do-Over Series",
+      "why": "Oakland's Do-Over pairs live experimental sound with performative 16mm projection; this set adds handmade electronics, glass, shō, and handheld projection."
     },
     {
       "all_day": false,
       "city": "Oakland",
-      "ends_at": "2026-12-05T17:00:00-08:00",
-      "id": "evt_8cda26f08a4a2e4c",
-      "last_verified_at": "2026-11-22T14:11:57Z",
-      "neighborhood": "East Oakland",
-      "official_url": "https://www.eastsideartsalliance.org/calendar/holiday-art-book-fair",
-      "price_note": "Free",
-      "radar": true,
-      "source_name": "EastSide Arts Alliance",
-      "starts_at": "2026-12-05T12:00:00-08:00",
-      "tags": [
-        "book fair",
-        "art market",
-        "poetry",
-        "community"
-      ],
-      "title": "Holiday Art & Book Fair",
-      "why": "A community-scale art and book fair with local makers, Bandung Books, poetry, open-mic space, and live music—actual East Bay culture rather than mall-holiday filler."
-    },
-    {
-      "all_day": false,
-      "city": "San Francisco",
       "ends_at": null,
-      "id": "evt_efe321077afea92d",
-      "last_verified_at": "2026-11-22T14:11:57Z",
-      "neighborhood": "Mission",
-      "official_url": "https://grayarea.org/event/in-darkness-and-secrecy/",
-      "price_note": null,
-      "radar": true,
-      "source_name": "Gray Area",
-      "starts_at": "2026-12-05T17:00:00-08:00",
+      "id": "evt_6b0dfb057b3f39cb",
+      "last_verified_at": "2026-11-23T14:06:13Z",
+      "neighborhood": null,
+      "official_url": "https://www.paramountoakland.org/tours",
+      "price_note": "$10 adults; $5 youth; pay at entrance",
+      "radar": false,
+      "source_name": "Paramount Theatre",
+      "starts_at": "2026-12-05T10:00:00-08:00",
       "tags": [
-        "AI philosophy",
-        "media theory",
-        "consciousness",
-        "internet culture"
+        "architecture",
+        "Art Deco",
+        "tour",
+        "East Bay"
       ],
-      "title": "In Darkness and Secrecy: The Silent Singularity",
-      "why": "An anti-solutionist AI-philosophy salon on intelligence, evasion, Fermi-Paradox paranoia, media theory, visuals, and discussion—not a founder pitch."
+      "title": "Paramount Theatre Public Tour",
+      "why": "A proper behind-the-scenes Art Deco access day: a 90-minute interactive look beyond the Paramount's auditorium, one of Ryan's proven local wins."
     },
     {
       "all_day": false,
-      "city": "Berkeley",
-      "ends_at": "2026-12-06T13:00:00-08:00",
-      "id": "evt_f124257e99971da5",
-      "last_verified_at": "2026-11-22T14:11:57Z",
+      "city": "Oakland",
+      "ends_at": "2026-12-06T14:00:00-08:00",
+      "id": "evt_822a56e742f17735",
+      "last_verified_at": "2026-11-23T14:06:13Z",
       "neighborhood": null,
-      "official_url": "https://berkeleypaths.org/upcoming-events/2026/12/6/rose-garden-to-vollmer-peak",
-      "price_note": null,
-      "radar": true,
-      "source_name": "Berkeley Path Wanderers Association",
-      "starts_at": "2026-12-06T08:30:00-08:00",
+      "official_url": "https://museumca.org/event/omca-architecture-walk-and-talk-6/2026-12-06/",
+      "price_note": "Free; no reservation required",
+      "radar": false,
+      "source_name": "Oakland Museum of California",
+      "starts_at": "2026-12-06T13:00:00-08:00",
       "tags": [
-        "urban hike",
-        "stairs",
-        "Bay views",
-        "outdoors"
+        "architecture",
+        "guided-walk",
+        "Oakland-history",
+        "free"
       ],
-      "title": "From the Rose Garden to Vollmer Peak",
-      "why": "A properly local way to earn a ridge view: five Berkeley stairways, Tilden trails, 1,600 feet of climbing, and a snack stop on Vollmer Peak."
+      "title": "OMCA Architecture Walk and Talk",
+      "why": "A free guided close read of Oakland's landmark museum and gardens with architecture specialists—small-scale civic archaeology, not a museum churn-and-burn."
     },
     {
       "all_day": false,
       "city": "Berkeley",
       "ends_at": "2026-12-12T20:30:00-08:00",
       "id": "evt_dd5f7bae6c3afb3d",
-      "last_verified_at": "2026-11-22T14:11:57Z",
+      "last_verified_at": "2026-11-23T14:06:13Z",
       "neighborhood": "UC Berkeley",
       "official_url": "https://dogbotic.com/live-events/2026/10/8/unsilentnight",
       "price_note": null,
@@ -180,16 +139,37 @@
       "source_name": "Dogbotic",
       "starts_at": "2026-12-12T19:00:00-08:00",
       "tags": [
-        "participatory sound",
-        "ambient",
-        "sound art",
-        "media archaeology"
+        "participatory",
+        "sound-art",
+        "media-archaeology",
+        "East Bay"
       ],
       "title": "Unsilent Night 2026",
-      "why": "Bring a phone or boombox and become one moving channel in a four-track campus sound sculpture: a social, low-tech/high-weird portable-speaker parade."
+      "why": "Bring a phone, boombox, or speaker to become one voice in a four-track, roaming ambient sound sculpture across the UC Berkeley campus."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-12-20T14:00:00-08:00",
+      "id": "evt_9ed73e6ba60df802",
+      "last_verified_at": "2026-11-23T14:06:13Z",
+      "neighborhood": null,
+      "official_url": "https://luma.com/757om85p",
+      "price_note": "Suggested donation $10; pay what you want",
+      "radar": true,
+      "source_name": "Gray Area / Luma",
+      "starts_at": "2026-12-20T12:00:00-08:00",
+      "tags": [
+        "cybernetics",
+        "media-archaeology",
+        "book-club",
+        "art-tech"
+      ],
+      "title": "Cybersentics Book Club: Love Testers + Musée Mécanique Tour",
+      "why": "The exact Deliria2-adjacent hit: a Gray Area book club turns obsolete compatibility machines, cybernetics, and dating algorithms into a hands-on museum investigation."
     }
   ],
-  "generated_at": "2026-11-22T14:13:18Z",
+  "generated_at": "2026-11-23T14:07:28Z",
   "schema_version": 1,
   "timezone": "America/Los_Angeles"
 }
