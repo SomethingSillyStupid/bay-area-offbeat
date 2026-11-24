@@ -2,97 +2,78 @@
   "events": [
     {
       "all_day": false,
-      "city": "Novato",
-      "ends_at": "2026-11-24T20:30:00-08:00",
-      "id": "evt_d2c4923a7e670885",
-      "last_verified_at": "2026-11-23T14:06:13Z",
-      "neighborhood": null,
-      "official_url": "https://wonderfest.org/controlled-hallucination/",
-      "price_note": "Free; unticketed",
-      "radar": false,
-      "source_name": "Wonderfest",
-      "starts_at": "2026-11-24T19:00:00-08:00",
-      "tags": [
-        "consciousness",
-        "perception",
-        "science-talk",
-        "free"
-      ],
-      "title": "Experienced Reality as a Controlled Hallucination",
-      "why": "A rare free, plain-language outing on perception, psychedelics, and how brains construct reality, led by UC Berkeley neuroscientist Michael Silver."
-    },
-    {
-      "all_day": false,
       "city": "Oakland",
       "ends_at": null,
-      "id": "evt_51526c914b00ae76",
-      "last_verified_at": "2026-11-23T14:06:13Z",
+      "id": "evt_f1f587fd5ed865c5",
+      "last_verified_at": "2026-11-24T14:06:15Z",
       "neighborhood": "Lake Merritt",
-      "official_url": "https://oaklandyellowjackets.wildapricot.org/",
-      "price_note": "Non-members welcome; liability waiver required",
+      "official_url": "https://oaklandyellowjackets.wildapricot.org/page-18257",
+      "price_note": "Nonmembers need a signed waiver; helmets required.",
       "radar": false,
-      "source_name": "Oakland Yellowjackets",
-      "starts_at": "2026-11-28T09:00:00-08:00",
+      "source_name": "Oakland Yellowjackets Bicycle Club",
+      "starts_at": "2026-11-28T09:15:00-08:00",
       "tags": [
-        "bike-ride",
-        "community",
+        "bike ride",
         "social",
-        "East Bay"
+        "community",
+        "Oakland",
+        "outdoors"
       ],
-      "title": "Decide and Ride",
-      "why": "A genuinely social, all-abilities Oakland bike club ride: nonmembers can join, and the group explicitly rides for safety and camaraderie rather than racing."
+      "title": "Oakland Yellowjackets: Decide and Ride",
+      "why": "A true local social ride rather than a race: riders decide the route at Lake Merritt, then roll together."
     },
     {
       "all_day": false,
       "city": "Oakland",
-      "ends_at": "2026-11-29T21:00:00-08:00",
-      "id": "evt_0b74f4e2623f7084",
-      "last_verified_at": "2026-11-23T14:06:13Z",
-      "neighborhood": null,
-      "official_url": "https://www.eastsideartsalliance.org/calendar/malayabloom",
-      "price_note": "Suggested donation: $10 at the door",
+      "ends_at": "2026-11-29T21:30:00-08:00",
+      "id": "evt_b99be2e3041b4db4",
+      "last_verified_at": "2026-11-24T14:06:15Z",
+      "neighborhood": "West Oakland",
+      "official_url": "https://dresherensemble.org/event/hummingbirdwe-micromanage-infinity/",
+      "price_note": "$20; free for students and financially challenged.",
       "radar": false,
-      "source_name": "EastSide Arts Alliance",
-      "starts_at": "2026-11-29T18:00:00-08:00",
+      "source_name": "Dresher Ensemble Studio",
+      "starts_at": "2026-11-29T19:30:00-08:00",
       "tags": [
-        "documentary",
-        "discussion",
-        "community-arts",
-        "East Bay"
+        "experimental music",
+        "modular synth",
+        "sound art",
+        "West Oakland"
       ],
-      "title": "Bloom Where You Are Planted: Film Screening and Discussion",
-      "why": "An East Oakland documentary screening plus art build and discussion, centered on activists' disrupted ties to home and collective resilience."
+      "title": "Hummingbird / We Micromanage Infinity",
+      "why": "West Oakland's new-music room delivers modular-synth tangles, toy noisemakers and birdcalls beside a piano, drums and reeds trio."
     },
     {
       "all_day": false,
       "city": "Oakland",
       "ends_at": "2026-12-03T21:00:00-08:00",
       "id": "evt_65703dbf93776bb8",
-      "last_verified_at": "2026-11-23T14:06:13Z",
+      "last_verified_at": "2026-11-24T14:06:15Z",
       "neighborhood": null,
       "official_url": "https://www.thingamajigs.org/programs/calendar/2026/12/3/thingamajigs-performance-group-at-the-do-over-series",
-      "price_note": "$10 advance or at the door",
+      "price_note": "$10 advance or at the door.",
       "radar": false,
       "source_name": "Thingamajigs",
       "starts_at": "2026-12-03T19:00:00-08:00",
       "tags": [
-        "experimental-sound",
-        "expanded-cinema",
+        "expanded cinema",
+        "experimental music",
         "electronics",
-        "East Bay"
+        "projection",
+        "Oakland"
       ],
       "title": "Thingamajigs Performance Group at the Do-Over Series",
-      "why": "Oakland's Do-Over pairs live experimental sound with performative 16mm projection; this set adds handmade electronics, glass, shō, and handheld projection."
+      "why": "A small-batch expanded-cinema lab: paracinematic electronics, handheld projection, glass and reeds, and live sound in one room."
     },
     {
       "all_day": false,
       "city": "Oakland",
       "ends_at": null,
       "id": "evt_6b0dfb057b3f39cb",
-      "last_verified_at": "2026-11-23T14:06:13Z",
+      "last_verified_at": "2026-11-24T14:06:15Z",
       "neighborhood": null,
       "official_url": "https://www.paramountoakland.org/tours",
-      "price_note": "$10 adults; $5 youth; pay at entrance",
+      "price_note": "$10 adults; $5 youth ages 8–17; cards, Apple Pay, and Google Pay only.",
       "radar": false,
       "source_name": "Paramount Theatre",
       "starts_at": "2026-12-05T10:00:00-08:00",
@@ -100,38 +81,62 @@
         "architecture",
         "Art Deco",
         "tour",
-        "East Bay"
+        "history",
+        "Oakland"
       ],
       "title": "Paramount Theatre Public Tour",
-      "why": "A proper behind-the-scenes Art Deco access day: a 90-minute interactive look beyond the Paramount's auditorium, one of Ryan's proven local wins."
+      "why": "A 90-minute interactive civic backstage pass inside Oakland's lavish Art Deco landmark."
     },
     {
       "all_day": false,
       "city": "Oakland",
-      "ends_at": "2026-12-06T14:00:00-08:00",
-      "id": "evt_822a56e742f17735",
-      "last_verified_at": "2026-11-23T14:06:13Z",
+      "ends_at": "2026-12-05T17:00:00-08:00",
+      "id": "evt_8cda26f08a4a2e4c",
+      "last_verified_at": "2026-11-24T14:06:15Z",
       "neighborhood": null,
-      "official_url": "https://museumca.org/event/omca-architecture-walk-and-talk-6/2026-12-06/",
-      "price_note": "Free; no reservation required",
+      "official_url": "https://www.eastsideartsalliance.org/calendar/holiday-art-book-fair",
+      "price_note": "Free community event.",
       "radar": false,
-      "source_name": "Oakland Museum of California",
-      "starts_at": "2026-12-06T13:00:00-08:00",
+      "source_name": "EastSide Arts Alliance",
+      "starts_at": "2026-12-05T12:00:00-08:00",
       "tags": [
-        "architecture",
-        "guided-walk",
-        "Oakland-history",
-        "free"
+        "books",
+        "community art",
+        "poetry",
+        "free",
+        "Oakland"
       ],
-      "title": "OMCA Architecture Walk and Talk",
-      "why": "A free guided close read of Oakland's landmark museum and gardens with architecture specialists—small-scale civic archaeology, not a museum churn-and-burn."
+      "title": "Holiday Art & Book Fair",
+      "why": "A free, locally rooted art-and-book fair with an open mic, youth poets, live music, vendors, and Bandung Books open."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_cd6c7bc1f4a2d126",
+      "last_verified_at": "2026-11-24T14:06:15Z",
+      "neighborhood": null,
+      "official_url": "https://grayarea.org/event/in-darkness-and-secrecy/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Gray Area",
+      "starts_at": "2026-12-05T16:30:00-08:00",
+      "tags": [
+        "AI theory",
+        "media theory",
+        "speculative technology",
+        "art talk",
+        "San Francisco"
+      ],
+      "title": "In Darkness and Secrecy: The Silent Singularity",
+      "why": "A critical AI-and-first-contact thought experiment tracing hidden intelligence through negative theology, espionage, internet protocols, and the Fermi Paradox."
     },
     {
       "all_day": false,
       "city": "Berkeley",
       "ends_at": "2026-12-12T20:30:00-08:00",
       "id": "evt_dd5f7bae6c3afb3d",
-      "last_verified_at": "2026-11-23T14:06:13Z",
+      "last_verified_at": "2026-11-24T14:06:15Z",
       "neighborhood": "UC Berkeley",
       "official_url": "https://dogbotic.com/live-events/2026/10/8/unsilentnight",
       "price_note": null,
@@ -139,37 +144,39 @@
       "source_name": "Dogbotic",
       "starts_at": "2026-12-12T19:00:00-08:00",
       "tags": [
+        "sound art",
         "participatory",
-        "sound-art",
-        "media-archaeology",
-        "East Bay"
+        "electronic music",
+        "Berkeley",
+        "outdoors"
       ],
       "title": "Unsilent Night 2026",
-      "why": "Bring a phone, boombox, or speaker to become one voice in a four-track, roaming ambient sound sculpture across the UC Berkeley campus."
+      "why": "The crowd turns four synchronized tracks into a drifting mobile sound sculpture; bring a speaker or vintage boombox and walk within it."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": "2026-12-20T14:00:00-08:00",
       "id": "evt_9ed73e6ba60df802",
-      "last_verified_at": "2026-11-23T14:06:13Z",
+      "last_verified_at": "2026-11-24T14:06:15Z",
       "neighborhood": null,
       "official_url": "https://luma.com/757om85p",
-      "price_note": "Suggested donation $10; pay what you want",
+      "price_note": "Suggested donation $10; museum admission is free; bring quarters.",
       "radar": true,
-      "source_name": "Gray Area / Luma",
+      "source_name": "Gray Area / Cybersentics Book Club",
       "starts_at": "2026-12-20T12:00:00-08:00",
       "tags": [
+        "media archaeology",
         "cybernetics",
-        "media-archaeology",
-        "book-club",
-        "art-tech"
+        "participatory",
+        "museum",
+        "San Francisco"
       ],
       "title": "Cybersentics Book Club: Love Testers + Musée Mécanique Tour",
-      "why": "The exact Deliria2-adjacent hit: a Gray Area book club turns obsolete compatibility machines, cybernetics, and dating algorithms into a hands-on museum investigation."
+      "why": "The month's exact Gray Area-shaped outing: cybernetics-and-matchmaking history, a group discussion, then hands-on love-tester machines at the vintage arcade museum."
     }
   ],
-  "generated_at": "2026-11-23T14:07:28Z",
+  "generated_at": "2026-11-24T14:07:39Z",
   "schema_version": 1,
   "timezone": "America/Los_Angeles"
 }
