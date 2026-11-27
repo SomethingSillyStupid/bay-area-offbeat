@@ -3,32 +3,33 @@
     {
       "all_day": false,
       "city": "Oakland",
-      "ends_at": "2026-11-29T21:30:00-08:00",
-      "id": "evt_b99be2e3041b4db4",
-      "last_verified_at": "2026-11-26T14:06:18Z",
-      "neighborhood": "West Oakland",
-      "official_url": "https://dresherensemble.org/event/hummingbirdwe-micromanage-infinity/",
-      "price_note": "$20; free for students and financially challenged people",
+      "ends_at": null,
+      "id": "evt_ea4eac3ca9a60f18",
+      "last_verified_at": "2026-11-27T14:07:05Z",
+      "neighborhood": "Lake Merritt",
+      "official_url": "https://oaklandyellowjackets.wildapricot.org/page-18257",
+      "price_note": "Helmet and signed liability waiver required; no-drop policy does not apply.",
       "radar": false,
-      "source_name": "Paul Dresher Ensemble / West Oakland Sound Series",
-      "starts_at": "2026-11-29T19:30:00-08:00",
+      "source_name": "Oakland Yellowjackets Winter Ride Calendar",
+      "starts_at": "2026-11-28T09:00:00-08:00",
       "tags": [
-        "experimental music",
-        "modular synth",
-        "West Oakland"
+        "community ride",
+        "cycling",
+        "Lake Merritt",
+        "outdoors"
       ],
-      "title": "Hummingbird / We Micromanage Infinity",
-      "why": "A West Oakland Sound Series double bill that pairs modular-synth, software, toy-noisemaker and birdcall chaos with a piano, drums and reeds trio—an unusually unbuttoned local Sunday."
+      "title": "Decide and Ride",
+      "why": "A 30–40-mile off-season ride whose destination is picked together at Lake Merritt: a deliberately loose, community-led alternative to a scripted group ride."
     },
     {
       "all_day": false,
       "city": "Oakland",
       "ends_at": "2026-11-29T21:00:00-08:00",
       "id": "evt_0b74f4e2623f7084",
-      "last_verified_at": "2026-11-26T14:06:18Z",
+      "last_verified_at": "2026-11-27T14:07:05Z",
       "neighborhood": null,
       "official_url": "https://www.eastsideartsalliance.org/calendar/malayabloom",
-      "price_note": "Recommended donation: $10",
+      "price_note": "Recommended $10 donation at the door.",
       "radar": false,
       "source_name": "EastSide Arts Alliance",
       "starts_at": "2026-11-29T18:00:00-08:00",
@@ -36,102 +37,143 @@
         "documentary",
         "discussion",
         "community arts",
-        "East Oakland"
+        "Oakland"
       ],
       "title": "Bloom Where You Are Planted: Film Screening and Discussion",
-      "why": "A small, community-led documentary night with an art activity and post-film conversation—an East Oakland room for a deeper Sunday rather than holiday retail noise."
+      "why": "A Deep East Oakland film-and-discussion night, with an art activity first, about activists’ disrupted routes home and collective resilience."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-29T21:30:00-08:00",
+      "id": "evt_b99be2e3041b4db4",
+      "last_verified_at": "2026-11-27T14:07:05Z",
+      "neighborhood": "West Oakland",
+      "official_url": "https://dresherensemble.org/event/hummingbirdwe-micromanage-infinity/",
+      "price_note": "$20; free for students and financially challenged.",
+      "radar": false,
+      "source_name": "Dresher Ensemble Studio",
+      "starts_at": "2026-11-29T19:30:00-08:00",
+      "tags": [
+        "experimental sound",
+        "modular synth",
+        "new music",
+        "West Oakland"
+      ],
+      "title": "Hummingbird / We Micromanage Infinity",
+      "why": "Modular synth tangles, software, toy noisemakers and birdcalls collide with a piano/drums/reeds trio in a very West Oakland kind of Sunday night."
     },
     {
       "all_day": false,
       "city": "Oakland",
       "ends_at": "2026-12-03T21:00:00-08:00",
       "id": "evt_65703dbf93776bb8",
-      "last_verified_at": "2026-11-26T14:06:18Z",
+      "last_verified_at": "2026-11-27T14:07:05Z",
       "neighborhood": null,
       "official_url": "https://www.thingamajigs.org/programs/calendar/2026/12/3/thingamajigs-performance-group-at-the-do-over-series",
-      "price_note": "$10 advance or at the door",
+      "price_note": "$10 advance or at the door.",
       "radar": false,
-      "source_name": "Thingamajigs / Shapeshifters Cinema",
+      "source_name": "Thingamajigs",
       "starts_at": "2026-12-03T19:00:00-08:00",
       "tags": [
         "expanded cinema",
-        "improvised music",
-        "experimental film",
+        "live electronics",
+        "experimental sound",
         "Oakland"
       ],
       "title": "Thingamajigs Performance Group at the Do-Over Series",
-      "why": "The Do-Over pairs solo saxophone with Thingamajigs’ expanded cinema, improvised music, handmade electronics, glass, shō and handheld projection—right in the Deliria-adjacent zone."
+      "why": "Live electronics, handheld and performative 16mm projection, glass, shō and electric guitar make this an unusually direct sound-and-image encounter."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": "2026-12-04T21:00:00-08:00",
       "id": "evt_7096404fd5da955c",
-      "last_verified_at": "2026-11-26T14:06:18Z",
+      "last_verified_at": "2026-11-27T14:07:05Z",
       "neighborhood": "Mission District",
       "official_url": "https://www.thelab.org/projects/2026/12/4/ff-in-sf-a-celebration-of-50-years-of-free-expression-with-franklin-furnace",
-      "price_note": "Free; RSVP optional",
+      "price_note": "Free; no RSVP required.",
       "radar": false,
       "source_name": "The Lab",
       "starts_at": "2026-12-04T19:00:00-08:00",
       "tags": [
-        "artist books",
-        "alternative spaces",
         "performance",
+        "book arts",
+        "alternative art",
         "free"
       ],
       "title": "FF in SF: A Celebration of 50 Years of Free Expression with Franklin Furnace",
-      "why": "A free live tether between independent publishing, artist books, a reading and performance: Martha Wilson and SFMOMA Library director David Senior survey Franklin Furnace’s 50-year run."
+      "why": "A free book talk, signing and live performance saluting Franklin Furnace’s fifty years of alternative art infrastructure—compact media-art history in a room."
     },
     {
       "all_day": false,
       "city": "Oakland",
-      "ends_at": "2026-12-05T11:30:00-08:00",
+      "ends_at": null,
       "id": "evt_6b0dfb057b3f39cb",
-      "last_verified_at": "2026-11-26T14:06:18Z",
-      "neighborhood": null,
+      "last_verified_at": "2026-11-27T14:07:05Z",
+      "neighborhood": "Uptown",
       "official_url": "https://www.paramountoakland.org/tours",
-      "price_note": "$10 adults; $5 ages 8–17",
+      "price_note": "$10 adults; $5 youth; paid at entrance.",
       "radar": false,
       "source_name": "Paramount Theatre Oakland",
       "starts_at": "2026-12-05T10:00:00-08:00",
       "tags": [
         "Art Deco",
         "architecture",
-        "history",
-        "tour"
+        "historic tour",
+        "Oakland"
       ],
       "title": "Paramount Theatre Public Tour",
-      "why": "Guided 90-minute Art Deco theatre access—an easy way to revisit the building details and local history that made the previous Paramount tour a winner."
+      "why": "A 90-minute inside look at Oakland’s Art Deco palace, including the craftsmanship and spaces invisible from a regular seat."
     },
     {
       "all_day": false,
-      "city": "Oakland",
-      "ends_at": "2026-12-05T17:00:00-08:00",
-      "id": "evt_8cda26f08a4a2e4c",
-      "last_verified_at": "2026-11-26T14:06:18Z",
+      "city": "Berkeley",
+      "ends_at": "2026-12-06T13:00:00-08:00",
+      "id": "evt_f124257e99971da5",
+      "last_verified_at": "2026-11-27T14:07:05Z",
       "neighborhood": null,
-      "official_url": "https://www.eastsideartsalliance.org/calendar/holiday-art-book-fair",
-      "price_note": "Free community event",
+      "official_url": "https://berkeleypaths.org/upcoming-events/2026/12/6/rose-garden-to-vollmer-peak",
+      "price_note": null,
       "radar": false,
-      "source_name": "EastSide Arts Alliance",
-      "starts_at": "2026-12-05T12:00:00-08:00",
+      "source_name": "Berkeley Path Wanderers Association",
+      "starts_at": "2026-12-06T08:30:00-08:00",
       "tags": [
-        "independent arts",
-        "books",
-        "poetry",
-        "community",
-        "free"
+        "hike",
+        "Berkeley paths",
+        "outdoors",
+        "stairs"
       ],
-      "title": "Holiday Art & Book Fair",
-      "why": "A real East Oakland community hang rather than a generic craft fair: local makers, books, poetry, youth voices, DJs, live music and an open mic in one room."
+      "title": "From the Rose Garden to Vollmer Peak",
+      "why": "An 8-mile, 1,600-foot climb linking Berkeley sidewalks and five stairways to Tilden trails and a Vollmer Peak view."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-12-10T21:00:00-08:00",
+      "id": "evt_0a2ca77563478d52",
+      "last_verified_at": "2026-11-27T14:07:05Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/12/10/flaming-creatures-the-films-of-jack-smith",
+      "price_note": "$15; free or discounted for members.",
+      "radar": true,
+      "source_name": "The Lab",
+      "starts_at": "2026-12-10T19:00:00-08:00",
+      "tags": [
+        "experimental film",
+        "underground film",
+        "16mm",
+        "counterculture"
+      ],
+      "title": "Flaming Creatures: The Films of Jack Smith",
+      "why": "A 16mm underground-cinema program around Jack Smith’s glittery, unruly work—collaged performance, censorship history and still-unassimilated weirdness."
     },
     {
       "all_day": false,
       "city": "Berkeley",
       "ends_at": "2026-12-12T20:30:00-08:00",
       "id": "evt_dd5f7bae6c3afb3d",
-      "last_verified_at": "2026-11-26T14:06:18Z",
+      "last_verified_at": "2026-11-27T14:07:05Z",
       "neighborhood": "UC Berkeley",
       "official_url": "https://dogbotic.com/live-events/2026/10/8/unsilentnight",
       "price_note": null,
@@ -140,36 +182,36 @@
       "starts_at": "2026-12-12T19:00:00-08:00",
       "tags": [
         "participatory art",
-        "sound art",
-        "boombox",
-        "Berkeley"
+        "sound walk",
+        "ambient",
+        "DIY sound"
       ],
       "title": "Unsilent Night 2026",
-      "why": "A participatory sound sculpture in which everyone carries one of four tracks on a phone or boombox; campus acoustics turn the walk into a roaming multichannel composition."
+      "why": "Bring a charged portable speaker or boombox and become one voice in a mobile four-track ambient chorus across the UC Berkeley campus."
     },
     {
       "all_day": false,
       "city": "San Francisco",
       "ends_at": "2026-12-20T14:00:00-08:00",
       "id": "evt_9ed73e6ba60df802",
-      "last_verified_at": "2026-11-26T14:06:18Z",
+      "last_verified_at": "2026-11-27T14:07:05Z",
       "neighborhood": null,
       "official_url": "https://luma.com/757om85p",
-      "price_note": "Pay what you want; $10 suggested; museum admission is free; bring quarters",
+      "price_note": "Suggested $10 donation; pay what you want.",
       "radar": true,
       "source_name": "Gray Area / Cybersentics Book Club",
       "starts_at": "2026-12-20T12:00:00-08:00",
       "tags": [
         "cybernetics",
         "media archaeology",
-        "art and technology",
+        "book club",
         "participatory"
       ],
       "title": "Cybersentics Book Club: Love Testers + Musée Mécanique Tour",
-      "why": "Gray Area’s best current direct match: a critical reading on early love-testing machines, then hands-on testing and reflection inside the Musée Mécanique—a compact history of sensing, spectacle and algorithms."
+      "why": "Gray Area’s exact art-tech/media-archaeology sweet spot: test century-old love machines and unpack their algorithmic descendants."
     }
   ],
-  "generated_at": "2026-11-26T14:08:21Z",
+  "generated_at": "2026-11-27T14:08:39Z",
   "schema_version": 1,
   "timezone": "America/Los_Angeles"
 }
