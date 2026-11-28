@@ -1,0 +1,153 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-11-29T21:30:00-08:00",
+      "id": "evt_b99be2e3041b4db4",
+      "last_verified_at": "2026-11-28T14:05:37Z",
+      "neighborhood": "West Oakland",
+      "official_url": "https://dresherensemble.org/event/hummingbirdwe-micromanage-infinity/",
+      "price_note": "$20; free for students and financially challenged attendees",
+      "radar": false,
+      "source_name": "Paul Dresher Ensemble",
+      "starts_at": "2026-11-29T19:30:00-08:00",
+      "tags": [
+        "experimental sound",
+        "modular synth",
+        "West Oakland"
+      ],
+      "title": "Hummingbird / We Micromanage Infinity",
+      "why": "West Oakland's small new-music room gets a very particular live collision: modular synths, software, toy noisemakers, birdcalls, piano, reeds, and drums."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": "2026-12-03T21:00:00-08:00",
+      "id": "evt_1b49457200574015",
+      "last_verified_at": "2026-11-28T14:05:37Z",
+      "neighborhood": null,
+      "official_url": "https://www.shapeshifterscinema.com/",
+      "price_note": "$10; member discount available",
+      "radar": false,
+      "source_name": "Shapeshifters Cinema",
+      "starts_at": "2026-12-03T19:00:00-08:00",
+      "tags": [
+        "expanded cinema",
+        "improvised music",
+        "16mm",
+        "Oakland"
+      ],
+      "title": "Do-Over Music Series: Weeks / Thingamajigs",
+      "why": "The second set turns Shapeshifters' 16mm archive into live expanded cinema, pairing projected loops with improvised electronics, handmade apparatus, glass, sho, and guitar."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": null,
+      "id": "evt_cd6c7bc1f4a2d126",
+      "last_verified_at": "2026-11-28T14:05:37Z",
+      "neighborhood": null,
+      "official_url": "https://grayarea.org/event/in-darkness-and-secrecy/",
+      "price_note": null,
+      "radar": false,
+      "source_name": "Gray Area",
+      "starts_at": "2026-12-05T16:30:00-08:00",
+      "tags": [
+        "AI culture",
+        "media theory",
+        "critical technology",
+        "Gray Area"
+      ],
+      "title": "In Darkness and Secrecy: The Silent Singularity",
+      "why": "A rare critical-tech evening rather than startup chatter: media theorist Bogna Konior traces AI, espionage, negative theology, and the Fermi Paradox, followed by a conversation."
+    },
+    {
+      "all_day": false,
+      "city": "Oakland",
+      "ends_at": null,
+      "id": "evt_86b07fe60a677efb",
+      "last_verified_at": "2026-11-28T14:05:37Z",
+      "neighborhood": null,
+      "official_url": "https://www.paramountoakland.org/history/tours",
+      "price_note": "$10 adults; $5 youth ages 8-17; ages 7 and under free",
+      "radar": false,
+      "source_name": "Paramount Theatre",
+      "starts_at": "2026-12-05T10:00:00-08:00",
+      "tags": [
+        "architecture",
+        "Art Deco",
+        "behind the scenes",
+        "Oakland history"
+      ],
+      "title": "Paramount Theatre Public Tour",
+      "why": "The public tour is a direct hit: 90 minutes inside Oakland's art-deco movie palace, with its history, craftsmanship, and spaces normally hidden by the curtain."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-12-04T21:00:00-08:00",
+      "id": "evt_7096404fd5da955c",
+      "last_verified_at": "2026-11-28T14:05:37Z",
+      "neighborhood": "Mission District",
+      "official_url": "https://www.thelab.org/projects/2026/12/4/ff-in-sf-a-celebration-of-50-years-of-free-expression-with-franklin-furnace",
+      "price_note": "Free; no RSVP required",
+      "radar": false,
+      "source_name": "The Lab",
+      "starts_at": "2026-12-04T19:00:00-08:00",
+      "tags": [
+        "artists books",
+        "performance",
+        "free",
+        "media history"
+      ],
+      "title": "FF in SF: A Celebration of 50 Years of Free Expression with Franklin Furnace",
+      "why": "A free, convivial hinge between artists' books and performance: Franklin Furnace's 50th gets a book talk, signing, archive-minded context, and a live set at The Lab."
+    },
+    {
+      "all_day": false,
+      "city": "Berkeley",
+      "ends_at": "2026-12-12T20:30:00-08:00",
+      "id": "evt_dd5f7bae6c3afb3d",
+      "last_verified_at": "2026-11-28T14:05:37Z",
+      "neighborhood": "UC Berkeley campus",
+      "official_url": "https://dogbotic.com/live-events/2026/10/8/unsilentnight",
+      "price_note": null,
+      "radar": true,
+      "source_name": "Dogbotic",
+      "starts_at": "2026-12-12T19:00:00-08:00",
+      "tags": [
+        "participatory sound",
+        "sound sculpture",
+        "DIY media",
+        "outdoor"
+      ],
+      "title": "Unsilent Night 2026",
+      "why": "Bring a phone, boombox, or portable speaker and become one track in a four-channel walking sound sculpture across campus: an analog-tech public orchestra."
+    },
+    {
+      "all_day": false,
+      "city": "San Francisco",
+      "ends_at": "2026-12-20T14:00:00-08:00",
+      "id": "evt_9ed73e6ba60df802",
+      "last_verified_at": "2026-11-28T14:05:37Z",
+      "neighborhood": "Pier 45",
+      "official_url": "https://luma.com/757om85p",
+      "price_note": "Pay what you want; $10 suggested donation; museum admission free; bring quarters",
+      "radar": true,
+      "source_name": "Gray Area Cybersentics Book Club",
+      "starts_at": "2026-12-20T12:00:00-08:00",
+      "tags": [
+        "cybernetics",
+        "media archaeology",
+        "participatory",
+        "Gray Area"
+      ],
+      "title": "Cybersentics Book Club: Love Testers + Musée Mécanique Tour",
+      "why": "The most direct Deliria2-adjacent choice: a hands-on look at pre-dating-app compatibility machines, plus a conversation about their algorithms, biases, and sensorium."
+    }
+  ],
+  "generated_at": "2026-11-28T14:06:38Z",
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles"
+}
